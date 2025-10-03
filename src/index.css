@@ -1,0 +1,568 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* XD Trading Green Theme */
+  --primary-green: #00FF88;
+  --secondary-green: #00CC6A;
+  --dark-green: #051008;
+  --accent-green: #39FF14;
+  --light-green: #E5FFE5;
+  
+  /* VIP Signals Red Theme */
+  --primary-red: #FF0040;
+  --secondary-red: #CC0033;
+  --dark-red: #1A0A0F;
+  --accent-red: #FF1744;
+  --light-red: #FFE5E5;
+  
+  /* Legacy blue colors for compatibility */
+  --primary-blue: #00FF88;
+  --secondary-blue: #00CC6A;
+  --dark-blue: #0A1931;
+  --accent-yellow: #39FF14;
+  --light-blue: #E5FFE5;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: white;
+  background-color: var(--dark-green);
+  margin: 0;
+  padding: 0;
+}
+
+.gradient-bg {
+  background: linear-gradient(to bottom, var(--dark-green), #000000);
+}
+.gradient-bg2 {
+  background: linear-gradient(to top, var(--dark-green), #000000);
+}
+
+.city-skyline {
+  background-image: url('/src/assets/city-skyline.png');
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.section-heading {
+  @apply text-4xl md:text-5xl font-bold text-center mb-4;
+}
+
+.section-subheading {
+  @apply text-lg md:text-xl text-center text-gray-300 mb-12 max-w-3xl mx-auto;
+}
+
+.blue-text {
+  color: var(--primary-blue);
+}
+
+/* XD Trading Green Buttons */
+.green-button {
+  background: linear-gradient(135deg, var(--primary-green), var(--secondary-green));
+  @apply text-black font-medium py-3 px-6 rounded-md transition-all duration-300 hover:shadow-lg hover:shadow-green-500/25;
+}
+
+.green-button:hover {
+  background: linear-gradient(135deg, var(--accent-green), var(--primary-green));
+  transform: translateY(-2px);
+}
+
+/* VIP Signals Red Buttons */
+.red-button {
+  background: linear-gradient(135deg, var(--primary-red), var(--secondary-red));
+  @apply text-white font-medium py-3 px-6 rounded-md transition-all duration-300 hover:shadow-lg hover:shadow-red-500/25;
+}
+
+.red-button:hover {
+  background: linear-gradient(135deg, var(--accent-red), var(--primary-red));
+  transform: translateY(-2px);
+}
+
+/* Legacy buttons updated with green theme */
+.blue-button {
+  background: linear-gradient(135deg, var(--primary-green), var(--secondary-green));
+  @apply text-black font-medium py-3 px-6 rounded-md transition-all duration-300 hover:shadow-lg hover:shadow-green-500/25;
+}
+
+.blue-button:hover {
+  background: linear-gradient(135deg, var(--accent-green), var(--primary-green));
+  transform: translateY(-2px);
+}
+
+.white-button {
+  @apply bg-transparent hover:bg-green-500/10 text-white border border-green-500 font-medium py-3 px-6 rounded-md transition-all duration-300;
+}
+
+.outline-button {
+  @apply bg-transparent hover:bg-green-600/10 gradient-text-green border border-green-500 font-medium py-3 px-6 rounded-md transition-all duration-300;
+}
+
+.section-container {
+  @apply max-w-7xl mx-auto px-4 py-16 md:py-24;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.5s ease-out forwards;
+}
+
+/* Red scrollbar for VIP Signals page - HIGH PRIORITY */
+html body.vip-page ::-webkit-scrollbar-track {
+  background: var(--dark-red) !important;
+}
+
+html body.vip-page ::-webkit-scrollbar-thumb {
+  background: var(--primary-red) !important;
+  border-radius: 4px;
+}
+
+html body.vip-page ::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary-red) !important;
+}
+
+
+
+/* Custom scrollbar - DEFAULT */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--dark-green);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary-green);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary-green);
+}
+
+/* Custom tab styles */
+.tab-list {
+  @apply flex flex-wrap justify-center gap-2 md:gap-4 mb-10;
+}
+.tab-btn {
+  @apply px-6 py-3 rounded-full font-medium transition-all duration-300 flex items-center justify-center;
+  background: #1f2532;
+  color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.tab-btn.active {
+  background-image: radial-gradient(50% 1188.28% at 50% 50%, #e0e0e0 0, #bbb 100%);
+  color: rgb(22 29 47);
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.04);
+  transition: background 0.4s cubic-bezier(0.4,0,0.2,1), color 0.4s cubic-bezier(0.4,0,0.2,1);
+}
+.tab-btn:not(.active) {
+  background: #1f2532;
+  color: #fff;
+  transition: background 0.4s cubic-bezier(0.4,0,0.2,1), color 0.4s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* Tab content animation */
+.tab-content {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeInTab 0.6s cubic-bezier(0.4,0,0.2,1) forwards;
+}
+@keyframes fadeInTab {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive grid for feature cards */
+.product-feature-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+@media (min-width: 768px) {
+  .product-feature-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .md\:w-32 {
+    width: 15rem;
+  }
+}
+.product-feature-card {
+  border: 1px solid var(--primary-green);
+  border-radius: 0.75rem;
+  background: transparent;
+  padding: 1.5rem;
+  transition: box-shadow 0.3s;
+  box-shadow: 0 2px 8px 0 rgba(0,255,136,0.1);
+}
+.product-feature-card h3 {
+  color: var(--primary-green);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.product-feature-card p {
+  color: #cbd5e1;
+}
+
+/* Gradient text utilities */
+.gradient-text-blue {
+  background-image: linear-gradient(88.9deg, var(--primary-green) 33.43%, var(--accent-green) 103.55%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.gradient-text-green {
+  background-image: linear-gradient(88.9deg, var(--primary-green) 33.43%, var(--accent-green) 103.55%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.gradient-text-red {
+  background-image: linear-gradient(88.9deg, var(--primary-red) 33.43%, var(--accent-red) 103.55%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Custom styles for react-phone-input-2 to match other input fields */
+.react-tel-input .form-control {
+  width: 100%;
+  padding: 0.75rem 0.75rem 0.75rem 3.2rem;
+  border-radius: 0.375rem;
+  background: rgba(55, 65, 81, 0.6); /* bg-gray-700/60 */
+  color: #fff;
+  border: none;
+  font-size: 1rem;
+  font-family: inherit;
+  transition: box-shadow 0.2s, border-color 0.2s;
+  box-shadow: none;
+  height: 48px;
+}
+.react-tel-input .form-control:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--primary-green); /* focus:ring-2 focus:ring-green-500 */
+  background: rgba(55, 65, 81, 0.7);
+}
+.react-tel-input .flag-dropdown {
+  background: rgba(55, 65, 81, 0.6);
+  border: none;
+  border-radius: 0.375rem 0 0 0.375rem;
+}
+.react-tel-input .selected-flag {
+  border-radius: 0.375rem 0 0 0.375rem;
+}
+.react-tel-input .country-list {
+  background: #1f2937; /* bg-gray-800 */
+  color: #fff;
+  border-radius: 0.375rem;
+}
+.react-tel-input .country-list .country.highlight {
+  background: var(--primary-green);
+  color: #000;
+}
+.react-tel-input .country-list .country {
+  color: #fff;
+}
+
+.react-tel-input .country-list .search {
+  background-color: #0b1120;
+}
+.react-tel-input .country-list .search-box  {
+  background: transparent;
+  border: none;
+}
+.react-tel-input .country-list .country:hover {
+  background: transparent !important;
+}
+
+.bg-radial {
+  background-image: radial-gradient(53.28% 46.13% at 53.28% 57.78%, #0f2515 0, #060b0a 100%);
+}
+
+.advantage-box:hover {
+  background-image: linear-gradient(180deg, #fff, #c4ccdd);
+}
+
+.advantage-box:hover p {
+  color: rgba(22, 29, 47, 1);
+}
+
+.w-24 {
+  width: 12rem;
+}
+
+.gradient-bg-awards {
+  background: linear-gradient(to top, var(--dark-green), #000000);
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.button-gradient-blue {
+  background-image: linear-gradient(90deg, #467bff 0%, #75d9d9 100%);
+  border: none;
+  color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.button-gradient-blue:hover {
+  background-image: linear-gradient(90deg, #75d9d9 0%, #467bff 100%);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+.ecn-card-pattern {
+  background-image: radial-gradient(circle at 100% 150%, var(--primary-blue) 0%, transparent 60%),
+                  radial-gradient(circle at 0% 150%, var(--primary-blue) 0%, transparent 60%);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.group:hover .ecn-card-pattern {
+  opacity: 0.1;
+}
+
+@keyframes award-box-gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.award-box-animated-bg {
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.award-box-animated-bg::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(60deg, var(--dark-green), var(--secondary-green), var(--dark-green), var(--secondary-green), var(--dark-green));
+  background-size: 300% 300%;
+  animation: award-box-gradient-animation 10s ease infinite;
+  z-index: -1;
+  opacity: 0.7;
+}
+
+/* Animated Awards Section Styles */
+@keyframes scroll-rtl {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll-ltr {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.award-row-animated {
+  animation-duration: 60s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  will-change: transform;
+}
+
+.scroll-rtl {
+  animation-name: scroll-rtl;
+}
+
+.scroll-ltr {
+  animation-name: scroll-ltr;
+}
+
+/* --- Start of Animated Border Styles --- */
+
+/* Pagination Item Base Styling */
+.pagination-item-animated-border {
+  position: relative;
+  overflow: hidden; /* Essential for containing the animating pseudo-element */
+  box-sizing: border-box;
+  border-radius: 0.75rem; /* Match button's border-radius */
+  background-color: #1f2532; /* Solid background color */
+  padding: 0.2rem; /* Add padding to create space for the border */
+}
+
+/* Keyframes for the sweeping conic gradient border animation */
+@keyframes rotate-conic-gradient {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* The animating gradient border on active pagination item */
+.pagination-item-animated-border.active {
+  border-color: goldenrod; /* Fallback or background border */
+  position: relative; /* Establish positioning context for pseudo-element */
+}
+
+.pagination-item-animated-border.active::before {
+  content: '';
+  position: absolute;
+  inset: -2px; /* Covers the border area */
+  border-radius: inherit; /* Inherit border-radius from parent */
+  z-index: 0; /* Place behind the content */
+  pointer-events: none; /* Allow clicks to pass through */
+  
+  /* The conic gradient background that will be animated */
+  background-image: conic-gradient(
+    from 0deg at 50% 50%,
+    transparent 0%,
+    transparent 20%,
+    var(--primary-green) 30%,
+    var(--accent-green) 40%,
+    var(--primary-green) 50%,
+    transparent 60%,
+    transparent 100%
+  );
+  background-size: 100% 100%;
+  animation: rotate-conic-gradient 6s linear infinite; /* Match slider duration */
+
+  /* Mask to create the border effect */
+  mask-image: 
+    linear-gradient(#fff, #fff) content-box,
+    linear-gradient(#fff, #fff);
+  mask-composite: exclude; /* Exclude the inner part */
+  mask-size: calc(100% - 4px) calc(100% - 4px), 100% 100%; /* Creates a 2px border mask */
+  mask-position: center, center;
+  mask-repeat: no-repeat;
+  -webkit-mask-composite: exclude; /* For Webkit browsers */
+}
+
+/* Ensure content stays above the animation */
+.pagination-item-animated-border > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Style for images inside pagination boxes */
+.pagination-item-animated-border img {
+  background: rgb(16 24 40);
+  padding: 5px;
+  border-radius: 0.75rem;
+}
+
+/* --- End of Animated Border Styles --- */
+
+/* VIP Signals Page Specific Styles */
+.vip-page-bg {
+  background: linear-gradient(135deg, rgba(255, 0, 64, 0.1) 0%, rgba(0, 0, 0, 0.3) 100%);
+  border: 1px solid var(--primary-red);
+  box-shadow: 0 0 30px rgba(255, 0, 64, 0.2);
+}
+
+.green-page-bg {
+  background: linear-gradient(135deg, rgba(34, 197, 94, 0.1) 0%, rgba(0, 0, 0, 0.3) 100%);
+  border: 1px solid var(--primary-green);
+  box-shadow: 0 0 30px rgba(34, 197, 94, 0.2);
+}
+
+.vip-gradient-text {
+  background-image: linear-gradient(88.9deg, var(--primary-red) 33.43%, var(--accent-red) 103.55%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.vip-feature-card {
+  border: 1px solid var(--primary-red);
+  border-radius: 0.75rem;
+  background: rgba(255, 0, 64, 0.05);
+  padding: 1.5rem;
+  transition: all 0.3s;
+  box-shadow: 0 2px 8px 0 rgba(255, 0, 64, 0.1);
+}
+
+.vip-feature-card:hover {
+  box-shadow: 0 8px 25px 0 rgba(255, 0, 64, 0.2);
+  transform: translateY(-5px);
+}
+
+.vip-feature-card h3 {
+  color: var(--primary-red);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+/* XD Trading specific classes */
+.xd-success-gradient {
+  background: linear-gradient(135deg, var(--primary-green), var(--accent-green));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.xd-card-hover {
+  transition: all 0.3s ease;
+}
+
+.xd-card-hover:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 255, 136, 0.15);
+}
+
+/* VIP Tab Styling */
+.vip-tab {
+  background: linear-gradient(135deg, var(--primary-red), var(--secondary-red)) !important;
+  color: white !important;
+  border: 1px solid var(--accent-red);
+  box-shadow: 0 0 15px rgba(255, 0, 64, 0.3);
+}
+
+.vip-tab:hover {
+  box-shadow: 0 0 25px rgba(255, 0, 64, 0.5);
+  transform: translateY(-2px);
+}
+
+.vip-tab.active {
+  background: linear-gradient(135deg, var(--accent-red), var(--primary-red)) !important;
+  box-shadow: 0 0 30px rgba(255, 0, 64, 0.6);
+}

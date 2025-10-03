@@ -1,0 +1,2059 @@
+import React from 'react';
+
+const AGB: React.FC = () => {
+  return (
+    <div className="min-h-screen bg-gray-900 text-white py-12">
+      <div className="max-w-4xl mx-auto px-4">
+        <h1 className="text-3xl font-bold mb-8">RISIKOOFFENLEGUNGSERKLÄRUNG,<br/>
+        ELEKTRONISCHE HANDELSBEDINGUNGEN<br/>
+        UND KUNDENVEREINBARUNG</h1>
+        <h2 className="text-2xl font-semibold mb-4">MEX ATLANTIC CORPORATION</h2>
+        <p className="text-gray-300 mb-2">Firmennummer 354945</p>
+        <p className="text-gray-300 mb-8">Herausgegeben am 15. Juni 2023</p>
+
+        <div className="prose prose-invert max-w-none">
+          <h2 className="text-2xl font-semibold mb-4">RISIKOOFFENLEGUNGSERKLÄRUNG</h2>
+          <p className="text-gray-300 mb-4">
+            Diese Mitteilung wird Ihnen (dem "Kunden" oder "Ihnen") zur Verfügung gestellt, weil Sie erwägen, mit der MEX Atlantic
+            Corporation ("MEX") (nachfolgend "das Unternehmen") Devisenkontrakte, Differenzkontrakte, Einlagen- und
+            Zahlungsprodukte sowie andere Derivatkontrakte ("Transaktionen") entweder auf Margenbasis oder auf andere Weise
+            abzuwickeln.
+          </p>
+          <p className="text-gray-300 mb-4"> 
+            
+Dieser Hinweis kann und wird nicht alle Risiken und sonstigen wesentlichen Aspekte offenlegen oder erklären, die mit der Abwicklung dieser
+Transaktionen verbunden sind. Er soll vielmehr in allgemeiner Form die Art der besonderen Risiken erläutern, die mit der Abwicklung dieser
+Transaktionen verbunden sind, und dem Kunden helfen, Anlageentscheidungen auf einer fundierten Grundlage zu treffen.
+Bevor Sie ein Konto eröffnen, sollten Sie sorgfältig prüfen, ob der Handel mit diesen Transaktionen angesichts Ihrer
+Umstände und Ihrer finanziellen Situation für Sie geeignet ist. Margin-FX und CFDs sind mit unterschiedlichen Risiken
+verbunden. Bei der Entscheidung, ob Sie mit solchen Instrumenten handeln möchten, sollten Sie die folgenden Punkte
+beachten:
+Der Handel mit Margin-FX und CFDs („OTC-Derivate“) birgt ein hohes Risiko. Die Hebelwirkung beim Handel mit OTCDerivaten bedeutet, dass eine geringe anfängliche Marginzahlung potenziell zu hohen Verlusten führen kann, die Ihre
+ursprüngliche Investition übersteigen. Aufgrund der Hebelwirkung von Derivaten kann der Handel mit Margin-FX und
+CFDs auch höhere Risiken bergen als der konventionelle Aktienhandel, der in der Regel nicht hebelfinanziert ist.
+• Eine relativ kleine Marktbewegung kann zu einer proportional viel größeren Bewegung im Wert Ihrer Anlage führen, und
+dies kann sich sowohl gegen Sie als auch gegen Sie auswirken.
+Die meisten OTC-Derivate sind außerbörsliche Derivate. Diese bergen möglicherweise ein höheres Risiko als börsliche Derivate, da
+es keinen Börsenmarkt gibt, auf dem offene Positionen geschlossen werden können – Sie können Ihre Positionen nur bei uns
+eröffnen und schließen. Daher besteht für Sie das unwahrscheinliche Risiko, dass wir unseren Verpflichtungen Ihnen gegenüber
+als Gegenpartei nicht nachkommen können.
+• Ausländische Märkte bergen andere Marktrisiken. Das Gewinn- oder Verlustpotenzial von OTC-Derivaten, die sich auf einen
+ausländischen Markt beziehen oder auf eine Fremdwährung lauten, wird durch Wechselkursschwankungen beeinflusst. Es
+besteht die Möglichkeit, dass Sie Verluste erleiden, wenn sich die Wechselkurse zu Ihrem Nachteil ändern, selbst wenn der Preis
+des Instruments, auf das sich die OTC-Derivate beziehen, unverändert bleibt.
+• Bei Margin-FX und CFDs handelt es sich um Transaktionen mit Eventualverbindlichkeiten, die mit einer Marge belegt sind und von Ihnen
+eine Reihe von Zahlungen auf den Kaufpreis verlangen, anstatt den gesamten Kaufpreis sofort zu bezahlen. Sie können nur in bar
+abgewickelt werden.
+• Sie könnten einen Totalverlust der Margin erleiden, die Sie bei uns hinterlegt haben, um eine Position aufzubauen oder zu halten.
+Wenn sich der Markt gegen Sie entwickelt, müssen Sie möglicherweise kurzfristig erhebliche zusätzliche Margin leisten. Wenn Sie
+dies nicht innerhalb der erforderlichen Zeit tun, kann Ihre Position mit Verlust liquidiert werden, und Sie haften für etwaige
+Verluste.
+• Eine Mitteilung mit der Aufforderung zur Zahlung solcher Beträge gilt als Empfangsbestätigung, auch wenn Sie nicht zu Hause sind oder die von uns
+für Sie hinterlassenen Nachrichten nicht erhalten, sofern die Mitteilungen an die von Ihnen angegebenen Kontaktstellen zugestellt werden.
+• Auch wenn für einen Margin-FX oder -CFD keine Marginzahlung erforderlich ist, kann dennoch unter bestimmten Umständen die
+Verpflichtung bestehen, über den bei Vertragsabschluss gezahlten Betrag hinaus weitere Zahlungen zu leisten.
+• Unter bestimmten Handelsbedingungen kann es schwierig oder unmöglich sein, eine Position zu liquidieren. Dies kann beispielsweise bei
+starken Kursschwankungen der Fall sein, wenn der Kurs innerhalb einer Handelssitzung so stark steigt oder fällt, dass der Handel auf
+dem zugrunde liegenden Markt ausgesetzt oder eingeschränkt wird.
+• Durch die Platzierung einer Stop-Order werden Ihre Verluste nicht unbedingt auf die beabsichtigten Beträge begrenzt, da die Marktbedingungen die
+Ausführung einer solchen Order möglicherweise unmöglich machen, wenn sich der zugrunde liegende Markt direkt durch den festgelegten Preis
+bewegt.
+• Wir werden Ihnen keine persönliche Finanzproduktberatung in Bezug auf Margin FX und CFDs geben und wir werden keine Margin
+FX und CFD-Empfehlungen jeglicher Art abgeben. Wir werden Ihnen lediglich Ratschläge zur Funktionsweise von Margin FX und
+CFDs geben.
+• Es gibt keine Clearingstelle für Margin FX und CFDs und die Performance eines Margin FX und CFD von MEX Atlantic
+Corporation wird nicht von einer Börse oder Clearingstelle „garantiert“.
+• Unsere Insolvenz oder unser Zahlungsausfall kann dazu führen, dass Ihre Positionen ohne Ihre Zustimmung liquidiert oder glattgestellt werden. Da
+alle bei uns hinterlegten Einlagen auf einem oder mehreren getrennten Kundenkonten gehalten werden, unterliegen diese Einlagen unter solchen
+Umständen sämtlichem Rechtsschutz gemäß den geltenden Gesetzen. Nicht realisierte laufende Nettogewinne werden von uns ebenfalls
+treuhänderisch verwaltet (über unsere vertraglichen und behördlichen Anforderungen hinaus) und wären normalerweise in ähnlicher Weise zu
+Ihren Gunsten als wirtschaftlicher Eigentümer geschützt, es sei denn, ein Gericht würde das Treuhandverhältnis in Bezug auf die nicht realisierten
+Nettogewinne nicht aufrechterhalten; in diesem Fall wären Sie in Bezug auf diese nicht realisierten Nettogewinne unser ungesicherter Gläubiger.
+Es ist außerdem zu beachten, dass die Verwahrung Ihrer Gelder auf einem getrennten Kundenkonto keinen absoluten Schutz Ihrer Gelder im Falle
+unserer Insolvenz oder unseres Zahlungsausfalls bietet oder garantiert, wenn auf dem getrennten Kundenkonto ein Defizit vorliegt.
+• Obwohl Sie bei Geschäften mit uns nicht mit Wertpapieren handeln, müssen Sie sich darüber im Klaren sein, dass Sie dennoch den
+geltenden Gesetzen unterliegen können.
+• Die Verpflichtungen Ihnen gegenüber im Rahmen der Kundenvereinbarung und der Margin-FX und CFDs sind ungesicherte Verpflichtungen, was
+bedeutet, dass Sie ein ungesicherter Gläubiger von uns sind.
+MEX Atlantic Corporation wird von der Cayman Islands Monetary Authority mit der Lizenznummer 1811316 reguliert und
+zugelassen. Das Unternehmen firmiert unter dem Handelsnamen MEX Atlantic.
+1. ALLGEMEINE GESCHÄFTSBEDINGUNGEN
+1.1 EINLEITUNG
+Der Kunde möchte gemäß seinen jeweiligen Anweisungen und den in dieser Vereinbarung
+enthaltenen Geschäftsbedingungen mit außerbörslichen Finanzprodukten handeln.
+Diese Geschäftsbedingungen sind Teil der Vereinbarung zwischen MEX Atlantic Corporation (Lizenznummer 1811316)
+(„wir“, „unser“ oder „uns“) und Ihnen, dem Kunden („Sie“ oder „Sie selbst“), die unsere Handelsdienstleistungen und alle
+Transaktionen, die wir mit Ihnen durchführen, regelt.
+Wir werden von der Cayman Islands Monetary Authority mit der Lizenznummer 1811316 reguliert. Die
+Vereinbarung zwischen uns besteht aus den folgenden Dokumenten:
+• Antragsformular;
+• Diese Geschäftsbedingungen; und
+• Alle zusätzlichen Geschäftsbedingungen, die von uns im Zusammenhang mit unserer Geschäftsbeziehung mit Ihnen herausgegeben,
+Ihnen mitgeteilt und von Ihnen akzeptiert werden;
+• Das Marktinformationsblatt, das wir von Zeit zu Zeit veröffentlichen;
+• Diese Dokumente werden als „Vereinbarung“ bezeichnet.
+• Es gibt weitere Materialien, die die Grundlage unserer Geschäftsbeziehung mit Ihnen erläutern. Dazu gehören:
+• Unsere Website, die unsere Handelsplattform enthält
+Bitte lesen Sie diese Vereinbarung sorgfältig durch und holen Sie gegebenenfalls professionellen Rat ein. Verträge, die wir im
+Rahmen dieser Vereinbarung mit Ihnen abschließen, sind rechtsverbindlich und durchsetzbar. Mit Ihrer Unterzeichnung des
+Antragsformulars oder der elektronischen Übermittlung Ihres Antrags auf unserer Website bestätigen Sie, dass Sie die
+Bedingungen dieser Vereinbarung akzeptieren. Wenn wir ein Konto für Sie eröffnen, sind Sie in Ihren Geschäften mit uns an die
+Vereinbarung gebunden.
+1.2 INTERPRETATION
+Bei Konflikten zwischen den Bestimmungen dieser Vereinbarung und den geltenden Gesetzen hat das geltende Recht Vorrang,
+wobei geltende Gesetze in Bezug auf die Bereitstellung von Nachschussforderungen keine Anwendung finden.
+i. Überschriften und Beispiele in dieser Vereinbarung dienen lediglich der Übersichtlichkeit und sind nicht Bestandteil dieser
+Vereinbarung.
+ii. Die Einzahl schließt die Mehrzahl ein, umgekehrt gilt das Gleiche. Die männliche Form schließt die weibliche
+ein.
+iii. Wenn ein Wort oder eine Phrase definiert ist, haben seine anderen grammatikalischen Formen eine entsprechende Bedeutung.
+iv. Ein Verweis auf eine Person schließt juristische Personen, nicht eingetragene Körperschaften, Vereine, Trusts, Partnerschaften, Einzelpersonen
+oder andere Rechtsträger ein, unabhängig davon, ob es sich um eine separate juristische Person handelt oder nicht.
+v. Ein Verweis auf eine Vereinbarung oder ein Dokument (einschließlich eines Verweises auf diese Vereinbarung) bezieht sich auf die
+Vereinbarung oder das Dokument in der geänderten, ergänzten, erneuerten oder ersetzten Fassung, sofern dies nicht durch diese
+Vereinbarung oder die andere Vereinbarung oder das andere Dokument untersagt ist, und schließt die Erwägungsgründe,
+Zeitpläne und Anhänge dieser Vereinbarung oder dieses Dokuments ein.
+Ein Verweis auf eine Partei dieser Vereinbarung oder einer anderen Vereinbarung oder eines anderen Dokuments beinhaltet die
+Rechtsnachfolger, zulässige Stellvertreter und zulässige Zessionare (und gegebenenfalls die gesetzlichen
+Vertreter der Partei).
+vii. Ein Verweis auf ein Gesetz oder eine Gesetzesbestimmung schließt auch deren Änderung oder Neufassung, eine an
+deren Stelle tretende Gesetzesbestimmung sowie eine auf ihrer Grundlage erlassene Verordnung oder
+Rechtsverordnung ein.
+viii. Jeder Verweis auf ein Gesetz schließt Verweise auf eine gesetzliche Änderung oder Neufassung dieses Gesetzes
+oder auf eine Verordnung oder Anordnung ein, die auf der Grundlage dieses Gesetzes (oder einer solchen
+Änderung oder Neufassung) erlassen wurde.
+ix. Alle Angaben zu Tageszeiten beziehen sich auf die Uhrzeit in Tortola, Britische Jungferninseln, sofern nicht
+anders angegeben.
+1.3 WER SIND WIR
+MEX Atlantic Corporation wird von der Cayman Islands Monetary Authority reguliert und ist dazu befugt, Beratung zu
+Finanzprodukten anzubieten, mit Devisenkontrakten und Derivaten zu handeln und einen Markt für diese für Privatund Großkunden zu schaffen.
+MEX Atlantic besitzt die Lizenznummer 1811316. MEX Atlantic Corporation ist im Besitz erfahrener und fähiger Mitarbeiter und wird
+von diesen unterstützt. Außerdem gibt es Investoren, die das Kapital für die Expansion und Unterstützung der Geschäftstätigkeit
+bereitgestellt haben.
+2. ALLGEMEINE INFORMATIONEN
+2.1 AUFTRAGGEBER
+Wir handeln als Auftraggeber und nicht als Ihr Vertreter. Das bedeutet, dass alle Handelsgeschäfte direkt zwischen
+Ihnen und uns abgewickelt werden und wir die Gegenpartei aller Ihrer Handelsgeschäfte sind.
+Sofern wir nichts anderes schriftlich vereinbaren, handeln Sie mit uns als Auftraggeber und nicht als Agent oder
+Vertreter einer anderen Person. Sie dürfen niemandem gestatten, in Ihrem Namen zu handeln, es sei denn, wir
+stimmen zu, dass diese Person (der „Agent“) in Ihrem Namen handeln darf.
+Wir sind berechtigt, uns auf die Anweisungen des Agenten in Bezug auf Ihr Konto zu verlassen. Wir
+können jederzeit eine Bestätigung verlangen, dass der Agent befugt ist, in Ihrem Namen zu handeln,
+wenn wir dies für angemessen halten.
+2.2 KEINE PERSÖNLICHE FINANZBERATUNG
+Wir geben Ihnen keine persönliche oder finanzielle Produktberatung in Bezug auf die Bedingungen
+dieser Vereinbarung oder die Vorteile eines Handels. Wir handeln ausschließlich auf Ausführungsbasis
+und geben Ihnen nur allgemeine Ratschläge. Das bedeutet, dass wir Ihre Ziele, Ihre finanzielle Situation
+oder Ihre Bedürfnisse nicht berücksichtigen. Unter diesen Umständen sollten Sie professionellen Rat
+einholen, um zu prüfen, ob die von uns angebotenen Finanzprodukte unter Berücksichtigung Ihrer Ziele,
+Ihrer finanziellen Situation oder Ihrer Bedürfnisse für Ihre Zwecke geeignet sind.
+2.3 INVESTMENTFORSCHUNG UND ANDERE VERÖFFENTLICHTE INFORMATIONEN
+Wir können Ihnen von Zeit zu Zeit veröffentlichte Research-Berichte und Empfehlungen sowie andere Publikationen
+zusenden. Enthält das Dokument eine Einschränkung hinsichtlich der Person oder Personengruppe, für die es
+bestimmt ist oder an die es verteilt wird, verpflichten Sie sich, das Dokument nicht an diese Person oder
+Personengruppe weiterzugeben. Wir geben keine Zusicherungen hinsichtlich des Zeitpunkts des Eingangs von
+Research-Berichten oder Empfehlungen bei Ihnen ab und können nicht garantieren, dass Sie diese Research-Berichte
+oder Empfehlungen gleichzeitig mit anderen Kunden erhalten. Wir haften nicht für Anlageentscheidungen, die Sie
+ganz oder teilweise auf Grundlage von Anlage-Research-Berichten, Empfehlungen oder anderen Publikationen treffen,
+die wir Ihnen zusenden. Solche veröffentlichten Research-Berichte oder Empfehlungen können in einem oder
+mehreren Bildschirminformationsdiensten erscheinen.
+2.4 ALLE HANDELSGESCHÄFTE ERFOLGEN AUF IHR RISIKO
+Wir können, sind aber nicht verpflichtet:
+a. Um uns von der Eignung eines Handelsgeschäfts für Sie zu überzeugen;
+b. Um den Status von Handelsgeschäften zu überwachen oder Sie darüber zu beraten;
+c. Um Margin Calls durchzuführen oder, sofern gesetzlich nicht vorgeschrieben, offene Positionen zu schließen, auch wenn wir zuvor in
+Bezug auf diesen oder einen anderen Handel einen entsprechenden Rat erteilt oder entsprechende Maßnahmen ergriffen haben.
+2.5 VERTRAUEN AUF IHR EIGENES URTEIL
+Sie müssen die Risiken des Handels mit Margin-FX und CFDs verstehen und sich im Umgang mit uns ausschließlich auf
+Ihr eigenes Urteilsvermögen verlassen. Wir sind Ihnen gegenüber nicht verpflichtet, Ihre Handelsgeschäfte zu
+überwachen, Sie daran zu hindern, über Ihre Möglichkeiten hinaus zu handeln oder Sie anderweitig zu schützen.
+Wir prüfen von Zeit zu Zeit, ob Sie Großkunden oder Privatkunden sind. Wenn Sie die Kriterien für
+die Einstufung als Großkunde erfüllen, können wir Sie als solchen einstufen. Wir sind nicht
+verpflichtet, Sie darüber zu informieren.
+2.6 MARGIN-ANFORDERUNGEN
+Es liegt in Ihrer Verantwortung und Pflicht, die Margen gemäß Klausel 11 strikt zu überwachen und zu zahlen. Bevor
+Sie mit uns handeln, werden wir alle angemessenen Schritte unternehmen, um Ihnen eine klare Erklärung zu Spreads,
+Gebühren, Finanzierung und sonstigen Kosten zu geben, für die Sie haften. Bitte beachten Sie, dass diese Gebühren
+Ihren Nettogewinn (falls vorhanden) beim Handel beeinträchtigen oder Ihre Verluste erhöhen können.
+2.7 UNSER HANDELSDIENST
+Unser Handelsservice ist ein Online-Service. Sie stimmen ausdrücklich dem Erhalt von Dokumenten in elektronischer
+Form per E-Mail, über unsere Website oder auf anderem elektronischen Weg zu. Auf Anfrage senden wir Ihnen das
+Produktinformationsblatt und den Leitfaden zu Finanzdienstleistungen kostenlos in Papierform zu.
+2.8 INTERNETZUGANG
+Sie bestätigen, dass Sie regelmäßig Zugang zum Internet haben und damit einverstanden sind, dass wir Ihnen Informationen
+über uns und unsere Dienstleistungen (einschließlich Marktinformationen), unsere Kosten und Gebühren sowie unsere
+Mitteilungen per E-Mail oder durch Veröffentlichung dieser Informationen auf unserer Website oder unserer
+Handelsplattform zukommen lassen. Sie erkennen an, dass Sie, falls Sie aufgrund von Problemen mit unserer
+Handelsplattform aus irgendeinem Grund nicht in der Lage sind, eine Transaktion zu tätigen oder eine Position zu schließen,
+unverzüglich unseren Handelsschalter anrufen, um die Transaktion zu tätigen oder die Position zu schließen.
+2.9 BASISINSTRUMENTE
+Sie erwerben durch den Handel mit uns keinerlei Eigentums- oder sonstige Rechte an den zugrunde liegenden Instrumenten.
+Das bedeutet, dass Sie weder Eigentümer noch Anteile an der physischen Währung, dem Index, dem Rohstoff oder dem
+Edelmetall haben, die Gegenstand des Margin-FX oder CFDs sind.
+3. UNSERE ERMESSEN
+Verschiedene Klauseln dieser Vereinbarung räumen uns Ermessensspielräume ein, unter den in der jeweiligen Bestimmung
+festgelegten Umständen zu handeln.
+3.1 ÖFFNUNG
+Nach Annahme Ihres Antrags eröffnen wir ein Konto in Ihrem Namen. Wir können Ihr Konto in
+verschiedene Unterkonten in unterschiedlichen Währungen aufteilen. Verweise auf Ihr Konto in dieser
+Vereinbarung beziehen sich je nach Fall auf Unterkonten oder die entsprechenden Unterkonten. Wir
+behalten uns das Recht vor, die Eröffnung eines Kontos aus beliebigen Gründen abzulehnen.
+3.2 KONTOINFORMATIONEN
+Sie verpflichten sich und garantieren uns, dass alle uns zur Verfügung gestellten Informationen richtig sind und dass Sie uns
+unverzüglich über alle wesentlichen Änderungen dieser Informationen, einschließlich aller Änderungen Ihrer Kontaktdaten oder Ihrer
+finanziellen Situation, informieren.
+3.3 Treuhandkonto
+Alle von Ihnen auf Ihr Konto eingezahlten Gelder gelten als Kundengelder im Sinne der
+Kundengeldverpflichtungen und werden gemäß den Kundengeldverpflichtungen auf einem Konto bei einer
+zugelassenen ausländischen Bank verwahrt. Kundengelder werden treuhänderisch für die berechtigten
+Kunden verwaltet. Werden die Gelder gemäß den Kundengeldverpflichtungen angelegt, werden die Anlagen
+treuhänderisch für die berechtigten Kunden verwaltet.
+3.4 Benennung des Auftraggebers
+Sind zwei oder mehr natürliche Personen als Kunden benannt, wird das Konto auf deren Namen als
+gemeinsame Eigentümer geführt, sofern nicht ausdrücklich etwas anderes vereinbart wurde. In allen anderen
+Fällen werden die Konten auf die Namen der gemeinsamen Eigentümer geführt. Alle Kontoinhaber haften
+gesamtschuldnerisch für Verluste, Gebühren und Kosten, die auf einem Gemeinschaftskonto entstehen. Dies
+bedeutet unter anderem, dass alle auf dem Konto geschuldeten Beträge vollständig von Ihnen oder einem der
+anderen Mitkontoinhaber zu zahlen sind.
+3.5 Benennung des Auftraggebers
+Bei der Kontoeröffnung erhalten Sie ein internetspezifisches Passwort, das Sie zusammen mit Ihrer
+Kontonummer angeben müssen, wenn Sie auf Ihr Konto zugreifen möchten. Sie erhalten außerdem einen
+Kontonamen, den Sie unter bestimmten Umständen ebenfalls angeben müssen, um auf Ihr Konto zugreifen zu
+können.
+Sie sind für die Geheimhaltung Ihrer Kontonummer und Sicherheitsinformationen verantwortlich und
+verpflichten sich, weder Ihre Kontonummer noch Ihr Passwort an Dritte weiterzugeben. Sie gelten als
+autorisiert für alle Handelsgeschäfte unter Ihrer Kontonummer, unabhängig davon, ob die Person, die sie für
+Handelszwecke verwendet, sie mit Ihrer Ermächtigung verwendet, es sei denn, es handelt sich um ein Geschäft,
+das Sie nicht direkt oder durch eine Vollmacht autorisiert haben.
+• Die Person, die die Kontonummer verwendet, hat diese aufgrund unserer Fahrlässigkeit von uns erhalten, oder
+• Wir handeln anderweitig fahrlässig bei der Annahme von Anweisungen für Ihr Konto.
+4. ANWEISUNGEN UND HANDEL
+4.1 TELEFONISCH
+Wenn Sie telefonisch handeln, müssen Sie Ihre Anweisungen zur Eröffnung oder Schließung eines Handelsgeschäfts unserem Händler
+im selben Telefongespräch erteilen, in dem auch das Angebot abgegeben wurde. Wir haften Ihnen gegenüber nicht, wenn dieses
+Telefongespräch unterbrochen wird, bevor wir eine Anweisung von Ihnen zum Handel auf Grundlage dieses Angebots erhalten; wir
+sind auch nicht verpflichtet, das Angebot in einem nachfolgenden Gespräch zu wiederholen.
+Wir akzeptieren keine Bestellungen, die bei anderen Mitarbeitern, auf einem Anrufbeantworter oder einer Voicemail-Einrichtung hinterlassen
+werden.
+4.2 Wechsel der berechtigten Personen
+Sie können die im Antrag angegebenen bevollmächtigten Personen durch schriftliche Mitteilung ändern; wir sind jedoch erst
+an diese Änderung gebunden, wenn wir eine schriftliche Mitteilung erhalten. Wir können mündliche oder schriftliche
+Anweisungen oder Weisungen einer bevollmächtigten Person oder einer Person, die uns als bevollmächtigte Person
+erscheint, befolgen, auch wenn diese Person möglicherweise nicht bevollmächtigt ist. Beispielsweise sind wir berechtigt, alle
+Anweisungen oder Weisungen zu befolgen, die unter Verwendung Ihres Benutzernamens, Ihrer Kontonummer, Ihrer
+Benutzer-ID oder Ihres Passworts übermittelt werden.
+4.3 INFORMATIONEN ZUR KONTOSICHERHEIT
+Sie sind verpflichtet, alle Sicherheitsinformationen Ihres Kontos, einschließlich, aber nicht beschränkt auf Benutzernamen,
+Kontonummer, Benutzer-ID und Passwort, vertraulich zu behandeln. Wir sind nicht verpflichtet, die Berechtigung der
+Benutzer dieser Informationen zu prüfen. Sollten Sie feststellen oder vermuten, dass diese Informationen nicht mehr
+vertraulich sind, kontaktieren Sie uns bitte umgehend, damit wir die Informationen ändern können.
+4.4 WEITERE ANWEISUNGEN
+Wir benötigen möglicherweise Anweisungen von Ihnen in Bezug auf einen Margin-FX-Kontrakt oder CFD oder einen geplanten
+Margin-FX-Kontrakt oder CFD. In diesem Fall sind Sie verpflichtet, uns diese Informationen unverzüglich zur Verfügung zu
+stellen. Andernfalls können wir nach eigenem Ermessen auf Ihre Kosten alle angemessenen Schritte unternehmen, die wir zu
+Ihrem oder unserem Schutz für notwendig oder wünschenswert halten. Dies entbindet Sie jedoch nicht von Ihrer
+Verantwortung, sich stets über die wichtigsten Termine und Ereignisse zu informieren, die Ihre Margin-FX-Kontrakte und CFDs
+betreffen.
+4.5 BESTÄTIGUNG VON ANWEISUNGEN
+Wir können außerdem, obwohl wir dazu nicht verpflichtet sind, eine Bestätigung einer Bestellung oder Anweisung verlangen: Wenn eine
+Anweisung darin besteht, ein Konto zu schließen oder Ihnen Geld zu überweisen; oder
+Andernfalls, wenn es uns vernünftigerweise erscheint, dass eine Bestätigung notwendig oder wünschenswert ist.
+4.6 Bestätigung der Anweisungen
+Aufträge können von uns mündlich oder schriftlich bestätigt werden, je nachdem, was angebracht ist.
+4.7 INTERNETANLEITUNG
+Vorbehaltlich Klausel 4.8 gilt jede von Ihnen per Internet gesendete Bestellung oder Anweisung erst dann als
+eingegangen und stellt nur dann eine gültige Anweisung und eine verbindliche Margin-FX- oder CFD-Zahlung
+zwischen Ihnen und uns dar, wenn diese Bestellung oder Anweisung als angenommen und Ihnen bestätigt vermerkt
+wurde (siehe oben).
+4.8 ANWEISUNG KEIN VERTRAG
+Wenn Sie uns eine Bestellung oder Anweisung übermitteln, entsteht dadurch nicht automatisch eine verbindliche
+Margin-FX-, FX-Options- oder CFD-Vereinbarung zwischen Ihnen und uns. Jede von Ihnen erteilte Bestellung setzt
+stets voraus, dass wir Ihr Angebot annehmen und die Bestellung als angenommen und von uns bestätigt vermerkt
+wird. Sie sind dafür verantwortlich, sich bei uns zu erkundigen, wenn eine Bestätigung für eine Transaktion erwartet
+wird, Sie diese aber noch nicht erhalten haben.
+Recht, Bestellungen nicht anzunehmen
+Wir können, sind aber nicht verpflichtet, Aufträge zum Abschluss einer Transaktion anzunehmen. Sollten wir den Abschluss einer
+vorgeschlagenen Transaktion ablehnen, sind wir nicht verpflichtet, Ihnen dies zu begründen, werden Sie jedoch umgehend darüber
+informieren.
+Ausführung von Aufträgen
+Wir bemühen uns nach Kräften, alle Aufträge umgehend auszuführen. Mit der Annahme Ihrer Aufträge übernehmen wir
+jedoch keine Zusicherung oder Garantie dafür, dass die Ausführung eines solchen Auftrags oder die Ausführung gemäß
+Ihren Anweisungen möglich sein wird. Sollten wir bei der ordnungsgemäßen Ausführung eines Auftrags in Ihrem Namen
+auf wesentliche Schwierigkeiten stoßen, werden wir Sie umgehend benachrichtigen. Wir führen einen Auftrag in Ihrem
+Namen nur aus, wenn der entsprechende Markt für den Handel geöffnet ist. Anweisungen, die außerhalb der Marktzeiten
+eingehen, werden wir so schnell wie möglich bearbeiten, wenn der entsprechende Markt am nächsten Tag geöffnet ist.
+geöffnet (gemäß den Regeln des jeweiligen Marktes). Sie erklären sich damit einverstanden, dass wir in Ihrem Namen Aufträge
+außerhalb der Handelszeiten ausführen können. Wir informieren Sie über wesentliche Änderungen unserer
+Auftragsausführungsrichtlinien. Es liegt jedoch in Ihrer Verantwortung, sich über weitere Änderungen unserer
+Auftragsausführungsrichtlinien zu informieren, die regelmäßig unter www.mexatlantic.ae veröffentlicht werden.
+Wir betrachten Ihre fortgesetzte Auftragserteilung als Ihre fortgesetzte Zustimmung zu unseren Richtlinien zur
+Auftragsausführung in der jeweils aktuellen Fassung.
+4.9 RICHTIGE BEZEICHNUNG
+Es liegt in Ihrer Verantwortung, sicherzustellen, dass an uns gesendete Gelder in jeder Hinsicht korrekt
+bezeichnet sind, einschließlich, falls zutreffend, der Angabe, ob es sich um Margin-Gelder handelt und auf
+welches Ihrer Konten sie angewendet werden sollen. Wir werden Sie von Zeit zu Zeit über die geltenden
+Zahlungsmodalitäten informieren, einschließlich der Möglichkeit, Zahlungen in verschiedenen Währungen
+zuzulassen, die wir Ihnen mitteilen.
+5. Einwilligung zur Aufzeichnung von Telefongesprächen
+Sie stimmen Folgendem zu:
+a. Die elektronische Aufzeichnung Ihrer Telefongespräche mit uns, mit oder ohne automatische
+Tonwarneinrichtung; und
+b. Die Verwendung von Aufzeichnungen oder Abschriften solcher Aufzeichnungen zu jeglichem Zweck, einschließlich, aber nicht beschränkt auf
+deren Verwendung als Beweismittel durch eine der Parteien in einem Streitfall zwischen Ihnen und uns.
+6. BETRIEB IHRES KONTOS
+6.1 VON IHNEN BEZAHLTE GEBÜHREN UND GEBÜHREN
+Sie erklären sich damit einverstanden, die in dieser Vereinbarung festgelegten oder von Zeit zu Zeit anderweitig mitgeteilten
+Gebühren und Entgelte zu zahlen und die darin genannten Leistungen zu erhalten. Sie erklären sich damit einverstanden,
+dass sich die Gebühren und Entgelte ändern können, und es liegt in Ihrer Verantwortung, sich mit der Berechnung der
+Gebühren, Entgelte, Provisionen und sonstigen Zahlungen vertraut zu machen. Sie verpflichten sich außerdem, auf alle
+ausstehenden Beträge gemäß dieser Vereinbarung Zinsen in Höhe von drei Prozent p. a. über dem jeweiligen Tageszinssatz
+(oder dem jeweiligen Leitzinssatz der jeweiligen Währungsbehörde) zu zahlen. Diese Zinsen fallen täglich an und werden vom
+Fälligkeitsdatum bis zum Datum der vollständigen Zahlung berechnet und monatlich verzinst.
+6.2 ZINSEN AUF KONTO
+Das Unternehmen ist nicht verpflichtet, dem Kunden Zinsen auf die von ihm gehaltenen Guthaben zu zahlen. Der
+Kunde verzichtet auf sämtliche Rechte und Ansprüche auf die auf dem Konto erzielten Zinsen.
+6.3 PROVISIONEN
+Außer in den angegebenen begrenzten Fällen erhalten wir keine Provisionen.
+6.4 Zeitpunkt der Abbuchung von Gutschriften oder Gebühren, die Sie von Ihrem Konto bezahlen müssen
+a. Alle Gebühren werden am Tag nach dem Tag, an dem die Gebühren angefallen sind, von Ihrem
+Konto abgebucht und die Leistungen werden am Tag der Abbuchung ausgezahlt.
+b. Wenn eine Position mit Verlust geschlossen wird, wird dieser Verlust sofort von Ihrem Konto abgezogen und
+Ihre verfügbaren Handelsressourcen werden entsprechend angepasst.
+c. Wenn eine Position mit Gewinn geschlossen wird, wird dieser Gewinn Ihrem Konto sofort gutgeschrieben und Ihre
+verfügbaren Handelsressourcen werden entsprechend angepasst, vorbehaltlich der Klauseln 6 und 9 dieser
+Vereinbarung.
+6.5 FALSCHE KONTOGUTSCHRIFT
+a. Haftungsbeschränkung: Außer im Falle eines Betrugs unsererseits übernehmen wir keine Verantwortung und haften nicht für
+etwaige Verluste oder Schäden, die Ihnen dadurch entstehen, dass Sie mit Geld handeln, das irrtümlich von uns oder in
+unserem Namen auf Ihr Konto eingezahlt oder Ihrem Konto gutgeschrieben wurde.
+b. Zulässige Abzüge: Wir sind jederzeit berechtigt, ohne Benachrichtigung oder Rückgriff auf Sie sämtliche Beträge abzuziehen, die
+irrtümlich von uns oder in unserem Namen auf Ihr Konto eingezahlt oder Ihrem Konto gutgeschrieben wurden.
+6.6 BERICHTERSTATTUNG AN SIE
+a. Bestätigungen: Für jeden von uns mit Ihnen geschlossenen Vertrag erscheint eine Bestätigung auf der
+Handelsplattform. Sollte diese Bestätigung nicht erscheinen, müssen Sie uns umgehend kontaktieren.
+Andernfalls gelten die von uns im Zusammenhang mit dem Vertrag aufgezeichneten Details bzw.
+deren Fehlen als von Ihnen akzeptiert. Die in den Bestätigungen an den Kunden genannten Preise
+verstehen sich abzüglich etwaiger Gebühren, die nicht gesondert ausgewiesen werden können. Der
+Kunde erklärt sich mit dem Erhalt von Bestätigungen in dieser Form einverstanden. Sofern nicht
+innerhalb von 48 Stunden nach Erscheinen der ausgeführten Transaktion auf der Handelsplattform
+Einspruch erhoben wird, gilt die Bestätigung als schlüssiger Beweis für die Richtigkeit des Inhalts und
+deren Ausführung gemäß dieser Vereinbarung, außer im Falle eines offensichtlichen Fehlers. Eine
+Mitteilung eines bevollmächtigten Mitarbeiters oder Vertreters der MEX Atlantic Corporation hat
+Vorrang vor der Bestätigung auf der Handelsplattform und gilt als schlüssiger Beweis, außer im Falle
+eines offensichtlichen Fehlers.
+b. Handelsplattform:
+i. Sie stimmen zu und erkennen an, dass: Ihnen der Bericht über unsere Handelsplattform zugesandt wird, wo Sie
+ihn ansehen, herunterladen und ausdrucken können
+ii. Sie ermächtigen uns, die Handelsplattform als Mittel zur Bereitstellung der von uns erstellten
+Bestätigungen, Tagesauszüge, Monatsauszüge und sonstigen Berichte zu nutzen;
+iii. Sie werden auf diese Handelsplattform zugreifen und sie nutzen, um:
+a. Erhalten Sie die von uns bereitgestellten Bestätigungen, Tages- und Monatsabrechnungen sowie sonstige
+Berichte;
+b. Alle Verträge bestätigen; und
+c. Überwachen Sie Ihre Verpflichtungen aus dieser Vereinbarung.
+6.7 INAKTIVES KONTO
+Wir erheben eine monatliche Gebühr für Konten, die drei Monate in Folge inaktiv waren. Unter Aktivität
+verstehen wir keine neuen Trades oder Rollovers bestehender offener Positionen. Die monatliche Gebühr für
+inaktive Konten beträgt 60,00 US-Dollar pro Kalendermonat. Das bedeutet, dass die erste mögliche
+Kontoführungsgebühr (für inaktive Konten) vier Monate nach der letzten Aktivität (wie oben definiert) von
+Ihrem Konto abgebucht wird.
+Diese Gebühr wird nie auf Konten angewendet, die im Soll sind, und wenn der Habensaldo geringer ist als der
+Gebührenbetrag, d. h. ein Saldo von 5 $, würden wir nur den Betrag berechnen, der den Kontostand auf Null
+setzt, und würden nie einen Sollsaldo aus einem Habensaldo erstellen.
+6.8 NICHT ABGEHOLTES GELD
+Wenn Geld über einen Zeitraum von sechs (6) aufeinanderfolgenden Jahren auf einem inaktiven Konto verbleibt und ein Guthaben vorhanden
+ist, wenden Sie sich wegen nicht beanspruchter Gelder an unseren Kundendienst.
+7. Marktstörungen: Index-Futures-CFD
+a. Wenn wir begründeten Anlass zu der Annahme haben, dass wir unseren Verpflichtungen aus den CFDs nicht mehr auf
+derselben wirtschaftlichen Grundlage wie das zugrunde liegende Instrument gemäß den Vertragsbedingungen zum
+Zeitpunkt des ursprünglichen Vertragsabschlusses aufgrund einer Überwachung oder eines Stopps des zugrunde
+liegenden Marktes für ein zugrunde liegendes Instrument nachkommen können, werden wir Sie hierüber informieren
+und Ihnen auf Anfrage angemessene Beweise für diese Umstände vorlegen, wobei unsere Feststellung endgültig sein
+wird.
+b. Wir können den Handel und die Verwendung von Kundengeldern im CFD jederzeit nach unserer Mitteilung an Sie
+gemäß dieser Klausel einstellen.
+8. ERÖFFNUNG EINES HANDELS
+8.1 KEINE RECHTE AM BASISINSTRUMENT
+Durch einen Handel erwerben Sie keinerlei Rechte in Bezug auf den gehandelten Basiswert und Sie
+haben keinen Anspruch auf Lieferung des Basiswerts; auch erwerben Sie in Bezug darauf kein
+Eigentum oder sonstige derartige Rechte.
+8.2 HANDELSERÖFFNUNG ÜBER UNSERE HANDELSPLATTFORM
+Sie können über unsere Handelsplattform Positionen eröffnen oder schließen sowie Limit- und Stop-Loss-Orders für bei uns
+eröffnete Trades ausführen. Wir haften Ihnen gegenüber nicht für den Fall, dass Ihre Internetverbindung unterbrochen wird
+und Sie deshalb nicht zu einem bestimmten Preis handeln können.
+Wir garantieren nicht, dass die Handelsplattform immer verfügbar oder zugänglich ist, wenn die Börsen, an denen die
+Basiswerte, mit denen Sie gehandelt haben oder handeln möchten, geöffnet sind, und wir behalten uns das Recht vor,
+den Handelsplattformdienst jederzeit und aus beliebigen Gründen vollständig zu entfernen oder einzuschränken,
+ohne dass Ihnen gegenüber dadurch eine Haftung entsteht.
+Wenn unsere Computeraufzeichnungen von Ihren eigenen Aufzeichnungen oder Ihrer Erinnerung an Ihre Handelsgeschäfte abweichen, ist die
+Version der Ereignisse maßgeblich, die gleichzeitig von unserem Computer aufgezeichnet wurde, und unsere Verpflichtungen gegenüber
+einander (einschließlich der Verpflichtung zur Zahlung von Geld) werden auf der Grundlage bewertet und berechnet, dass unsere gleichzeitigen
+Computeraufzeichnungen richtig sind und einen schlüssigen Beweis für die darin aufgezeichneten Angelegenheiten darstellen.
+8.3 TELEFON
+Sie können telefonisch über eine unserer Handelsleitungen ein Angebot zur Eröffnung eines Handelsgeschäfts oder zur Schließung einer
+Position anfordern oder anderweitig Handelsanweisungen erteilen. Dies ist insbesondere dann erforderlich, wenn Sie beim Platzieren
+eines Handelsgeschäfts oder beim Schließen einer offenen Position auf unserer Handelsplattform oder Website Probleme haben.
+b. Bei telefonischen Handelsgeschäften müssen Sie Ihre Anweisungen zum Öffnen oder Schließen einer Margin-FX-, FXOptions- oder CFD-Position unserem Händler im selben Telefongespräch erteilen, in dem auch das Angebot
+abgegeben wurde. Wir haften Ihnen gegenüber nicht, wenn dieses Telefongespräch unterbrochen wird, bevor wir Ihre
+Anweisung zum Handel auf Grundlage dieses Angebots erhalten; wir sind auch nicht verpflichtet, das Angebot in
+einem späteren Gespräch zu wiederholen.
+8.4 ART DES ANGEBOTS
+Ein Angebot eines unserer Händler stellt kein Vertragsangebot dar. Wenn Sie angeben, dass Sie zum
+angegebenen Preis handeln möchten, gilt dies als Angebot zum angegebenen Preis. Unser Händler ist
+berechtigt, dieses Angebot zu bestätigen oder abzulehnen. Ein Handel kommt erst mit einer solchen
+Bestätigung zustande.
+8.5 Vertragsabschluss
+Wenn Sie auf „Kaufen“ oder „Verkaufen“ klicken oder ein telefonisches Kauf- oder Verkaufsangebot annehmen, senden Sie
+unseren Händlern eine Nachricht, dass Sie zu den angegebenen Bedingungen handeln möchten. Diese Nachricht stellt Ihr
+Angebot zum Kauf oder Verkauf zum gewählten Preis und Handelsvolumen dar.
+Wenn wir den Handel annehmen, senden wir Ihnen eine entsprechende Nachricht. Ihr Handel ist erst dann
+abgeschlossen und ein Vertrag kommt erst zustande, wenn wir Ihnen diese Nachricht senden. Sie müssen warten, bis
+diese Nachricht nach dem Senden einer Kauf- oder Verkaufsnachricht erscheint. Sollten Sie diese Nachricht nicht
+innerhalb von zwei Minuten erhalten, benachrichtigen Sie uns bitte umgehend. Erhalten Sie unsere Bestätigung nicht
+und benachrichtigen Sie uns nicht wie erforderlich, gilt Ihre Zustimmung nur zu den von uns aufgezeichneten
+Transaktionen. Sollten Sie den Inhalt einer von uns gesendeten Bestätigung anfechten, müssen Sie uns dies
+unverzüglich nach Erhalt telefonisch mitteilen. Andernfalls gelten die von uns aufgezeichneten Transaktionen als von
+Ihnen genehmigt.
+8.6 WÄHRUNG
+Alle Handelsgeschäfte werden in der für das jeweilige Geschäft geltenden Währung abgewickelt und zum
+Zwecke der Berechnung der Komponenten Ihrer Kontoübersicht zum geltenden Wechselkurs in die
+Basiswährung Ihres Kontos umgerechnet.
+8.7 POSITIONSDAUER
+Mit Ausnahme von Index-Futures-CFDs und Rohstoff-CFDs ist die Laufzeit einer Position unbegrenzt und kann,
+vorbehaltlich der Zahlung von Margin und anderen relevanten Beträgen, unbegrenzt fortgeführt werden. Jede von
+Ihnen eröffnete Position kann von uns im Falle eines Ausfalls zum jeweils geltenden Kurs geschlossen werden.
+8.8 GEGENSÄTZLICHE POSITIONEN
+Sie können gegenläufige Positionen in Margin-FX-Kontrakten im selben Währungspaar und in einem Markt halten, in dem
+Sie bereits eine gegenläufige Position eröffnet haben. Sowohl Long- als auch Short-Positionen erscheinen in Ihrem
+Handelskonto und werden als zwei offene Positionen behandelt. Wenn Sie zwei gegenläufige offene Positionen
+halten, werden diese neu bewertet und als eine einzelne offene Position zusammengefasst, bis Sie sich für einen
+Ausgleich oder eine Zusammenführung der beiden Positionen entscheiden.
+b. Sie können im selben Markt gegensätzliche Positionen halten. Eine Position in einem Markt, in dem Sie bereits
+eine gegensätzliche Position offen haben, gilt automatisch als Anweisung zur Schließung der vorherigen
+Position. Sollten Sie im selben Markt mehrere offene Positionen haben, erfolgt die Schließung von Geschäften
+nach dem Prinzip „Wer zuerst eröffnet wird, mahlt zuerst“, sofern nichts anderes vereinbart wurde.
+8.9 UNTERSCHIED ZWISCHEN ANKAUF- UND VERKAUFSPREIS
+Sie verstehen, dass zwischen den Ihnen beim Schließen einer Position genannten Kauf- und Verkaufspreisen möglicherweise ein größerer
+Unterschied besteht als beim Öffnen der Position.
+9. PREISE
+9.1 ANGEBOTE
+Wir nennen Ihnen Preise, die einen Anhaltspunkt dafür bieten, zu welchen Preisen wir bereit sind, mit
+Ihnen zu handeln. Diese werden gemäß Klausel 9.7 für Margin-FX und gemäß den Klauseln 9.4, 9.5 und 9.6
+für CFDs berechnet. Bitte beachten Sie:
+a. Auftraggeber: Wir handeln im Rahmen dieser Vereinbarung als Auftraggeber und legen dementsprechend den geltenden Preis
+fest, zu dem wir bereit sind, mit Ihnen Geschäfte zu machen;
+b. Andere Preise: Preise, die von Zeit zu Zeit von Dritten angegeben oder gehandelt werden, gelten nicht für
+Geschäfte und Transaktionen zwischen uns und Ihnen.
+c. Unterschiedliche Preise: Wir können nach unserem alleinigen Ermessen verschiedenen Kunden unterschiedliche Preise nennen und mit
+verschiedenen Kunden zu unterschiedlichen Preisen handeln;
+d. Basiswert: weder Sie noch wir:
+i. Erwerb von Anteilen oder Rechten zum Erwerb; und
+ii. ist verpflichtet, ein Basisinstrument zu verkaufen, zu kaufen, zu halten, zu liefern oder zu erhalten;
+c. Zahlungen leisten und empfangen: Ihre und unsere Rechte und Pflichten im Rahmen von Margin-FX-Verträgen,
+FX-Optionen oder CFDs bestehen grundsätzlich darin, die in dieser Vereinbarung und einem Margin-FXVertrag oder CFD vorgesehenen Zahlungen zu leisten und zu empfangen.
+9.2 Geänderte Notierungen und Margin-Devisenkontrakte außerhalb der normalen Handelsgröße
+Wenn Sie eine Bestellung aufgeben, können wir:
+a. Bereitstellung eines geänderten Angebots des ursprünglich von unserer Handelsplattform angegebenen Vertragspreises; und/
+oder
+
+b. Wir unterwerfen das Angebot besonderen Bedingungen und Anforderungen, die wir für fair und angemessen halten
+und die wir Ihnen zum Zeitpunkt der Auftragsprüfung mitteilen. Dies kann beispielsweise der Fall sein, wenn Sie eine
+Order außerhalb des üblichen Handelsvolumens platzieren, wenn Ihre Order und alle anderen Orders für einen
+Margin-Devisenkontrakt, einen Devisenoptionskontrakt oder einen CFD zusammengenommen außerhalb des
+üblichen Handelsvolumens liegen oder um Änderungen der Marktbedingungen seit dem ursprünglichen Angebot zu
+berücksichtigen. Der geänderte Kontraktpreis wird von uns nach unserem Ermessen unter Berücksichtigung der
+geltenden Preise und Kosten für den Abschluss einer Transaktion dieser Größenordnung am relevanten Markt
+festgelegt. Sie sind nicht verpflichtet, eine Order auszuführen, für die wir Ihnen besondere Bedingungen und
+Anforderungen mitteilen. Beispielsweise können wir einen geänderten Preis für den vorgeschlagenen MarginDevisenkontrakt, den Devisenoptionskontrakt oder den CFD anbieten, den Sie nach eigenem Ermessen annehmen
+oder ablehnen können. Bei einer Verzögerung der Annahme ist das geänderte Angebot möglicherweise nicht mehr
+verfügbar.
+9.3 MINDESTHANDELSUMME
+Die Größe Ihrer Margin-FX, FX-Option oder CFDs muss der Mindesthandelsgröße entsprechen oder diese überschreiten.
+9.4 INDEX-FUTURES-CFDs
+a. Kontrakteinheit: Die Kontrakteinheit eines Index-Futures-CFD entspricht der Gesamtpunktzahl des entsprechenden
+Aktienindex-Futures-Kontrakts und unseren notierten Preisen in der entsprechenden Währung des AktienindexFutures-Kontrakts zum entsprechenden Währungsbetrag pro Indexpunkt (wie auf unserer Website angegeben).
+b. Unsere Preisgestaltung: Der Kontraktpreis eines Index-Futures-CFD entspricht dem von uns berechneten Geldoder Briefkurs (je nachdem, welcher anwendbar ist), indem wir unseren Spread auf den Mittelkurs des
+jeweiligen Aktienindex-Futures-Kontrakts an der jeweiligen Börse anwenden. Weicht das angegebene Datum
+eines Index-Futures-CFD von einem allgemein notierten Datum ab, berechnen wir den relevanten
+Wechselkurs anhand der verfügbaren Börsenkurse für andere Valutadaten, die wir für fair und angemessen
+halten.
+9.5 EDELSTEINERFILZ-CFDs
+a. Kontrakteinheit: Die Kontrakteinheit eines Edelmetall-CFD ist eine Unze des jeweiligen Metalls (Gold oder
+Silber) und wir geben die Preise in der üblichen Währung des jeweiligen Marktes pro Unze an.
+b. Unsere Preisgestaltung: Der Vertragspreis eines Edelmetall-CFD ist ein Geld- oder Briefkurs (je nachdem, welcher anwendbar
+ist), den wir durch Anwendung unseres Spreads auf den Interbankensatz berechnen.
+9.6 ROHSTOFF-CFDs
+a. Kontrakteinheit: Die Kontrakteinheit eines Rohstoff-CFD beträgt 1 Einheit (z. B. eine Unze, ein Pfund oder
+ein Barrel) gemäß den Gepflogenheiten des jeweiligen Marktes. Wir notieren die Preise pro Einheit in
+der dort üblichen Währung. Sollten die Preise für einen Rohstoff gemäß den Gepflogenheiten des
+jeweiligen Marktes in verschiedenen Währungen notiert sein, können Sie uns auffordern, einen Preis
+für den Rohstoff-CFD in einer der dort üblichen Währungen zu quotieren.
+b. Unsere Preise:
+i. Der Kontraktpreis eines Rohstoff-CFD ist ein Geld- oder Briefkurs (je nachdem, welcher anwendbar ist), den
+wir durch Anwendung unseres Spreads auf den letzten Handelspreis des entsprechenden Basiswerts
+(ein Futures-Kontrakt auf einen Rohstoff) an der entsprechenden Börse berechnen.
+
+ii. Wenn gemäß den Gepflogenheiten des jeweiligen Marktes die Preise für einen Rohstoff in verschiedenen
+Währungen auf verschiedenen Märkten angegeben werden, können Sie uns auffordern, einen Preis für
+den Rohstoff-CFD in einer der üblichen Währungen anzugeben.
+9.7 MARGIN FX
+a. Die Vertragseinheit: Ein Margin-FX-Vertrag ist eine Währungseinheit der primären
+Referenzwährung.
+b. Unsere Preise:
+i. Der Vertragspreis eines Margin-FX ist ein Geld- oder Briefkurs (je nachdem, welcher anwendbar ist), den wir durch
+Anwendung unseres Spreads auf den Interbankensatz berechnen.
+ii. Wenn das angegebene Datum eines Margin-FX-Kontrakts von einem allgemein am Markt notierten Datum
+abweicht, berechnen wir den Interbankensatz aus den verfügbaren Marktpreisen für andere
+Valutadaten, die wir für repräsentativ, fair und angemessen halten.
+9.8 IHRE WAHL DES HANDELS
+Außer wenn:
+a. Wir üben eines unserer Rechte zur Schließung eines Margin-FX-Kontrakts, eines FX-Optionskontrakts oder eines CFDs aus; oder
+b. Ein Margin-FX-Kontrakt, ein FX-Optionskontrakt oder ein CFD wird automatisch geschlossen;
+Sie können wählen, ob Sie einen Margin-FX-Kontrakt, einen FX-Optionskontrakt oder einen CFD schließen möchten.
+9.9 PREISFEHLER
+a. Es ist möglich, dass bei der Preisgestaltung von Margin-Devisenkontrakten, Devisenoptionskontrakten oder CFDs, die wir
+anbieten, Fehler, Auslassungen oder Fehlquotierungen („wesentliche Fehler“) auftreten, die aufgrund unseres Verschuldens
+oder eines Verschuldens Dritter unter Berücksichtigung der zum jeweiligen Zeitpunkt vorherrschenden Marktbedingungen
+und Notierungen der zugrunde liegenden Instrumente wesentlich unrichtig sind. Ein wesentlicher Fehler kann einen falschen
+Preis, ein falsches Datum, eine falsche Uhrzeit oder einen falschen Margin-Devisenkontrakt, Devisenoptionskontrakt oder
+CFD oder einen Fehler oder eine Unklarheit von Informationen umfassen. Basiert ein Handel auf einem wesentlichen Fehler,
+den wir nach unserem vernünftigen Ermessen und in gutem Glauben feststellen, behalten wir uns das Recht vor, ohne Ihre
+Zustimmung:
+i. Die Geschäftsbedingungen des Margin-Devisenkontrakts, des Devisenoptionskontrakts oder des CFDs so ändern,
+dass sie den unserer Ansicht nach fairen Preis zum Zeitpunkt des Abschlusses des Margin-Vertrags oder CFDs
+widerspiegeln, sofern kein wesentlicher Fehler vorlag;
+ii. Schließen Sie den Handel und alle daraus resultierenden offenen Positionen;
+iii. Den Margin-Vertrag oder CFD von vornherein für nichtig erklären;
+iv. Unterlassen Sie jegliche Maßnahmen zur Änderung oder Aufhebung des Margin-FX-Vertrags, des FX-Optionsvertrags oder des
+CFDs;
+v. Erhalten Sie von Ihrem Konto alle historischen Handelsgewinne, die Sie durch einen solchen Liquiditätsmissbrauch
+erzielt haben, wie von uns zu jedem Zeitpunkt während unserer Handelsbeziehung festgestellt;
+vi. Eine Bestellung ablehnen oder einen Handel stornieren; oder
+vii. Unsere Geschäftsbeziehung sofort beenden.
+b. Wenn wir Grund zu der Annahme haben, dass Sie unsere Preisgestaltung vorsätzlich manipuliert, ausgenutzt oder
+Fehler in dieser ausgenutzt haben, betrachten wir dies als eine Form der Manipulation der Handelsplattform und es
+gilt Klausel 9.10.
+
+9.10 PREISFEHLER
+Wenn wir Grund zu der Annahme haben, dass Sie unsere Preise, unsere Ausführungsprozesse oder unsere Handelsplattform
+manipuliert haben, können wir nach unserem alleinigen Ermessen und ohne Benachrichtigung an Sie:
+• die Geschäfte gegen Sie durchzusetzen, wenn es sich um Geschäfte handelt, die dazu führen, dass Sie uns Geld schulden;
+• Behandeln Sie alle Ihre Handelsgeschäfte von Anfang an als nichtig, wenn es sich dabei um Handelsgeschäfte handelt, die dazu führen,
+dass wir Ihnen Geld schulden, es sei denn, Sie legen innerhalb von 30 Tagen nach unserer Mitteilung gemäß dieser Klausel schlüssige
+Beweise vor, dass Sie keine Verletzung der Garantie, Falschdarstellung oder Verpflichtung in dieser Vereinbarung begangen haben;
+• alle Gelder zurückzuhalten, bei denen der Verdacht besteht, dass sie aus solchen Aktivitäten stammen;
+• Nehmen Sie alle daraus resultierenden Korrekturen oder Anpassungen an Ihrem Konto vor;
+• Ihr Konto schließen; und/oder
+• Ergreifen Sie alle anderen Maßnahmen, die wir für angemessen halten.
+9.11 EA-RICHTLINIEN
+9.11.1 EA-RICHTLINIEN
+Um die Stabilität der Plattformen und Produkte der MEX Atlantic Corporation zu gewährleisten, sind „Expert
+Adviser“-Strategien (EA) auf unserer Plattform nicht zulässig, es sei denn, sie entsprechen Klausel 9.11.2.
+9.11.2 Um den EA-Handel zu ermöglichen, müssen Kunden eine Anfrage einreichen und bestätigen, dass sie bei
+der Kontoeröffnung oder vor der Umsetzung einer solchen Strategie die Nutzung eines EAs vorab
+bestätigen. Für diese Handelsmethode fallen keine zusätzlichen Gebühren an. Die MEX Atlantic Corporation
+behält sich das Recht vor, Aufträge, die mit EA-Methoden auf Konten ausgeführt werden, die nicht als EAKonten gekennzeichnet sind oder für die die erforderliche Vorabbestätigung fehlt, zu stornieren.
+9.12 SWAP-FREIE KONTEN
+Um die Stabilität der Plattformen und Produkte der MEX Atlantic Corporation zu gewährleisten, sind „Expert
+Adviser“-Strategien (EA) auf unserer Plattform nicht zulässig, es sei denn, sie entsprechen Klausel 9.11.3.
+9.12.1 Das Unternehmen bietet islamische (swapfreie) Konten an, um dem islamischen Scharia-Gesetz zu entsprechen. Dies ist
+auch ein Vorteil für alle Händler, die ihre Positionen mehrere Tage lang halten, ohne sich über Swap- oder
+Übernachtgebühren im Klaren zu sein. Daher würde ein Handelskonto nicht dafür zahlen oder bezahlt werden, wenn eine
+Position länger als einen Werktag gehalten wird.
+9.12.2 Wenn der Kunde sein Kundenkonto in ein swapfreies Konto oder umgekehrt umwandeln möchte, muss er
+dies dem Unternehmen mitteilen. Der Kunde hat das Recht, sein Kundenkonto ohne Angabe von Gründen
+von einem swapfreien in ein reguläres Kundenkonto umzuwandeln.
+9.12.3 Bei einem swapfreien Konto fallen für Handelspositionen über Nacht keine Swap- oder Rollover-Gebühren
+an. Das bedeutet, dass das Kundenkonto frei von Zinsen oder Swap-Gebühren ist und keine
+Vorabprovisionen und keine zusätzlichen Gebühren pro Handel anfallen. Alle anfallenden Gebühren sind
+auf der Website des Unternehmens aufgeführt.
+
+9.12.4 Jeder Kunde, der diesen Vorteil missbraucht, indem er seine Floating-Positionen über einen langen Zeitraum hält, die
+Swap-freie Möglichkeit ausnutzt und Gewinne aus Swaps erzielt, muss die Floating-Positionen sofort schließen, wobei zu
+berücksichtigen ist, dass diese Gebühren vom Unternehmen abgewickelt und nicht von den Kunden bezahlt werden.
+9.12.5 Das Hedging eines Währungspaares durch den entsprechenden Future-CFD und/oder das Hedging von Positionen auf
+einem Swap-basierten Konto gegen Positionen auf einem Swap-freien Konto ist verboten, da dies ebenfalls Versuche
+darstellt, die Swap-freie Möglichkeit auszunutzen und Gewinne aus Swaps zu erzielen; eine Richtung dieser Art von
+Hedging muss sofort geschlossen werden.
+9.12.6 Das Unternehmen hat das Recht, für bestimmte Instrumente Lagergebühren für Positionen zu erheben, die 1 Tag
+oder länger offen geblieben sind. Die aktuellsten Informationen finden Sie auf der Website des Unternehmens
+(https://www.mexatlantic.ae/tools/trading-conditions).
+9.12.7 Wenn der Kunde keine Maßnahmen ergreift, um derartige Praktiken zu vermeiden, ist das Unternehmen verpflichtet, diese Konten ohne vorherige
+schriftliche Mitteilung zu schließen oder die erforderlichen Maßnahmen in Bezug auf diese Konten zu ergreifen.
+9.13 RICHTLINIE ZUM „MASCHINENGEWEHRSCHIESSEN“
+9.13.1 Um die Stabilität der Plattform und Produkte der MEX Atlantic Corporation zu gewährleisten, wurde die
+folgende Richtlinie eingeführt. Die MEX Atlantic Corporation definiert „Machine Gunning“ als die
+Übermittlung beliebiger Auftragsarten in „schneller Folge“ für denselben Vertrags-/Instrumententyp, z. B.
+EURUSD, und in die gleiche Richtung mit einer „signifikanten Auftragsgröße“.
+9.13.2 Diese Richtlinie hindert Kunden nicht daran, gleichzeitig Markt-, Limit- und Stop-Loss-Orders zu platzieren oder
+Limit- und Stop-Loss-Orders an offene Positionen anzuhängen.
+9.13.3 Diese Richtlinie soll Kunden daran hindern, mehrere Orders aufzugeben und dadurch unsere maximalen
+Ordergrößen innerhalb kurzer Zeit zu überschreiten. Dies kann die Preisgestaltung unserer Liquiditätsanbieter
+beeinträchtigen und sich auf alle unsere Kunden auswirken. Diese Richtlinie soll außerdem verhindern, dass
+unsere Plattform für potenziellen Marktmissbrauch missbraucht wird.
+9.13.4 Informationen zur Handhabung Ihrer Einzahlungen und Gewinne/Verluste in Bezug auf die von Ihnen gewählte
+Basiswährung finden Sie in den Plattformfunktionen auf unserer Website.
+9.13.5 MEX Atlantic Corporation unterstützt, wartet oder pflegt keine Software oder Tools von Drittanbietern, die in Verbindung
+mit den bereitgestellten Handelsplattformen installiert oder verwendet werden, wie z. B. „Expert Advisors“. Durch die
+Installation, den Zugriff oder die anderweitige Nutzung solcher Software oder Tools von Drittanbietern, einschließlich,
+aber nicht beschränkt auf Charts, Signale, Analysetools oder Berichte dieser Drittanbieter, lehnt MEX Atlantic Corporation
+jegliche Haftung und Verluste im Zusammenhang mit der von Ihnen in Verbindung mit unseren Handelsplattformen
+genutzten Software oder Tools von Drittanbietern ab. Wenn Sie einen „EA“ verwenden und kein Virtual Private ServerAbonnement besitzen, werden Ihre „EAs“ beendet, sobald Sie sich von MetaTrader abmelden. Obwohl Sie während der
+Nutzung von „EAs“ nicht rund um die Uhr die Märkte beobachten müssen, kann jeder einzelne Fehlerpunkt (z. B.
+Computer, Internetverbindung, MetaTrader 4) Ihren „EA“ zum Erliegen bringen. Bitte berücksichtigen Sie dies sorgfältig
+bei der Entscheidung, ob Sie „EAs“ nutzen möchten. Da „EAs“ von separaten und unabhängigen Drittanbietern erstellt
+werden, übernimmt MEX Atlantic Corporation keine Verantwortung für deren Vollständigkeit, Zuverlässigkeit oder
+Richtigkeit. Mit anderen Worten: Sie verwenden sie auf eigene Gefahr.
+
+10. MARGE
+10.1 ANFÄNGLICHE MARGINE
+Wenn Sie eine Transaktion tätigen und dadurch eine offene Position eröffnen, müssen Sie die von uns berechnete
+Margin für diese Transaktion („Erstmarge“) auf Ihrem Konto vorhalten. Diese Erstmarge berechnet sich wie folgt:
+Zum Zeitpunkt der Eröffnung der Position muss auf Ihrem Konto eine Marge vorhanden sein, die mindestens folgendem entspricht:
+a. Im Falle von Index-, Edelmetall- und Index-Future-CFDs:
+Anfängliche Margin-Anforderung = (Menge der Vertragseinheiten x Vertragspreis) x MarginProzentsatz;
+b. Im Falle eines Rohstoff-CFD:
+Anfängliche Margin-Anforderung = (Margin-Prozentsatz x Kontraktpreis/Mindestpunkterhöhung)
+x Kontraktmenge.
+10.2 MARGIN BEI OFFENEN POSITIONEN
+Zusätzlich zur anfänglichen Margin müssen Sie für alle offenen Positionen auf Ihrem Konto eine
+Margin auf Basis des jeweils aktuellen Kontraktpreises vorhalten, der von uns gemäß den Ziffern 9.4
+bis 9.7 dieser Vereinbarung festgelegt wird. Die Höhe der Margin auf Ihrem Konto wird jederzeit so
+berechnet, als ob die gemäß dieser Ziffer 10 fälligen Zahlungen laufend während des Tages und
+basierend auf dem aktuellen Angebots- bzw. Briefkurs (je nach Fall) berechnet und von Ihrem Konto
+abgebucht würden.
+10.3 FORTLAUFENDE MARGIN-VERPFLICHTUNG
+Sie haben uns gegenüber zudem eine fortlaufende Margin-Verpflichtung, um sicherzustellen, dass Ihr Kontostand,
+d. h. Ihr gesamtes Netto-Eigenkapital, unter Berücksichtigung aller realisierten und unrealisierten Gewinne und
+Verluste („Gewinn und Verlust“), zu jedem Zeitpunkt, während der Sie Positionen eröffnet haben, mindestens der
+Margin entspricht, die wir von Ihnen für alle Ihre offenen Positionen verlangen. Sollte Ihr Kontostand (unter
+Berücksichtigung des Gewinns und Verlusts) nicht Ihren gesamten Margin-Bedarf erfüllen, sind Sie verpflichtet,
+zusätzliche Mittel auf Ihr Konto einzuzahlen. Diese Mittel sind sofort fällig und an uns zahlbar, wenn Ihr
+Kontostand (unter Berücksichtigung des Gewinns und Verlusts) unter Ihren Margin-Bedarf fällt.
+10.4 AUSNAHMEN
+Die in den Abschnitten 10.1 bis 10.3 festgelegten Anforderungen variieren unter den folgenden Umständen:
+a. Wir haben Sie ausdrücklich darüber informiert, dass Ihr Kontotyp längere Zahlungsfristen für
+die Margin zulässt. In diesem Fall müssen Sie die Margin gemäß den von uns mitgeteilten
+Zahlungsfristen zahlen.
+b. Wir haben ausdrücklich zugestimmt, einen Teil der Margin, die wir ansonsten für einen Handelsvorgang von Ihnen
+verlangen würden, zu reduzieren oder zu erlassen. Der Erlass oder die Reduzierung kann vorübergehend sein und
+bedarf unserer schriftlichen Zustimmung. Eine solche Vereinbarung schränkt unser Recht nicht ein, zu einem
+späteren Zeitpunkt weitere Margin für den Handelsvorgang oder offene Positionen zu verlangen.
+c. Wir vereinbaren schriftlich etwas anderes. In diesem Fall sind Sie verpflichtet, die in der schriftlichen
+Vereinbarung festgelegten Bedingungen einzuhalten.
+
+d. Wenn Sie offene Positionen in einem Margin-FX-Kontrakt, einem FX-Optionskontrakt oder einem CFD halten und einen
+oder mehrere Trades in die entgegengesetzte Richtung in einem Margin-FX-Kontrakt, einem FX-Optionskontrakt
+oder einem CFD mit demselben Basiswert tätigen, ist Ihre Margin-Anforderung für alle offenen Positionen mit
+demselben Basiswert der höhere der beiden Beträge: die Summe der Margin-Anforderungen für alle LongPositionen oder die Summe der Margin-Anforderungen für alle Short-Positionen;
+e. Für bestimmte Margin-Devisenkontrakte oder Optionen oder optionsbezogene Instrumente;
+f. Wenn wir den Margin-Prozentsatz gemäß Klausel 10.5 ändern. Im Falle Ihrer fortlaufenden Margin-Verpflichtung gemäß
+Klausel 10.3 sind Sie nicht zur Zahlung verpflichtet, sofern wir Ihnen einen Kreditrahmen eingeräumt haben und Ihr
+Kreditrahmen zur Deckung Ihrer Margin-Anforderungen ausreicht. Sollte der Kreditrahmen jedoch zu irgendeinem
+Zeitpunkt nicht ausreichen, um die Margin-Anforderungen für Ihre offenen Positionen zu decken, müssen Sie
+unverzüglich zusätzliche Mittel auf Ihr Konto einzahlen, um die Margin-Anforderungen vollständig zu decken.
+10.5 Änderung des Margenprozentsatzes
+Wir können den Margenprozentsatz variieren, tun dies jedoch nur, wenn wir dies für notwendig
+erachten, beispielsweise als Reaktion auf oder im Vorgriff auf Folgendes:
+• Veränderte Volatilität und/oder Liquidität des Basisinstruments oder der Finanzmärkte im
+Allgemeinen;
+• Wirtschaftsnachrichten;
+• Änderungen in Ihrem Geschäftsverhalten bei uns;
+• Ihre Kreditwürdigkeit ändert sich; oder
+• Ihr Engagement bei uns konzentriert sich auf ein bestimmtes Basisinstrument.
+Bitte beachten Sie, dass es andere Umstände geben kann, die uns dazu veranlassen können, Ihren
+Margenprozentsatz zu ändern.
+10.6 BENACHRICHTIGUNG EINES ERHÖHTEN MARGENSATZES
+Wir informieren Sie über eine Änderung des Margenprozentsatzes auf folgende Weise: Telefon, Post, Fax, E-Mail,
+SMS oder durch Veröffentlichung der Erhöhungsmitteilung auf unserer Website. Jede Margenerhöhung, die sich
+aus einer Erhöhung des Margenprozentsatzes ergibt, ist auf unsere Aufforderung hin, einschließlich einer gemäß
+Klausel 36 als eingegangen geltenden Mitteilung, sofort fällig und zahlbar.
+11. IHRE VERPFLICHTUNG ZUR ZAHLUNG UND ÜBERWACHUNG DER MARGE
+11.1 SIE MÜSSEN EINE MARGE ZAHLEN
+a. Sie sind verpflichtet, uns die gemäß diesem Vertrag von uns geforderten Margenbeträge zu
+zahlen, insbesondere die gemäß diesem Vertrag berechnete Marge, um stets den
+Mindestgesamteigenkapitalsaldo aufrechtzuerhalten.
+b. Ihre Nichtzahlung der gemäß dieser Vereinbarung erforderlichen Marge gilt als
+Verzugsereignis im Sinne von Klausel 15.
+
+11.2 SIE MÜSSEN DIE MARGE ÜBERWACHEN
+a. Über die elektronische Einrichtung ermöglichen wir Ihnen den Zugriff auf Ihr Konto und die
+Bereitstellung ausreichender Informationen, damit Sie die Höhe der von uns gemäß dieser
+Vereinbarung geforderten Margin berechnen können. Wir teilen Ihnen außerdem die Gesamthöhe der
+von Ihnen zu zahlenden Margin in der Basiswährung zu unserem Wechselkurs mit. Es liegt jedoch in
+Ihrer Verantwortung, bei telefonischen Aufträgen alle relevanten Informationen zu Ihrem Konto
+anzufordern, bevor Sie Aufträge zur Eröffnung oder Schließung einer Position erteilen, einschließlich
+aller Informationen zu Ihren aktuell offenen Positionen. Wir haften nicht für Verluste, die Ihnen durch
+die Nichtanforderung solcher Informationen entstehen.
+b. Es liegt in Ihrer Verantwortung, die Höhe der bei uns hinterlegten Sicherheitsleistung jederzeit mit der Höhe der gemäß
+den Klauseln 10 und 11 dieser Vereinbarung aktuell erforderlichen Sicherheitsleistung sowie mit allen zusätzlichen
+Sicherheitsleistungen abzugleichen, die unter Berücksichtigung folgender Aspekte erforderlich oder wünschenswert
+sein können:
+i. Ihre offenen Positionen;
+ii. Die Volatilität aller relevanten Basiswerte;
+iii. Die Volatilität des relevanten Marktes;
+iv. Die Volatilität der Märkte im Allgemeinen;
+v. etwaige Wechselkursrisiken; und
+vi. Die Zeit, die Sie benötigen, um uns ausreichend frei verfügbare Mittel zu überweisen.
+11.3 KEINE VERPFLICHTUNG ZUR NACHSCHLAGSABFRAGE
+Wir sind nicht verpflichtet, Sie durch einen Margin Call über Ihren Kontostand und die
+erforderliche Margin zu informieren. Sollten wir dies dennoch tun, kann der Margin Call per
+Telefon, Post, Fax, E-Mail oder SMS erfolgen. Der Margin Call gilt als erfolgt, sobald Sie gemäß
+Klausel 36 eine entsprechende Mitteilung erhalten haben. Wir gelten als von Ihnen gefordert,
+wenn:
+a. Wir haben Ihnen eine Nachricht mit der Bitte hinterlassen, sich mit uns in Verbindung zu setzen, und Sie haben
+dies nicht innerhalb einer angemessenen Frist getan; oder
+b. Wenn es uns nicht möglich ist, eine solche Nachricht zu hinterlassen, und wir alle angemessenen Anstrengungen unternommen haben,
+Sie telefonisch unter der von Ihnen zuletzt angegebenen Telefonnummer zu erreichen, es uns jedoch nicht gelungen ist, Sie unter
+dieser Nummer zu erreichen.
+11.4 ZEITPUNKT DER ÄNDERUNGEN DES MARGENPROZENTSATZES
+Sie erklären sich damit einverstanden und erkennen an, dass jede Änderung des Margenprozentsatzes gemäß der
+Klausel dieser Vereinbarung sofort wirksam wird, sobald Sie gemäß dieser Vereinbarung mündlich oder schriftlich
+über die Änderung informiert werden.
+11.5 Kein Online-Zugriff
+Sollten wir Ihnen aufgrund von Umständen, die in unserem Einflussbereich liegen, keinen Online-Zugriff auf
+Kontoinformationen über die elektronische Einrichtung gewähren können, werden wir uns nach Kräften um eine
+Nachschussforderung bemühen. Sie akzeptieren, dass wir in extremen Fällen, in denen sich Ihre offenen Positionen
+besonders schnell zu Ihren Ungunsten entwickeln oder verändert haben, möglicherweise keine Nachschussforderung
+stellen, bevor wir unser Recht zur Glattstellung Ihrer Positionen gemäß dieser Vereinbarung ausüben.
+
+11.6 IHRE BENACHRICHTIGUNGSPFLICHT
+Es liegt in Ihrer Verantwortung, uns Änderungen Ihrer Kontaktdaten unverzüglich mitzuteilen und uns alternative
+Kontaktdaten mitzuteilen. Außerdem müssen Sie sicherstellen, dass unsere Nachschussforderungen erfüllt
+werden, sofern Sie unter der angegebenen Kontaktadresse oder Telefonnummer erreichbar sind. Sie erkennen
+an, dass wir nicht für Verluste (einschließlich indirekter oder Folgeschäden), Kosten, Aufwendungen oder Schäden
+haften, die Ihnen aufgrund Ihrer unterlassenen Mitteilung entstehen.
+11.7 ZEITLICHE ZUGELASSENHEIT FÜR DIE WEITERLEITUNGSSPANNE
+Wir sind nicht verpflichtet, Ihnen Zeit zu gewähren, weitere Mittel zur Erfüllung der gemäß dieser Klausel 11
+erforderlichen Margin bereitzustellen, bevor wir von unserem Recht zur Glattstellung Ihrer Positionen Gebrauch machen.
+Sollten wir Ihnen jedoch nach unserem alleinigen Ermessen Zeit zur Erfüllung Ihrer Margin-Anforderungen gewähren,
+wird diese Erlaubnis erst nach unserer schriftlichen Bestätigung und nur in dem in unserer schriftlichen Mitteilung
+festgelegten Umfang wirksam.
+11.8 WENN DIE MARGE NICHT BEZAHLT WIRD
+Wir behalten uns das alleinige und uneingeschränkte Ermessen vor, unsere Rechte gemäß 15.2 auszuüben, falls
+auf Ihrem Konto eine Marge geschuldet ist.
+12. SCHLIESSEN EINES MARGIN-FX-VERTRAGS, FX-OPTIONSVERTRAGS ODER CFD
+12.1 WANN KANN EIN MARGIN-FX-VERTRAG, FX-OPTIONSVERTRAG ODER CFD
+(AUSSER INDEX-FUTURES-CFDS ODER ROHSTOFF-CFDS) GESCHLOSSEN WERDEN:
+Ein Margin-FX-Kontrakt oder CFD (mit Ausnahme eines Index-Futures-CFD oder eines Rohstoff-CFD, die in dieser Klausel
+zusammen als „akzeptierte Kontrakte“ bezeichnet werden) kann geschlossen werden, wenn:
+Sie erteilen Anweisungen zum Schließen eines Margin-FX-Kontrakts oder CFDs, indem Sie wie folgt einen gleichwertigen und
+entgegengesetzten Kontrakt abschließen:
+i. Schließen einer einzelnen Position: Eine einzelne offene Handelsposition kann durch Auswahl der Schaltfläche „Schließen“
+bei der Online-Ausführung geschlossen werden. Der Kontrakt wird geschlossen und durch den Gegenhandel
+ausgeglichen.
+ii. Schließen durch entgegengesetzte Positionen: Sie können eine Position durch eine entgegengesetzte Position schließen,
+ohne die beiden Trades auszugleichen. Sie können einen entgegengesetzten Trade ausführen, und sowohl Long- als
+auch Short-Positionen werden in Ihrem Handelskonto angezeigt. Sie können die Trades zu einem späteren Zeitpunkt
+ausgleichen, wenn Sie es wünschen.
+b. Wir können jedes unserer Rechte aus dieser Vereinbarung ausüben, um einen Margin-FX-Kontrakt, CFD, FXOptionskontrakt oder einen ausgenommenen Kontrakt jederzeit vor Vertragsschluss gemäß Klausel 12.3 zu
+schließen.
+12.2 WANN KANN EIN AUSGENOMMENER VERTRAG ABGESCHLOSSEN WERDEN
+Ein ausgenommener Vertrag kann nur durch Verträge mit demselben angegebenen Datum geschlossen werden.
+12.3 FRISTEN FÜR DEN ABSCHLUSS
+Details zum letzten Tag und Zeitpunkt der Glattstellung eines Devisenoptionskontrakts oder Futures-CFD erhalten Sie auf Anfrage.
+Es liegt in Ihrer Verantwortung, sich über den letzten Tag und Zeitpunkt der Glattstellung eines bestimmten
+Devisenoptionskontrakts oder Futures-CFD zu informieren.
+
+12.4 METHODE ZUM ABSCHLUSS VON MARGIN-FX-VERTRÄGEN, FX-OPTIONSVERTRÄGEN ODER CFDS DURCH UNS
+Wenn wir eines unserer Rechte aus dieser Vereinbarung ausüben, um einen Margin-FX-Kontrakt, einen FX-Optionsvertrag oder
+einen CFD zu schließen, tun wir dies, indem wir einen gleichwertigen und entgegengesetzten Margin-FX-Kontrakt, einen FXOptionsvertrag oder einen CFD auf dem Konto abschließen
+12.5 VERTRAGSPREIS BEI ABSCHLUSS
+Wenn ein Margin-FX-Kontrakt, ein FX-Optionskontrakt oder ein CFD im Rahmen dieser Vereinbarung geschlossen wird, bestimmen
+wir den Kontraktpreis zum Zeitpunkt des Abschlusses in Übereinstimmung mit den aktuellen Preisen, die von uns angegeben
+werden. Außer wenn der zu schließende Margin-FX-Kontrakt, der FX-Optionskontrakt oder der CFD außerhalb der normalen
+Handelsgröße liegt, wird unser Spread, der zur Berechnung des Kontraktpreises verwendet wird, 20 % oder einen Cent (oder die
+entsprechende Währungseinheit) nicht überschreiten, je nachdem, welcher Betrag höher ist.
+12.6 VERTRAGSWERT BEI ABSCHLUSS
+Ein Margin-FX-Kontrakt, FX-Optionskontrakt oder CFD wird zum von uns berechneten Kontraktwert zum Zeitpunkt des
+Abschlusses geschlossen, der wie folgt lautet: Vertragspreis x Vertragsmenge
+Und wie Ihnen mitgeteilt
+12.7 Geschäftsschluss
+Wenn ein Margin-FX-Kontrakt, ein FX-Optionskontrakt oder ein CFD während eines Geschäftstages
+glattgestellt wurde, bleiben die Klauseln 12.3 und 12.4 dieser Vereinbarung für Ihre Long- und ShortPositionen im jeweiligen Basisinstrument bis zum Geschäftsschluss an diesem Geschäftstag weiterhin
+gültig und gelten mit sofortiger Wirkung nach Geschäftsschluss an diesem Geschäftstag für den Saldo Ihrer
+offenen Long- oder Short-Position (sofern vorhanden) im entsprechenden Basisinstrument.
+12.8 ZAHLUNGSZEITPUNKT
+Jede von uns oder Ihnen gemäß dieser Klausel 12 fällige Zahlung in Bezug auf Termine am oder nach dem
+Abschlussdatum wird von uns vorgenommen, indem wir das Konto zum Geschäftsschluss am Abrechnungsdatum
+anpassen.
+• Wenn der als Vertragswert berechnete Betrag höher ist als der als Anfangswert berechnete Betrag,
+schreiben Sie die Differenz dem Konto gut; und
+• Wenn der als Anfangswert berechnete Betrag höher ist als der als Vertragswert berechnete
+Betrag, belasten Sie Ihr Konto mit der Differenz.
+13. GESCHÄFTSSCHLUSSBUCHHALTUNG
+13.1 Wann wir abrechnen
+Beginnend mit Geschäftsschluss am Tag der Transaktion und mit Geschäftsschluss an jedem darauffolgenden
+Geschäftstag während der Laufzeit der Margin-FX-Kontrakte oder CFDs (einschließlich des Abschlussdatums)
+führen wir die Abrechnung gemäß dieser Klausel 13 durch.
+13.2 VERTRAGSWERT
+Wir berechnen den Vertragswert, der sich wie folgt ergibt: Vertragspreis x Vertragsmenge.
+
+13.3 VERTRAGSWERT BEI ABSCHLUSS
+a. Index-Futures-CFD: Der Kontraktpreis entspricht dem Geld- oder Briefkurs, abhängig davon, ob Sie eine Longoder Short-Position haben, berechnet gemäß Klausel 9.4 (Preisgestaltung).
+b. Edelmetall-CFDs: Der Vertragspreis ist der Geld- oder Briefkurs, abhängig davon, ob Sie eine Long- oder
+Short-Position haben, berechnet gemäß Klausel 9.5.
+c. Rohstoff-CFDs: Der Kontraktpreis ist der Geld- oder Briefkurs, abhängig davon, ob Sie eine Shortoder Long-Position haben, berechnet gemäß Klausel 9.6.
+d. Margin-FX-Kontrakte: Der Kontraktpreis ist der Angebots- oder Gebotspreis, abhängig davon,
+ob Sie long oder short sind, berechnet gemäß Klausel 9.7
+13.4 BEWERTUNG
+Wenn am Tag der Transaktion:
+• Der aktuelle Kontraktwert übersteigt den Eröffnungswert. Die Short-Partei zahlt der Long-Partei den
+Überschuss.
+• Der Eröffnungswert übersteigt den aktuellen Kontraktwert. Die Long-Partei zahlt der Short-Partei den
+Überschuss.
+13.5 TÄGLICHE SWAPS VON MARGIN-FX-VERTRÄGEN UND CFDS (AUSGENOMMEN AUSGENOMMENE VERTRÄGE)
+Wenn Sie eine oder mehrere Positionen in einem Margin-FX-Kontrakt oder CFD (mit Ausnahme eines
+ausgenommenen Kontrakts) über Nacht halten, werden diese auf den nächsten Geschäftstag gerollt, was dazu
+führt, dass Sie eine Swap-Gebühr zahlen oder einen Swap-Vorteil zum Swap-Satz der MEX Atlantic Corporation
+erhalten, und der Betrag hängt von unserem Swap-Satz ab, d. h. von den Sätzen, zu denen Sie Zinsen für
+Positionen erhalten oder zahlen, die über Nacht offen bleiben. Dieser Satz ist variabel und hängt vom geltenden
+Satz auf den Interbankenmärkten für die Währungen oder Edelmetalle, der Dauer des Rollover-Zeitraums, der
+Größe der Position und dem Spread der MEX Atlantic Corporation ab, der nach unserem Ermessen angewendet
+wird. Bei ausgenommenen Kontrakten wird keine Swap-Gebühr gezahlt oder ein Swap-Vorteil erhalten; es wird
+jedoch eine Rollover-Gebühr oder ein Rollover-Vorteil erhoben: siehe Klausel 13.10. Die Anwendung dieser Klausel
+13.5 unterliegt den Klauseln 13.7, 13.8, 13.9 und 13.10.
+13.6 ANSPRUCH
+Wenn Sie bei einem Margin-FX-Kontrakt eine Long-Position halten, können Sie je nach der Währung, in der Sie eine Long-Position
+halten, gemäß Klausel 13.7 entweder einen Swap-Vorteil erhalten oder eine Swap-Gebühr zahlen. Wenn Sie bei einem Margin-FXKontrakt eine Short-Position halten, können Sie je nach der Währung, in der Sie eine Short-Position halten, gemäß Klausel 13.9
+entweder eine Swap-Gebühr zahlen oder einen Swap-Vorteil erhalten.
+13.7 LANGE MARGIN-DEVISENKONTAKTE
+Wenn Sie einen Margin-FX-Kontrakt long halten, bei dem die gekauften Währungszinsen höher sind als die
+verkauften Währungszinsen, erhalten Sie Zinsen zum Swapsatz, wenn Sie die Position über Nacht halten
+und nicht vor dem Abrechnungszeitpunkt schließen. Dies liegt daran, dass Sie die Währung mit der
+höheren Rendite halten. Wenn Sie hingegen einen Margin-FX-Kontrakt long halten, bei dem die gekauften
+Währungszinsen niedriger sind als die verkauften Währungszinsen, zahlen Sie Zinsen zum Swapsatz, wenn
+Sie die Position über Nacht halten und nicht vor dem Abrechnungszeitpunkt schließen. Dies liegt daran,
+dass Sie die Währung mit der niedrigeren Rendite halten.
+13.8 EDELSTEINERFILZ-CFDs
+Für Rohstoff-CFDs auf Futures-Kontrakte fallen keine Finanzierungskosten an. Für Rohstoff-CFDs auf physische
+Rohstoffe (wie Gold und Silber), die über Nacht gehalten werden, fallen Finanzierungskosten für den gesamten
+Nominalwert der Position zum jeweiligen Finanzierungssatz an. Wenn Sie eine Short-Position auf Rohstoff-CFDs
+auf Futures-Kontrakte mit Overnight-Position haben, können Sie von uns eine Finanzierung erhalten. Unter
+bestimmten Marktbedingungen können wir jedoch eine tägliche Rollover-Gebühr verlangen, anstatt dass Sie
+normalerweise eine Finanzierungsgebühr erhalten hätten.
+
+13.9 KURZE MARGIN-FX
+Wenn Sie eine Short-Position in einer Margin-Devise halten, bei der die Verkaufszinsen höher sind als die
+Kaufzinsen, zahlen Sie Zinsen zum Swapsatz, wenn Sie die Position über Nacht halten und nicht vor dem
+Abrechnungszeitpunkt schließen. Dies liegt daran, dass Sie die Währung mit der niedrigeren Rendite
+halten. Wenn Sie hingegen eine Short-Position in einem Margin-Devisenkontrakt halten, bei dem die
+Verkaufszinsen niedriger sind als die Kaufzinsen, erhalten Sie Zinsen zum Swapsatz, wenn Sie die Position
+über Nacht halten und nicht vor dem Abrechnungszeitpunkt schließen. Dies liegt daran, dass Sie die
+Währung mit der höheren Rendite halten.
+13.10 KURZE MARGIN-DEVISEN
+Ein Rollover bei Rohstoff- und Index-Futures-CFDs erfolgt, wenn sich der zugrundeliegende Frontmonats-FuturesKontrakt dem Verfallsdatum nähert und wir unsere CFD-Preisgebühr vom Frontmonat auf den nächsten SerienFutures-Kontrakt ändern. Sobald der neue Preisfeed in Kraft tritt, entsteht Ihnen sofort ein Gewinn oder Verlust in
+Ihrem offenen Handelskapital. Dieser Gewinn oder Verlust hängt von Ihrer Positionsgröße und -richtung sowie
+der Preisdifferenz zwischen dem auslaufenden und dem neuen Kontrakt ab, auf der der Preis nun basiert. Ihnen
+wird eine Rollover-Gebühr oder ein Rollover-Vorteil gutgeschrieben oder belastet, die den Effekt des oben
+genannten Gewinns oder Verlusts vollständig ausgleicht. Wenn Sie beispielsweise durch die Änderung des neuen
+Kontraktpreisfeeds einen Gewinn erzielt haben, erhalten Sie eine Rollover-Gebühr, die den Gewinn ausgleicht.
+13.11 Neubewertung von Positionen, die durch den Handel innerhalb der Handelszeiten betroffen sind
+Sie erkennen an, dass jede Reduzierung durch die Anwendung des eingeschränkten Handels im Rahmen dieser
+Vereinbarung dazu führt, dass offene Positionen nach Handelsschluss an der Hauptbörse zum Marktwert
+bewertet werden und Ihre Margin-Anforderung entsprechend variiert. Wenn Sie dieses zusätzliche Risiko nicht
+eingehen möchten, können Sie betroffene Kontrakte nach entsprechender Benachrichtigung jederzeit glattstellen.
+13.12 Abrechnung
+Swap-Gebühren und -Vorteile werden im Feld „Swap-Wert“ Ihrer offenen Handelsposition abgebucht. Falls
+Ihr Konto nicht über ausreichende Deckung verfügt, wird jeder uns aufgrund der Swap-Gebühren
+geschuldete Betrag zu einer uns geschuldeten Schuld. Bei Rohstoff- und Index-Futures-CFDs werden
+Rollover-Gebühren und Rollover-Vorteile im Feld „Rollover-Wert“ Ihrer offenen Handelsposition abgebucht.
+Falls Ihr Konto nicht über ausreichende Deckung verfügt, wird jeder uns aufgrund der Rollover-Gebühren
+geschuldete Betrag zu einer uns geschuldeten Schuld. Wenn wir Buchhaltungszahlungen leisten, werden
+alle gemäß dieser Klausel 13 fälligen Zahlungen vorbehaltlich Klausel 16 dieser Vereinbarung von uns durch
+Anpassung des Kontos mit sofortiger Wirkung nach Geschäftsschluss des entsprechenden Geschäftstags
+vorgenommen.
+14. Stop-Loss-Orders und Limit-Orders
+14.1 VERFÜGBARKEIT VON BESTELLUNGEN
+Stop-Loss- und Limit-Orders sind nur für ausgewählte Instrumente verfügbar. Wir behalten uns das Recht vor,
+Stop-Loss- und Limit-Orders für alle Handelsgeschäfte abzulehnen. Solche Orders können, sofern wir sie
+annehmen, jederzeit während der Handelszeiten der Börse, an der der Basiswert gehandelt wird, erteilt oder
+storniert werden.
+
+14.2 MARGIN-ANFORDERUNGEN ZUR AUSFÜHRUNG VON AUFTRÄGEN
+Eine Order, die uns zur Eröffnung eines Handels über einem bestimmten Preis anweist, wird normalerweise nicht
+ausgeführt, es sei denn, Ihr Konto verfügt zu dem Zeitpunkt, an dem der Preis das entsprechende Limit erreicht, über
+ausreichend Handelsressourcen, um die Ersteinschusszahlung für den zu eröffnenden Handel zu decken. Wir können
+jedoch nach unserem Ermessen mit der Ausführung einer solchen Order fortfahren, auch wenn Ihr Konto nicht über
+ausreichende Handelsressourcen verfügt, um die Ersteinschusszahlung für den zu eröffnenden Handel zu decken. Unter
+diesen Umständen behalten wir uns das Recht vor, von Ihnen jederzeit nach Eröffnung des Handels die Hinterlegung von
+Barmitteln in Höhe der erforderlichen Ersteinschusszahlung für diesen Handel zu verlangen. Alle derartigen weiteren
+Bareinzahlungen sind als Marge gemäß den Bestimmungen in Klausel 10 zu zahlen. Eine nicht fristgerechte und nicht
+fristgerechte Zahlung stellt einen Verzugsfall dar. Wir behalten uns das Recht vor, die Eröffnung eines Handels gemäß
+einer Limit-Order abzulehnen, wenn:
+a. Es ist ein Ausfallereignis eingetreten; und
+b. Unter allen anderen Umständen, unter denen wir berechtigt wären, den Handel zu schließen, wenn er bereits eröffnet
+worden wäre.
+14.3 Haftung für Schäden aus Bestellungen
+Sie bleiben für alle Verluste auf Ihrem Konto haftbar, die durch die Ausführung einer Bestellung entstehen
+können, unabhängig von den Handelsressourcen, die zum Zeitpunkt der Ausführung der Bestellung auf Ihrem
+Konto verfügbar waren.
+14.4 UNSER RECHT, EINE STOP-LOSS-ORDER ZU ERTEILEN
+a. Wir haben Grund zu der Annahme, dass Sie uns geschuldete oder künftig zustehende Beträge nicht
+zahlen werden; oder
+b. Sie machen uns gegenüber Aussagen, von denen wir Grund zu der Annahme haben, dass sie wahr sind oder nicht; oder
+c. Sie erfüllen nicht die uns gegenüber zugesagten Leistungen; oder
+d. Wir haben Schwierigkeiten, mit Ihnen zu kommunizieren, und es gibt Grund zu der Annahme, dass dies darauf
+zurückzuführen ist, dass Sie nicht ausreichend darauf geachtet haben, jederzeit für uns erreichbar zu sein.
+Solche Gründe liegen vor, wenn wir (unabhängig davon, ob wir einen Margin Call durchführen oder nicht) alle
+von Ihnen angegebenen Telefonnummern wählen, Sie aber nicht persönlich erreichen können und:
+i. Wir hinterlassen eine Nachricht über eine der angebotenen Nachrichtenempfangsfunktionen, hören aber innerhalb von 30 Minuten
+nach Hinterlassen der Nachricht nichts von Ihnen (oder, falls wir mehr als eine Nachricht hinterlassen, nach der ersten
+Nachricht, die wir hinterlassen. Wenn wir jedoch eine Nachricht hinterlassen oder zu hinterlassen versuchen, sei es bei einer
+Person, die anbietet, eine Nachricht entgegenzunehmen, oder über einen automatisierten Nachrichtenempfangsdienst, diese
+Sie jedoch aus irgendeinem Grund nicht erreicht, wird davon ausgegangen, dass wir eine Nachricht für Sie hinterlassen haben);
+oder
+ii. Es wird kein Nachrichtenübermittlungsdienst angeboten und wir wählen alle von Ihnen angegebenen Nummern
+nach mindestens 30 Minuten erneut und können immer noch nicht sofort mit Ihnen sprechen.
+14.5 INFORMATION ÜBER VON UNS ERLASSENE ANWEISUNGEN
+Wir werden Sie so schnell wie möglich nach der Verhängung einer Stop-Loss-Order darüber informieren,
+indem wir Sie unter der oder den Nummern anrufen, die Sie uns hinterlassen haben, und:
+a. Sie persönlich über die Stop-Loss-Order zu informieren oder, falls dies nicht möglich ist, durch;
+b. Hinterlassen Sie eine Nachricht, sofern und nur sofern eine automatische Nachrichtenannahmefunktion oder eine
+Person vorhanden ist, die diese für Sie entgegennimmt. Hinterlassen Sie eine Nachricht, gilt diese als zugegangen,
+unabhängig davon, ob sie tatsächlich eingegangen ist. Wir senden Ihnen außerdem schriftliche Benachrichtigungen
+per Post und/oder E-Mail an die von Ihnen angegebenen Adressen. Wir sind nicht verpflichtet, Sie anderweitig über
+die Stop-Loss-Order zu informieren. Sollten wir Sie aus irgendeinem Grund nicht über die Verhängung einer StopLoss-Order informieren, hat dies keinen Einfluss auf die Gültigkeit oder Durchsetzbarkeit dieser Stop-Loss-Order.
+
+15. VERZUGSFÄLLE
+15.1 WAS STELLT EINEN ZAHLUNGSAUSFALL DAR?
+Die folgenden Ereignisse stellen einen Verzug dar, der uns bei Eintritt zu Maßnahmen gemäß
+Ziffer 15.2 berechtigt:
+a. Bei Ihnen tritt ein Insolvenzfall ein;
+b. Sie sind eine Einzelperson und sterben oder werden geisteskrank;
+c. Sie versäumen es, eine Margin oder einen anderen gemäß dieser Vereinbarung fälligen Betrag in Bezug auf einen Margin-FXKontrakt, einen FX-Optionskontrakt oder einen CFD bereitzustellen, oder die von uns in Bezug auf offene Positionen
+gehaltene Margin fällt unter unsere Margin-Anforderungen;
+d. Sie verstoßen gegen jegliche Garantie oder Zusicherung im Rahmen dieser Vereinbarung und/oder jegliche uns im
+Zusammenhang mit dieser Vereinbarung bereitgestellten Informationen sind oder wurden unwahr oder
+irreführend;
+e. Eine uns zustehende Gebühr wird nicht gemäß dieser Vereinbarung bezahlt;
+f. Unabhängig davon, ob Sie uns derzeit Beträge schulden, ein Scheck oder ein anderes Zahlungsmittel
+nicht wie erwartet eingelöst wurde oder später nicht eingelöst wird oder Sie es wiederholt versäumt
+haben, einen uns geschuldeten Betrag rechtzeitig zu zahlen;
+g. Sie sind zu irgendeinem Zeitpunkt oder für einen von uns als angemessen erachteten Zeitraum nicht erreichbar oder reagieren
+nicht auf eine Mitteilung oder Korrespondenz von uns;
+h. Wir sind der Ansicht, dass es für uns ratsam ist, eine oder alle der in Klausel beschriebenen Maßnahmen zu ergreifen
+15.2 im Hinblick auf alle relevanten gesetzlichen oder behördlichen Anforderungen, die entweder für Sie oder für uns gelten;
+i. Wir sind der begründeten Ansicht, dass anormale Handelsbedingungen vorliegen;
+j. Wir sind der Ansicht, dass dies zum Schutz unserer Rechte aus dieser Vereinbarung erforderlich ist;
+k. Wir sind nicht in der Lage, im Margin-Devisenkontrakt, Devisenoptionskontrakt oder CFD einen Preis festzulegen, da die
+entsprechenden Marktinformationen aus Gründen, die außerhalb unserer Kontrolle liegen, nicht verfügbar sind;
+l. Wir sind der Ansicht, dass Sie möglicherweise gegen geltendes Recht verstoßen haben;
+m. Wir werden von CIMA oder einer anderen Aufsichtsbehörde oder Behörde dazu aufgefordert;
+n. Die Summe Ihrer Order und aller anderen Orders für einen Margin-FX-Kontrakt, einen FX-Optionskontrakt oder einen CFD liegt
+außerhalb der normalen Handelsgröße; oder
+o. Es besteht eine geringere Wahrscheinlichkeit, dass ein Positionslimit überschritten wird.
+15.2 WELCHE MASSNAHMEN KÖNNEN WIR ERGREIFEN?
+Wenn ein Zahlungsverzug eintritt, können wir alle oder einige der folgenden Maßnahmen ergreifen:
+a. Fordern Sie unverzüglich die Zahlung aller Beträge, die Sie uns schulden, einschließlich der Marge;
+b. Diese Vereinbarung kündigen;
+c. Schließen Sie alle oder einige Ihrer offenen Positionen;
+d. Begrenzen Sie die Größe Ihrer offenen Positionen entweder auf monatlicher Basis oder auf Basis einer bestimmten Anzahl von MarginDevisenkontrakten, Devisenoptionskontrakten oder CFDs (netto oder brutto).
+e. Befehle zur Schaffung neuer Positionen abzulehnen;
+f. Konvertieren Sie alle Hauptbuchsalden in die Basiswährung Ihres Kontos.
+g. Ausübung unserer Aufrechnungsrechte (einschließlich, aber nicht beschränkt auf) die in Ihrem Namen auf dem
+getrennten Kundenkonto gehaltenen Gelder;
+h. Ändern Sie die Margin-Stufe, bei der wir Ihr Konto schließen können.
+i. Neue Margin-Anforderungen für Ihren Handel oder Ihr Konto festlegen;
+j. Begrenzen oder heben Sie das Guthaben auf Ihrem Konto auf;
+k. Ihr Konto sperren und die Ausführung jeglicher Handelsgeschäfte verweigern;
+l. Inanspruchnahme jeglicher Garantien hinsichtlich Ihrer Verpflichtungen;
+m. Wir verlangen von Ihnen, dass Sie den Margin-Devisenkontrakt, den Devisenoptionskontrakt oder den CFD unverzüglich in der
+von uns gewünschten Weise schließen und abwickeln;
+
+n. Schließen Sie Transaktionen zu den von uns festgelegten Kursen und Zeitpunkten ab, um Ihre Verpflichtungen
+aus einem Margin-Devisenvertrag, einem Devisenoptionsvertrag oder einem CFD zu erfüllen:
+o. Alle von Ihnen unterhaltenen Konten zusammenlegen, schließen oder konsolidieren und alle uns oder von uns geschuldeten
+Beträge und/oder Beträge auf eine von uns nach unserem alleinigen Ermessen festgelegte Weise verrechnen;
+p. Einbehaltung aller von uns Ihnen geschuldeten Beträge gegen etwaige Eventualverbindlichkeiten Ihrerseits uns gegenüber oder solange
+die Eventualverbindlichkeit besteht; oder
+q. Ausübung aller Befugnisse und Rechte, die uns gemäß dieser Vereinbarung, nach Gesetz oder Billigkeit
+zustehen, oder Ergreifen sonstiger Maßnahmen.
+15.3 ZUSÄTZLICHE SCHLUSSRECHTE
+Wir können Ihr Konto unter den unten genannten Umständen auch mit einer Frist von 14 Tagen schließen. Wenn wir uns
+auf unsere Rechte gemäß dieser Klausel berufen, wird Ihr Konto während der 14-tägigen Frist gesperrt, und Sie können
+keine anderen Transaktionen als die Schließung bestehender offener Positionen tätigen. Sollten Sie nicht alle offenen
+Positionen innerhalb der 14-tägigen Frist geschlossen haben, sind wir berechtigt, alle Maßnahmen gemäß Klausel 15.2 zu
+ergreifen. Die relevanten Umstände sind:
+a. Es wird ein Rechtsstreit begonnen, in dem wir uns beide gegenüberstehen, und wir kommen angesichts des
+Gegenstands oder etwaiger Streitpunkte im Zusammenhang mit diesem Rechtsstreit zu dem vernünftigen Schluss,
+dass wir die Zusammenarbeit mit Ihnen nicht fortsetzen können, solange der Rechtsstreit anhängig ist;
+b. Wenn Sie sich gegenüber unseren Mitarbeitern wiederholt beleidigend verhalten haben (beispielsweise durch das An den Tag
+legen, was wir als schwerwiegende Unhöflichkeit erachten, oder die Verwendung anstößiger oder beleidigender Sprache);
+c. Wenn wir aus begründeten Gründen davon ausgehen, dass Sie nicht in der Lage sind, die Risiken zu bewältigen, die sich aus Ihren
+Handelsgeschäften ergeben.
+15.4 UNSERE RECHTE ZUR SCHLIESSUNG ODER AUFHEBUNG
+Unbeschadet unserer Klagebefugnis gemäß den Klauseln 15.2 und 15.3 können wir auch einzelne offene
+Positionen schließen oder für ungültig erklären und/oder Aufträge stornieren. Wir behalten uns das Recht vor,
+offene Positionen ganz oder teilweise zu schließen, um den Streitwert zu minimieren; und/oder es liegt ein
+wesentlicher Vertragsbruch in Bezug auf die offene Position vor.
+15.5 UNSERE RECHTE ZUR SPERRUNG DES KONTOS
+Unbeschadet unseres Rechts, gemäß den Klauseln 15.2, 15.3 und 15.4 Maßnahmen zu ergreifen, können wir Ihr
+Konto nach eigenem Ermessen bis zum Abschluss der Untersuchung aus beliebigem Grund sperren. Während der
+Sperrung Ihres Kontos können Sie Ihre offenen Positionen schließen, jedoch keine neuen Handelsgeschäfte
+tätigen. Zu den Umständen, unter denen wir von diesem Recht Gebrauch machen können, gehören unter
+anderem:
+a. Wenn wir hinreichende Gründe für die Annahme haben, dass ein Zahlungsverzug eingetreten ist oder eintreten könnte,
+wir jedoch der Ansicht sind, dass eine Untersuchung der Umstände zur Bestätigung dieser Annahme erforderlich ist;
+b. Wenn wir berechtigte Gründe für die Annahme haben, dass Sie die von Ihnen getätigten Geschäfte oder die
+damit verbundenen Risiken nicht ausreichend verstehen;
+c. Wenn wir innerhalb von 10 Tagen nach einer schriftlichen Anfrage nicht alle Informationen erhalten haben, die wir im
+Zusammenhang mit dieser Vereinbarung für erforderlich halten;
+d. Wir haben Grund zu der Annahme, dass Ihr Kontoanteil verletzt wurde oder dass Ihr
+Kontoanteil gefährdet ist; oder
+e. Wir haben Grund zu der Annahme, dass wir alle gesetzlichen Anforderungen erfüllen müssen.
+
+15.6 UNTERSUCHUNGEN ABSCHLUSS
+Wenn wir Ihr Konto bis zur Untersuchung gesperrt haben, werden wir uns nach Kräften bemühen, unsere
+Untersuchung innerhalb von fünf (5) Werktagen abzuschließen. Nach Abschluss unserer Untersuchung
+informieren wir Sie, ob der Handel auf Ihrem Konto wieder aufgenommen werden kann oder ob wir gemäß dieser
+Vereinbarung weitere Maßnahmen ergreifen werden.
+15.7 AUSÜBUNG VON RECHTEN
+Wir können unsere Rechte gemäß dieser Klausel 15 jederzeit nach Eintreten des entsprechenden Ereignisses ausüben
+und werden dies gegebenenfalls auf der Grundlage des nächsten verfügbaren Preises für die betroffene offene Position
+tun, wie in Klausel 12.5 festgelegt.
+16. Aufrechnung und Verrechnung
+Zu jedem beliebigen Zeitpunkt nach dem Eintreten eines Zahlungsverzugsereignisses können wir durch Mitteilung
+an Sie ein Datum (das „Liquidationsdatum“) für die Beendigung und Liquidation von Netting-Transaktionen gemäß
+dieser Klausel festlegen.
+Diese Vereinbarung und alle darin enthaltenen Handelsgeschäfte sind Teil einer Einzelvereinbarung zwischen uns und Ihnen, und wir
+erkennen beide an, dass wir diese Vereinbarung und alle darin enthaltenen Handelsgeschäfte im Vertrauen auf diese Bedingungen
+abschließen.
+17. ZAHLUNGEN
+17.1 IHRE ZAHLUNGEN MÜSSEN DEN VOLLEN BETRAG ERREICHEN
+Wenn Sie eine Zahlung leisten, die gemäß dieser Vereinbarung einer Einbehaltung oder einem Abzug unterliegt, müssen
+Sie uns einen Betrag zahlen, der sicherstellt, dass der tatsächlich von uns erhaltene Betrag dem vollen Betrag entspricht,
+den wir erhalten hätten, wenn keine Einbehaltung oder kein Abzug vorgenommen worden wäre.
+17.2 Zahlungen, die wir Ihnen schulden und die Sie uns schulden, werden verrechnet
+a. Wenn an einem beliebigen Tag im Rahmen dieser Vereinbarung für dasselbe Konto von Ihnen oder uns an die
+jeweils andere Partei in derselben Währung dieselben Beträge zu zahlen sind, dann wird an diesem Tag jede
+unserer Zahlungsverpflichtungen in Höhe dieses Betrags automatisch erfüllt und aufgehoben.
+b. Übersteigt andererseits der von einem von uns zu zahlende Gesamtbetrag den von dem anderen in der
+gleichen Währung zu zahlenden Gesamtbetrag, so muss derjenige, der den höheren Betrag zu zahlen
+hat, den Überschuss an den anderen zahlen, und die Zahlungsverpflichtungen beider Parteien sind
+damit erfüllt und erfüllt.
+17.3 ZAHLUNG DER UNS GESCHULDETEN BETRÄGE
+Sofern in dieser Vereinbarung nichts anderes bestimmt ist, werden alle uns geschuldeten Beträge nach unserer Wahl:
+a. Von den von uns für Sie gehaltenen Geldern abgezogen werden; oder
+b. Von Ihnen gemäß dieser Vereinbarung bezahlt werden.
+Sie sind verpflichtet, sämtliche Provisionen, Gebühren und Kosten, einschließlich Verwaltungsgebühren,
+Datengebühren, Rollover- und Finanzierungsgebühren sowie sonstige von uns gegebenenfalls erhobene
+Gebühren gemäß dieser Vereinbarung zu zahlen. Die Mehrwertsteuer wird gegebenenfalls zum zu zahlenden
+Betrag hinzugerechnet.
+
+17.4 Abhebung von Guthaben von Ihrem Konto
+Wenn Ihr Konto ein Guthaben aufweist, können Sie uns bitten, Ihnen einen Scheck zu senden oder den von
+Ihnen angegebenen Betrag auf andere Weise auszuzahlen. Wir behalten uns jedoch vor, nach eigenem
+Ermessen einen Teil des Guthabens einzubehalten, wenn:
+a. Jede Übernachtposition auf Ihrem Konto weist einen nominellen Verlust auf;
+b. Wir gehen davon aus, dass aufgrund der zugrunde liegenden Marktbedingungen weitere Beträge erforderlich sein
+könnten, um aktuelle oder zukünftige Margin-Anforderungen für offene Positionen zu erfüllen;
+c. Wenn Sie gegenüber uns (oder einem unserer Partner) eine Eventualverbindlichkeit in Bezug auf ein anderes bei uns
+eröffnetes Konto haben;
+d. Wir stellen vernünftigerweise fest, dass zwischen uns und Ihnen ein ungelöster Streit im Zusammenhang mit
+dieser Vereinbarung oder einem Margin-FX-Vertrag oder CFD besteht; oder
+e. Wir halten es für notwendig oder wünschenswert, diesen Betrag einzubehalten, um unseren regulatorischen oder gesetzlichen
+Verpflichtungen nachzukommen, und wir werden Sie so bald wie möglich benachrichtigen, wenn wir uns zu einer solchen Maßnahme
+entschließen.
+17.5 KEINE SICHERHEITSRECHTE ENTSTEHEN
+Nichts in dieser Vereinbarung ist dazu bestimmt oder begründet zugunsten eines von uns eine Hypothek, Belastung, ein
+Pfandrecht, eine Verpfändung oder ein anderes Sicherungsrecht an Bargeld oder anderem Eigentum, das von einem von uns an
+den anderen im Rahmen eines Margin-FX-Vertrags oder CFD übertragen wird.
+17.6 ÜBERWEISUNGEN MÜSSEN FREI VON TITEL
+Jeder von uns erklärt sich damit einverstanden, dass alle Rechte, Titel und Ansprüche an und in Bezug auf jede Zahlung, die er im Hinblick
+auf einen Margin-FX-Vertrag oder CFD gemäß dieser Vereinbarung an den anderen überträgt, frei von jeglichen Pfandrechten, Gebühren,
+Belastungen oder sonstigen Ansprüchen des Übertragenden oder eines Dritten beim Empfänger verbleiben.
+17.7 ZUSTIMMUNG AN ZAHLUNGSSTELLE
+Über Paysafe getätigte Zahlungen werden über MBFX International Corporation LTD mit eingetragener
+Adresse Aiolou & Panagioti Diomidou, 9 Katholiki.3020 Limassol, Zypern abgewickelt.
+18. ÄNDERUNG UND KÜNDIGUNG
+18.1 DIE AKTUELLE VERSION DER VEREINBARUNG REGELT MARGIN-FX-VERTRÄGE, FXOPTIONSVERTRÄGE UND CFDS
+Sie erklären sich damit einverstanden, dass die Version dieser Vereinbarung, die zum Zeitpunkt des Abschlusses eines Margin-FX-Vertrags,
+FX-Optionsvertrags oder CFDs auf unserer Website veröffentlicht ist, für diesen Margin-FX-Vertrag, FX-Optionsvertrag oder CFD maßgeblich
+ist.
+
+18.2 Abhebung von Guthaben von Ihrem Konto
+Wir können diese Vereinbarung durch schriftliche Mitteilung ändern oder ersetzen. Änderungen werden nur aus triftigen
+Gründen vorgenommen, insbesondere:
+a. Die Bestimmungen für Sie klarer oder günstiger zu gestalten;
+b. Um legitime Erhöhungen oder Senkungen der Kosten für die Bereitstellung von Diensten für Sie widerzuspiegeln;
+c. Korrektur etwaiger festgestellter Fehler;
+d. Berücksichtigung aller Änderungen der geltenden Gesetze, Verhaltenskodizes oder Entscheidungen von Gerichten,
+Ombudsleuten, Aufsichtsbehörden oder ähnlichen Stellen;
+e. Berücksichtigung von Veränderungen der Marktbedingungen;
+f. Berücksichtigung von Veränderungen in unserer Geschäftstätigkeit.
+18.3 SIE KÖNNEN WIDERSPRUCH EINLEGEN
+Wenn Sie Einwände gegen Änderungen haben, müssen Sie uns dies innerhalb von 14 Tagen ab dem Datum mitteilen, an
+dem die Mitteilung gemäß Klausel 36 als eingegangen gilt. Andernfalls gelten die Änderungen als von Ihnen akzeptiert.
+Wenn Sie uns Ihren Einspruch mitteilen, sind die Änderungen für Sie nicht bindend. Wir können Sie jedoch dazu
+auffordern, Ihr Konto so schnell wie möglich zu schließen und/oder Ihnen die Platzierung von Handelsgeschäften und/
+oder die Schließung offener Positionen untersagen.
+18.4 ANTRAGSZEITPUNKT
+Vorbehaltlich Klausel 18.2 gelten die gemäß dieser Klausel 18 vorgenommenen Änderungen, einschließlich aller offenen
+Positionen und nicht ausgeführten Aufträge, ab dem von uns angegebenen Datum des Inkrafttretens der in der Mitteilung
+genannten Änderungen.
+18.5 UNSER KÜNDIGUNGSRECHT
+Wir können diese Vereinbarung jederzeit und aus beliebigem Grund kündigen und Ihr Konto schließen. Dieses Recht besteht
+zusätzlich zu allen anderen Rechten zur Kündigung dieser Vereinbarung oder zur Schließung Ihres Kontos, die uns im Rahmen
+dieser Vereinbarung zustehen.
+18.6 IHR KÜNDIGUNGSRECHT
+Sie können diese Vereinbarung jederzeit kündigen oder Ihr Konto schließen, indem Sie uns eine schriftliche
+Mitteilung senden. Ihr Konto wird so schnell wie möglich nach Erhalt der Mitteilung, Schließung aller
+offenen Positionen oder Stornierung von Aufträgen und Erfüllung aller Ihrer Verpflichtungen geschlossen.
+18.7 RECHTSVORBEHALT
+Wenn Sie oder wir Ihnen die Schließung Ihres Kontos oder die Kündigung dieser Vereinbarung gemäß dieser Klausel 18 mitteilen,
+behalten wir uns das Recht vor, Ihnen die Durchführung weiterer Handelsgeschäfte oder Aufträge zu verweigern, was dazu führen
+kann, dass Sie weitere offene Positionen halten.
+18.8 Fortbestehen von Verpflichtungen
+Durch die Kündigung dieser Vereinbarung werden die Parteien nicht von ihren vor der Kündigung dieser Vereinbarung
+entstandenen Verpflichtungen oder Verbindlichkeiten entbunden.
+
+19. VERWENDUNG DES KONTOGELDS
+19.1 UNSERE RECHTE ZUR VERWENDUNG VON KONTOGUTHABEN
+Um Ihren (tatsächlichen oder bedingten) Verpflichtungen aus dieser Vereinbarung nachzukommen, können wir jederzeit
+und ohne vorherige Mitteilung an Sie:
+a. Wir verwenden die gesamte oder einen Teil der von uns auf Ihrem Konto gehaltenen Währung sowie alle von uns für Ihre Geschäfte gehaltenen Währungen in der
+Reihenfolge und auf die Art und Weise, die wir für angemessen halten, unabhängig davon, ob es sich um tatsächliche oder bedingte Verbindlichkeiten, primäre
+oder Sicherheiten, gemeinschaftliche oder mehrere Verbindlichkeiten handelt;
+b. Alle oder einige Ihrer Konten bei uns zusammenlegen oder konsolidieren; und
+c. Konvertieren Sie die von uns auf Ihrem Konto gehaltene Währung zu einem Handelskurs in eine oder mehrere Währungen, in
+denen Sie Zahlungen an uns leisten müssen, ohne dass wir Ihnen gegenüber für etwaige Verluste verantwortlich sind, die
+aus einer solchen Konvertierung resultieren.
+20. Einstellung des Handelsangebots
+20.1 UNSER RECHT, DEN HANDEL MIT MARGIN-FX-VERTRÄGEN, FX-OPTIONSVERTRÄGEN
+ODER CFDS EINZUSTELLEN
+Wir können Ihnen gegenüber jederzeit schriftlich mitteilen, dass wir den Handel mit einem Margin-FX-Kontrakt, einem FXOptionskontrakt oder einem CFD nicht mehr anbieten. In der Mitteilung geben wir ein Datum an, an dem wir den Handel mit dem
+jeweiligen Margin-FX-Kontrakt, FX-Optionskontrakt oder CFD nicht mehr anbieten. Dieses Datum muss mindestens sieben (7) Tage
+nach dem Versand der Mitteilung liegen.
+20.2 Fortbestehen von Verpflichtungen
+Sie erklären sich damit einverstanden, alle offenen Positionen in Bezug auf den Margin-FX-Kontrakt, den FX-Optionskontrakt oder
+den CFD für das in der Mitteilung angegebene Datum zu schließen, und wir werden alle verbleibenden offenen Positionen an dem
+in der Mitteilung angegebenen Datum mit Wirkung zum Handelsschluss des Tages schließen.
+Wenn wir von unserem Recht Gebrauch machen, Ihre verbleibenden Positionen gemäß der vorhergehenden Klausel
+glattzustellen, werden wir diese offenen Positionen zum Schlusskurs des Kontrakts glattstellen, es sei denn, Ihre offenen
+Positionen liegen außerhalb der normalen Handelsgröße. In diesem Fall werden wir diese Positionen zu einem
+angemessenen Kurs glattstellen, den wir in Übereinstimmung mit der Marktpraxis, jedoch nach unserem alleinigen
+Ermessen, festlegen.
+21. GESETZLICHE UND REGULATORISCHE ANFORDERUNGEN
+21.1 UNSERE MASSNAHMEN ZUR EINHALTUNG DES GESETZES
+Ungeachtet anderer Bestimmungen dieser Vereinbarung sind wir bei der Erbringung der Leistungen dieser Vereinbarung
+berechtigt, alle Maßnahmen zu ergreifen, die wir nach eigenem Ermessen für notwendig erachten, um die Einhaltung aller
+geltenden Gesetze zu gewährleisten. Sie stellen uns hiermit von jeglicher Haftung frei, einschließlich aller Ansprüche, Verluste,
+Aufwendungen oder Kosten, die aufgrund unserer Handlungen gemäß dieser Klausel entstehen.
+21.2 SIE STIMMEN ZU, DAS GESETZ EINZUHALTEN
+Sie verpflichten sich, alle geltenden Gesetze strikt einzuhalten. Sollten wir begründeten Anlass zu der Annahme haben, dass Sie
+diese Gesetze nicht eingehalten haben, können wir diesen Vertrag fristlos kündigen.
+
+22. HAFTUNGSBESCHRÄNKUNG
+22.1 VERNÜNFTIGERWEISE VORHERSEHBARE VERLUSTE
+Mit Ausnahme der in Klausel 22.2 beschriebenen Fälle und vorbehaltlich unserer Haftungsbeschränkungen in
+dieser Klausel 22.1 haften wir jeweils nur für Verluste, die zum Zeitpunkt des Abschlusses der Vereinbarung
+vernünftigerweise vorhersehbare Folgen von Verstößen gegen diese Vereinbarung sind.
+22.2 INDIREKTE VERLUSTE
+Wir haften nicht für indirekte Verluste, die als Nebenfolge des Hauptverlustes oder -schadens
+entstehen und für Sie und uns nicht vorhersehbar sind. Wir haften Ihnen gegenüber nicht für
+Verluste, die Ihnen entstehen und für uns vorhersehbar sind, weil Sie uns auf die Möglichkeit solcher
+Verluste oder besonderer Umstände hingewiesen haben.
+22.3 ENTGANGENER GEWINN
+Wir haften Ihnen gegenüber nicht für entgangene Gewinne oder Chancen.
+22.4 ANWENDUNG VON EINSCHRÄNKUNGEN
+Die Haftungsbeschränkungen in dieser Klausel 22 gelten unabhängig davon, ob wir oder einer unserer Mitarbeiter oder Vertreter
+von der Möglichkeit der Entstehung des Anspruchs wussten oder nicht.
+22.5 SIE STIMMEN ZU, UNS SCHADLOS ZU HALTEN
+Sie erklären sich damit einverstanden, uns kontinuierlich von allen Verlusten (einschließlich Folgeverlusten), Steuern, Ausgaben, Schäden,
+Gebühren, Einnahmen, Forderungen und Ausgaben jeglicher Art und aus jeglichem Grund und jeglicher Haftung, gegenwärtig, zukünftig,
+bedingt oder anderweitig, einschließlich Rechtskosten auf Basis einer vollständigen Entschädigung freizustellen, die erlitten oder angefallen
+sind oder gegen uns geltend gemacht werden oder im Zusammenhang mit oder verursacht durch:
+a. Ihr Verstoß gegen diese Vereinbarung;
+b. Wir schließen einen Margin-Devisenvertrag, einen Devisenoptionsvertrag oder einen CFD ab;
+c. Wir ergreifen Maßnahmen gemäß Klausel 12 dieser Vereinbarung;
+d. Jegliche von Ihnen abgegebene Erklärung oder Garantie ist falsch, irreführend oder unwahr, oder jeglicher Fehler in
+einer Bestellung oder Anweisung, die von einer autorisierten Person stammt oder zu stammen scheint, es sei denn,
+diese sind ausschließlich auf grobe Fahrlässigkeit oder vorsätzliches Versäumnis unsererseits zurückzuführen.
+22.6 Fortbestehen der Entschädigung
+Die Entschädigung gemäß Klausel 22.5 bleibt auch nach Beendigung dieser Vereinbarung und aller Transaktionen im Rahmen dieser
+Vereinbarung bestehen.
+23. KUNDENGELD
+23.1 Vorschriften und Genehmigungen für Kundengelder
+Alle Gelder, die Sie oder eine in Ihrem Namen handelnde Person an uns zahlen oder die wir in Ihrem Namen erhalten,
+werden von uns auf einem oder mehreren getrennten Bankkonten verwahrt. Diese Gelder stellen kein Darlehen an uns
+dar und werden von uns treuhänderisch verwaltet. Sie erklären sich damit einverstanden und erkennen an, dass die
+Einzelkonten unserer Kunden innerhalb der von uns geführten getrennten Treuhandkonten nicht voneinander getrennt
+sind.
+
+Der Kunde erklärt sich damit einverstanden, dass das Unternehmen für den Fall, dass es über einen Zeitraum von
+mindestens sechs (6) Jahren keine Bewegung auf dem Handelskonto des Kunden gab (ungeachtet jeglicher
+Zahlungen oder Eingänge von Gebühren, Zinsen oder ähnlichen Posten) und das Unternehmen den Kunden trotz
+angemessener Schritte nicht ausfindig machen kann, sämtliche Geldguthaben des Kunden vom getrennten Konto
+freigeben kann.
+23.2 BEHANDLUNG VON INVESTITIONSKAPITAL UND ZINSEN
+Sofern nichts anderes schriftlich mit Ihnen vereinbart wurde:
+a. Wir haben ausschließlich Anspruch auf Zinsen oder Erträge aus der Einzahlung Ihres Geldes auf ein
+separates Treuhandkonto oder aus der Anlage Ihres Geldes durch uns gemäß den
+Kundengeldregeln. Diese Zinsen oder Erträge sind uns je nach Sachlage vom jeweiligen
+separaten Treuhandkonto oder Anlagekonto zu zahlen, sobald wir dies festlegen.
+b. Bei der Realisierung einer Anlage Ihrer Gelder muss das ursprünglich investierte Kapital entweder in eine
+andere, gemäß den Kundengeldvorschriften zulässige Anlage investiert oder von uns auf ein separates
+Treuhandkonto eingezahlt werden, das gemäß den Kundengeldvorschriften geführt wird;
+c. Sollte der bei Realisierung einer Anlage Ihrer Gelder erhaltene Betrag geringer sein als das
+ursprünglich investierte Kapital, müssen wir einen Betrag in Höhe der Differenz auf ein separates
+Treuhandkonto zu Ihren Gunsten einzahlen, es sei denn, die Differenz ist das Ergebnis von
+Beträgen, die gemäß den Bedingungen dieser Vereinbarung aus der Anlage an uns und/oder
+einen unserer Partner gezahlt wurden;
+d. Wir erheben keine Gebühr für die Anlage Ihrer Gelder gemäß den Kundengeldregeln
+23.3 Treuhandvermögen
+Wenn Sie oder eine in Ihrem Namen oder zu Ihrem Vorteil handelnde Person uns Eigentum (mit Ausnahme von Geld) überlassen, muss
+dieses von uns treuhänderisch gemäß den Regeln für den Umgang mit Kundengeldern verwaltet werden.
+23.4 SIE AUTORISIEREN UNS, IHR KONTO ZU VERWALTEN
+Soweit gesetzlich zulässig, ermächtigen Sie uns und/oder unsere Partner unwiderruflich und
+bedingungslos:
+a. Von Ihrem auf einem separaten Treuhandkonto gehaltenen oder von uns investierten Geld sämtliche von Ihnen an uns und/
+oder einen unserer Partner im Rahmen dieser Vereinbarung zu zahlenden Beträge abzuziehen, abzuziehen oder
+anzuwenden, einschließlich, aber nicht beschränkt auf die Leistung einer Zahlung für oder im Zusammenhang mit der
+Einschusszahlung, Anpassung oder Abwicklung von Geschäften mit Margin-Devisenkontrakten, Devisenoptionskontrakten
+oder CFDs, die Sie abgeschlossen haben, oder die Zahlung von Zinsen oder Gebühren an uns, wobei Sie anerkennen und
+zustimmen, dass diese Beträge im Rahmen dieser Vereinbarung uns gehören und von Zeit zu Zeit von uns in unserem
+Geschäft verwendet werden können, einschließlich für die Zahlung von Beträgen an unsere Gegenparteien;
+b. Zahlen, abheben, abziehen oder verwenden Sie Beträge von Ihrem Geld, das auf einem separaten
+Treuhandkonto gehalten oder von uns gemäß den Kundengeldvorschriften angelegt wird. Sie
+erkennen an und stimmen zu, dass wir alle uns gehörenden Beträge von Zeit zu Zeit in unserem
+Geschäft verwenden können, einschließlich für die Zahlung von Beträgen an unsere Gegenparteien.
+c. Mit jeglichem Eigentum (mit Ausnahme von Geld), das uns gemäß den Bedingungen dieser Vereinbarung
+übergeben wurde, umgehen, einschließlich, aber nicht beschränkt auf:
+i. Der Umgang mit diesem Eigentum im Zusammenhang mit der Marginierung, Anpassung oder Abwicklung von Geschäften
+mit Margin-FX-Kontrakten, FX-Optionskontrakten oder CFDs, die Sie abgeschlossen haben: oder
+ii. Verkauf oder Belastung Ihres gesamten oder eines Teils Ihres Eigentums, das sich nach dem Eintritt eines
+Zahlungsverzugs von Zeit zu Zeit in unserem Besitz oder unter unserer Kontrolle oder der Kontrolle eines
+unserer Partner befindet;
+d. Mit jeglichem uns übergebenen Eigentum (mit Ausnahme von Geld) gemäß den Kundengeldvorschriften zu verfahren;
+
+e. Verwenden Sie diese Gelder für die Zahlung von Beträgen an Gegenparteien, mit denen wir Derivategeschäfte abschließen, um
+unser Risiko Ihnen gegenüber im Zusammenhang mit Margin-FX, FX-Optionen und/oder CFDs abzusichern, oder um unser
+Risiko gegenüber anderen Kunden abzusichern, die diese Finanzprodukte im Rahmen der Kundenvereinbarungen mit uns
+abgeschlossen haben;
+f. Mit diesen Geldern auf jede andere Art und Weise umgehen, die Sie schriftlich genehmigt haben.
+Das Geld von Privatkunden und erfahrenen Kunden wird nicht im Zusammenhang mit der Einschusszahlung, Garantie,
+Sicherung, Übertragung, Anpassung oder Abwicklung von Derivatgeschäften durch die MEX Atlantic Corporation oder im
+Namen anderer Personen als des Kunden verwendet.
+24. GARANTIEN, ZUSICHERUNGEN UND VERPFLICHTUNGEN
+24.1 IHRE GARANTIEN
+Sie verpflichten sich, gewährleisten und vertreten uns gegenüber mit der Absicht, die folgenden Verpflichtungen,
+Gewährleistungen und Vertretungen jedes Mal zu wiederholen, wenn Sie uns Anweisungen erteilen:
+a. Rechtliche Unfähigkeit: Sie sind nicht rechtlich unfähig und unterliegen keinem Gesetz, das Sie daran hindert,
+diesen Vertrag oder einen Margin-FX-Vertrag, einen FX-Optionsvertrag oder ein CFD abzuschließen;
+b. Unternehmensvollmacht: Wenn Sie ein Unternehmen sind, verfügen Sie über alle erforderlichen Unternehmens- oder
+sonstigen Vollmachten gemäß Ihrer Satzung und dem Gesetz und haben diese eingeholt.
+c. Zustimmungen: Sie haben alle erforderlichen Zustimmungen eingeholt und sind befugt, dieser Vereinbarung zuzustimmen und
+sie abzuschließen, auch wenn diese gegen uns als Gegenpartei gerichtet sein kann.
+d. Einhaltung von Gesetzen: Sie halten alle Gesetze ein, denen Sie unterliegen;
+e. Zahlungsfähigkeit: Sie sind in der Lage, Ihre Schulden bei Fälligkeit zu begleichen und sind nicht anderweitig
+zahlungsunfähig oder gelten nach irgendeinem Gesetz als zahlungsunfähig;
+f. Kein Liquidator usw.: In Bezug auf Ihre Angelegenheiten wurde kein Liquidator, vorläufiger Liquidator,
+Konkursverwalter, Konkursverwalter und Verwalter, Treuhänder, Kontrolleur, offizieller Verwalter, Verwalter
+oder ähnlicher Beamter ernannt und es wurde kein Antrag auf Ernennung einer dieser Personen gestellt;
+g. Richtigkeit der Informationen: Die von Ihnen an uns übermittelten Informationen, sei es im Antragsformular
+oder auf andere Weise, sind stets vollständig, richtig und dürfen in keiner wesentlichen Hinsicht irreführend
+sein.
+h. Transaktionen: Sie werden keine Transaktionen, einschließlich Handelsgeschäfte, durchführen, die gegen
+Gesetze oder Vorschriften in Bezug auf Insiderhandel, Marktmanipulation oder Marktmissbrauch
+verstoßen;
+i. Eignung: Sie sind sich der hohen Risiken und des hohen Gewinnpotenzials im Zusammenhang mit der Durchführung
+der in diesem Vertrag vorgesehenen Transaktion voll bewusst und haben sich in Bezug auf die Transaktionen die
+entsprechende steuerliche, rechtliche und sonstige professionelle Beratung eingeholt.
+j. Risikohinweis: Sie haben den oben stehenden Risikohinweis sowie alle anderen von uns in Bezug auf die für das Konto
+relevanten Finanzprodukte und -transaktionen herausgegebenen Informationen oder Offenlegungserklärungen
+gelesen und verstanden. Ihnen wurde empfohlen, vor Abschluss dieser Vereinbarung eine angemessene
+unabhängige Finanzberatung einzuholen, und Sie haben in jedem Fall Ihre eigene finanzielle Situation, Ziele und
+Bedürfnisse berücksichtigt, als Sie diese Vereinbarung abgeschlossen haben.
+k. Nichtverletzung: Bei der Ausführung und Einhaltung dieser Vereinbarung verletzen Sie keine Bestimmungen
+anderer Dokumente oder Vereinbarungen, an denen Sie beteiligt sind.
+l. Unsere Dienstleistungen: Sie erkennen an und verstehen, dass wir Ihnen im Rahmen der Dienstleistungen, die wir Ihnen
+gemäß dieser Vereinbarung erbringen, keine Rechts-, Steuer-, Buchhaltungs- oder persönliche Finanzberatung
+anbieten.
+
+m. Handeln als Auftraggeber: Sie erkennen an und verstehen, dass wir in unserer Beziehung zu Ihnen als
+Auftraggeber handeln. Unsere Direktoren, Mitarbeiter und Partner können im Zusammenhang mit Ihren
+Transaktionen auf eigene Rechnung handeln.
+n. Umfang der Befugnisse: Wir sind nicht verpflichtet, gemäß Ihren Anweisungen zu handeln, wenn dies unserer Meinung nach
+einen Verstoß des Unternehmens oder seines Vertreters oder seiner Gegenpartei gegen den Corporations Act oder ein
+anderes anwendbares Gesetz darstellen würde oder könnte.
+24.2 Treuhänder eines Trusts
+Wenn Sie Treuhänder eines Trusts, einer Vereinbarung oder eines Fonds (einschließlich eines Pensionsfonds (der Trust))
+sind, verpflichten Sie sich außerdem, gewährleisten und vertreten uns gegenüber, mit der Absicht, diese Verpflichtungen,
+Gewährleistungen und Vertretungen jedes Mal zu wiederholen, wenn Sie uns Anweisungen erteilen:
+a. Funktionen: Sie erkennen an und stimmen zu, dass Sie diese Vereinbarung in Ihrer persönlichen Funktion und
+in Ihrer Funktion als Treuhänder des Trusts abschließen;
+b. Alleiniger Treuhänder: Sie sind der alleinige Treuhänder bzw. die alleinigen Treuhänder des Trusts und wurden ordnungsgemäß
+ernannt;
+c. Rechtsgültig erstellter Trust: Der Trust wurde rechtsgültig erstellt und besteht zum Zeitpunkt Ihrer Antragstellung und
+wurde ordnungsgemäß abgestempelt (falls erforderlich);
+d. Ausschließlich errichtet: Der Trust wird ausschließlich durch die in Ihrem Antrag beschriebene Treuhandurkunde in der
+geänderten oder ersetzten Fassung (Treuhandurkunde) errichtet.
+e. Recht auf Entschädigung: Sie haben gemäß der Treuhandurkunde das Recht auf Entschädigung in Bezug auf das
+Vermögen des Trusts und es gab und wird keinen Vertrauensbruch oder eine andere Handlung geben, die Sie daran
+hindern würde, Ihre Rechte aus dieser Entschädigung durchzusetzen;
+f. Vollmacht: Sie sind befugt und haben gemäß der Treuhandurkunde die volle Befugnis, diesen Vertrag
+abzuschließen und die darin vorgesehenen Transaktionen durchzuführen;
+g. Keine Klagen: Es gibt keine laufenden, anhängigen oder angedrohten Klagen oder Verfahren, die den Trust oder dessen
+Vermögenswerte vor einem Gericht oder Gremium betreffen, welche die Rechtmäßigkeit oder Gültigkeit Ihres
+Entschädigungsanspruchs gemäß der Treuhandurkunde oder dieser Vereinbarung oder eines Margin-FX-Vertrags, FXOptionsvertrags oder CFDs oder Ihre Fähigkeit, Ihren Verpflichtungen daraus nachzukommen, in Frage stellen oder in Frage
+stellen sollen oder wahrscheinlich beeinträchtigen könnten;
+h. Beendigung Ihrer Treuhänderfunktion: Sie werden uns unverzüglich schriftlich benachrichtigen, wenn Sie aus irgendeinem Grund nicht
+mehr Treuhänder des Trusts sind oder der Trust aufgelöst wird oder aufhört zu existieren;
+i. Keine Ausschüttung von Kapital oder Einkommen: Sie werden keine Ausschüttung von Einkommen, Kapital oder
+Vermögenswerten des Trusts vornehmen, die dazu führt, dass die Vermögenswerte des Trusts nicht ausreichen, um Ihren
+Verbindlichkeiten aus dieser Vereinbarung nachzukommen.
+24.3 Pensionsfonds
+Wenn Ihr Konto über die Altersvorsorge finanziert wird, müssen Sie dies angeben, da dies Auswirkungen auf Ihre
+Einstufung als Groß- oder Privatkunde haben kann.
+Wenn Sie Treuhänder eines Pensionsfonds sind, verpflichten Sie sich außerdem, zu garantieren und zu erklären
+(mit der Absicht, dies jedes Mal zu wiederholen, wenn Sie uns Anweisungen erteilen), dass Sie sich als Treuhänder
+eines Pensionsfonds, der mit Margin-Devisenkontrakten, Devisenoptionskontrakten oder CFDs handelt, beraten
+lassen haben und davon überzeugt sind, dass Sie dabei alle Ihre treuhänderischen Pflichten und Verpflichtungen
+gemäß dem Superannuation Industry (Supervision) Act 1993 und den dazu erlassenen Vorschriften erfüllen und
+dass Ihre Geschäfte in keiner Weise gegen diese Gesetzgebung verstoßen.
+24.4 BENACHRICHTIGUNG VON ÄNDERUNGEN
+Sie verpflichten sich, uns während der Laufzeit dieser Vereinbarung unverzüglich über alle Änderungen der von Ihnen in
+Ihrem Antragsformular angegebenen Daten sowie über alle wesentlichen oder voraussichtlichen Änderungen Ihrer
+finanziellen Umstände zu informieren, die die Grundlage unserer Geschäftsbeziehung mit Ihnen beeinflussen könnten.
+
+24.5 ELEKTRONISCHE DIENSTE
+a. Vorbehaltlich Klausel 25 werden sämtliche ausdrücklichen und stillschweigenden Gewährleistungen hinsichtlich der
+Beschreibung, Qualität, Leistung oder Eignung der elektronischen Dienste oder jeglicher Komponenten dieser
+elektronischen Dienste für Ihren Zweck abgelehnt und ausgeschlossen.
+b. Wir übernehmen keine Garantie oder Prognose dafür, dass die elektronischen Dienste oder Komponenten
+elektronischer Dienste oder im Zusammenhang mit solchen elektronischen Diensten erbrachte Dienste den
+Anforderungen eines Benutzers entsprechen oder dass der Betrieb der elektronischen Dienste ohne
+Unterbrechungen oder fehlerfrei erfolgt oder dass im Zusammenhang mit den elektronischen Diensten erbrachte
+Dienste ohne Unterbrechungen oder fehlerfrei erfolgen.
+25. ELEKTRONISCHE DIENSTBEDINGUNGEN
+25.1 GELTUNGSBEREICH
+Diese Klausel 25 gilt für Ihre Nutzung elektronischer Dienste.
+25.2 ZUGRIFF
+Sobald Sie die Freigabeverfahren für einen von uns bereitgestellten elektronischen Dienst durchlaufen haben, erhalten
+Sie Zugriff auf diesen Dienst, sofern nichts anderes vereinbart oder auf unserer Website angegeben ist. Weitere
+Informationen zu den Betriebszeiten finden Sie auf unserer Website. Wir behalten uns das Recht vor, unsere
+Freigabeverfahren jederzeit zu ändern. Wir werden Sie so schnell wie möglich über alle für Sie geltenden neuen Verfahren
+informieren.
+25.3 ZUGRIFFSANFORDERUNGEN
+Sie sind dafür verantwortlich, das System bereitzustellen, das Ihnen die Nutzung eines elektronischen Dienstes ermöglicht.
+25.4 VIRENERKENNUNG
+Sie sind für die Installation und ordnungsgemäße Verwendung aller Virenerkennungs-/Scanprogramme
+verantwortlich, die wir von Zeit zu Zeit benötigen.
+25.5 VERWENDUNG VON INFORMATIONEN, DATEN UND SOFTWARE
+Für den Fall, dass Sie über den elektronischen Dienst andere Daten, Informationen oder Software erhalten
+als diejenigen, zu deren Empfang Sie gemäß dieser Vereinbarung berechtigt sind, benachrichtigen Sie uns
+unverzüglich und verwenden diese Daten, Informationen oder Software in keiner Weise.
+25.6 BEI DER NUTZUNG DES ELEKTRONISCHEN DIENSTES MÜSSEN SIE:
+a. Sicherstellen, dass das System in gutem Zustand gehalten wird und für die Nutzung mit dem elektronischen Dienst geeignet ist;
+b. Führen Sie Tests durch und stellen Sie uns die Informationen zur Verfügung, die wir für notwendig erachten,
+um sicherzustellen, dass das System die Anforderungen erfüllt, die wir Ihnen von Zeit zu Zeit mitteilen.
+c. Führen Sie regelmäßig Virenprüfungen durch.
+d. Uns unverzüglich über jeden unbefugten Zugriff auf einen elektronischen Dienst oder jede unbefugte Transaktion oder Anweisung zu
+informieren, von der Sie Kenntnis haben oder die Sie vermuten, und, sofern in Ihrem Einflussbereich liegend, dafür zu sorgen, dass
+eine solche unbefugte Nutzung eingestellt wird; und
+e. Verlassen Sie zu keinem Zeitpunkt das Terminal, von dem aus Sie auf den elektronischen Dienst zugegriffen haben, und
+überlassen Sie es keiner anderen Person, bis Sie sich von dem elektronischen Dienst abgemeldet haben.
+
+25.7 SYSTEMFEHLER
+Sollten Sie einen wesentlichen Defekt, eine Fehlfunktion oder einen Virus im System oder in einem elektronischen Dienst
+feststellen, benachrichtigen Sie uns unverzüglich über den Defekt, die Fehlfunktion oder den Virus und stellen die
+Nutzung des elektronischen Dienstes ein, bis Sie von uns die Erlaubnis zur Wiederaufnahme der Nutzung erhalten.
+25.8 GEISTIGES EIGENTUM
+Alle Rechte an Patenten, Urheberrechten, Designrechten, Marken und sonstigen geistigen
+Eigentumsrechten (egal ob eingetragen oder nicht) in Bezug auf die elektronischen Dienste verbleiben bei
+uns oder unseren Lizenzgebern. Sie dürfen die elektronischen Dienste oder Teile davon nur mit unserer
+ausdrücklichen schriftlichen Genehmigung kopieren, beeinträchtigen, manipulieren, verändern, ergänzen
+oder modifizieren. Sie dürfen die elektronischen Dienste auch nicht zurückkompilieren oder
+disassemblieren und dürfen dies auch nicht vorgeben oder zulassen, es sei denn, dies ist gesetzlich
+ausdrücklich gestattet. Alle gemäß den gesetzlichen Bestimmungen erstellten Kopien der elektronischen
+Dienste unterliegen den Bedingungen dieser Vereinbarung. Sie müssen sicherstellen, dass alle Marken-,
+Urheberrechts- und sonstigen Hinweise der Lizenzgeber auf diesen Kopien wiedergegeben werden. Sie
+müssen die Anzahl der von Ihnen erstellten Kopien der elektronischen Dienste schriftlich dokumentieren.
+Auf Anfrage müssen Sie uns so schnell wie möglich eine Erklärung über Anzahl und Verbleib der Kopien der
+elektronischen Dienste vorlegen.
+25.9 HAFTUNG UND SCHADENSERSATZ
+Unbeschadet aller anderen Bestimmungen dieser Vereinbarung in Bezug auf die Haftungsbeschränkung und die
+Bereitstellung von Freistellungen gelten für unsere elektronischen Dienste die folgenden Klauseln:
+a. Systemfehler: Wir haften Ihnen gegenüber nicht für Schäden, die Ihnen aufgrund von Übertragungsfehlern,
+technischen Störungen, Fehlfunktionen, rechtswidrigen Eingriffen in die Netzwerkausrüstung, Netzüberlastungen,
+böswilliger Zugangssperre durch Dritte, Internetstörungen, Unterbrechungen oder sonstigen Mängeln seitens der
+Internetdienstanbieter entstehen. Sie nehmen zur Kenntnis, dass der Zugang zu elektronischen Diensten aufgrund
+solcher Systemfehler eingeschränkt oder nicht möglich sein kann und dass wir uns das Recht vorbehalten, den
+Zugang zu elektronischen Diensten aus diesem Grund nach vorheriger Ankündigung zu sperren.
+b. Verzögerungen: Weder wir noch Drittanbieter von Software übernehmen die Haftung für Verzögerungen,
+Ungenauigkeiten, Fehler oder Auslassungen in den Daten, die Ihnen im Zusammenhang mit einem elektronischen
+Dienst bereitgestellt werden.
+c. Viren aus einem elektronischen Dienst: Wir haften Ihnen gegenüber nicht (weder aus Vertrag noch aus unerlaubter Handlung,
+einschließlich Fahrlässigkeit) für den Fall, dass Viren, Würmer, Softwarebomben oder ähnliche Elemente über den
+elektronischen Dienst oder über eine von uns bereitgestellte Software, die Ihnen die Nutzung des elektronischen Dienstes
+ermöglicht, in das System eingeschleust werden, sofern wir angemessene Schritte unternommen haben, um eine solche
+Einschleusung zu verhindern.
+d. Viren aus Ihrem System: Sie müssen sicherstellen, dass keine Computerviren, Würmer, Softwarebomben oder
+ähnliche Elemente in unser Computersystem oder Netzwerk gelangen und werden uns auf Verlangen für alle
+Verluste schadlos halten, die uns durch eine solche Einführung entstehen.
+e. Unbefugte Nutzung: Wir haften nicht für Verluste, Verbindlichkeiten oder Kosten, die aus der unbefugten Nutzung des
+elektronischen Dienstes entstehen. Sie stellen uns von allen Verlusten, Verbindlichkeiten, Urteilen, Klagen,
+Verfahren, Ansprüchen, Schäden und Kosten frei, die sich aus Handlungen oder Unterlassungen von Personen
+ergeben, die den elektronischen Dienst unter Verwendung Ihrer angegebenen Passwörter nutzen, unabhängig
+davon, ob Sie diese Nutzung autorisiert haben oder nicht.
+f. Märkte: Wir haften nicht für Handlungen, die von Märkten, Clearinghäusern oder Aufsichtsbehörden vorgenommen werden oder auf
+deren Anweisung erfolgen.
+25.10 AUSSETZUNG ODER DAUERHAFTIGER RÜCKZUG MIT KÜNDIGUNG
+Wir können einen elektronischen Dienst aussetzen oder dauerhaft einstellen, wenn wir Ihnen dies 10 Tage im Voraus schriftlich
+mitteilen.
+
+25.11 SOFORTIGE AUSSETZUNG ODER DAUERHAFTIGER ENTZUG
+Wir haben das Recht, Ihre Möglichkeit zur Nutzung des elektronischen Dienstes oder Teilen davon einseitig und
+mit sofortiger Wirkung ohne Benachrichtigung dauerhaft auszusetzen oder zu entziehen, wenn wir dies für
+notwendig oder ratsam erachten, beispielsweise aufgrund Ihrer Nichteinhaltung geltender Gesetze, eines
+Verstoßes gegen Bestimmungen dieser Vereinbarung, bei Eintritt eines Zahlungsverzugs, Netzwerkproblemen,
+Stromausfall, Wartungsarbeiten oder zu Ihrem Schutz im Falle einer Verletzung von Nutzungsrechten. Darüber
+hinaus kann die Nutzung eines elektronischen Dienstes automatisch beendet werden, wenn (aus welchem Grund
+auch immer) (i) eine uns gewährte Lizenz in Bezug auf den elektronischen Dienst oder (ii) diese Vereinbarung
+gekündigt wird.
+25.12 AUSWIRKUNGEN DER KÜNDIGUNG
+Im Falle einer Beendigung der Nutzung des elektronischen Dienstes aus irgendeinem Grund müssen Sie auf unsere Aufforderung
+hin nach unserer Wahl die gesamte Hardware, Software und Dokumentation, die wir Ihnen im Zusammenhang mit diesem
+elektronischen Dienst bereitgestellt haben, sowie sämtliche Kopien davon an uns zurückgeben oder vernichten.
+26. Lastschriftermächtigung
+Die folgenden Bestimmungen gelten, wenn zwischen Ihnen und uns eine Einzugsermächtigung
+zur Belastung Ihres Kontos mit Beträgen, die Sie uns schulden, besteht:
+Die Einzugsermächtigung gilt für alle uns aus der Bestätigung und diesem Vertrag zustehenden
+und zu zahlenden Beträge;
+b. Sie:
+i. Muss sicherstellen, dass auf dem angegebenen Konto ausreichende Mittel zur Verfügung stehen, um alle
+Inanspruchnahmen fristgerecht zu erfüllen;
+ii. Muss uns unverzüglich benachrichtigen, wenn das angegebene Konto übertragen oder geschlossen wird;
+iii. Sie müssen sicherstellen, dass mit uns eine geeignete alternative Zahlungsmethode vereinbart wird, wenn Sie diese
+Einzugsermächtigung widerrufen;
+iv. Wir haften für alle Gebühren, die uns im Zusammenhang mit fehlgeschlagenen Zeichnungen entstehen.
+c. Wir:
+i. Fällt der Fälligkeitstag auf einen Nicht-Werktag, wird der Betrag am darauf folgenden
+Werktag abgebucht; und
+ii. Behalten Sie sich das Recht vor, die Einzugsermächtigung zu widerrufen, wenn drei oder mehr Abbuchungen
+unbezahlt von Ihrem angegebenen Finanzinstitut zurückgesendet werden, und mit Ihnen eine alternative
+Zahlungsmethode zu vereinbaren.
+d. Sie:
+i. Sie können die Einzugsermächtigung jederzeit durch schriftliche Mitteilung an uns mit einer Frist von 14 Tagen
+kündigen oder ändern;
+ii. Die Zahlung einer Inanspruchnahme im Rahmen der Einzugsermächtigung durch schriftliche Mitteilung an uns drei (3)
+Tage im Voraus einzustellen;
+iii. Wenn Sie der Meinung sind, dass eine Abbuchung fälschlicherweise vorgenommen wurde, können Sie die Abbuchung
+direkt bei uns anfechten oder einen Lastschriftanspruch bei Ihrem angegebenen Finanzinstitut geltend machen.
+27. HÖHERE GEWALT
+27.1 HÖHERE GEWALT
+Wir können nach unserer begründeten Meinung feststellen, dass ein Notfall oder eine außergewöhnliche Marktbedingung vorliegt
+(„ein Fall höherer Gewalt“), einschließlich, aber nicht beschränkt auf:
+
+a. Wenn wir unserer Meinung nach aufgrund einer Handlung, Unterlassung oder eines Ereignisses (einschließlich, aber nicht
+beschränkt auf Umstände außerhalb unserer Kontrolle wie Streiks, Aufruhr, soziale Unruhen oder Ausfälle der
+Stromversorgung, der Kommunikation oder anderer Infrastruktur) nicht in der Lage sind, einen geordneten Markt für unsere
+Margin-Devisenkontrakte, Devisenoptionskontrakte oder CFDs in Bezug auf eines oder mehrere der zugrunde liegenden
+Instrumente aufrechtzuerhalten;
+b. Die Aussetzung, Schließung, Liquidation oder Aufgabe eines relevanten Marktes oder zugrunde liegender
+Instrumente;
+c. Die Auferlegung von Beschränkungen oder besonderen oder ungewöhnlichen Bedingungen auf den relevanten Märkten oder für die zugrunde
+liegenden Instrumente;
+d. Die übermäßige Bewegung, Volatilität oder der Liquiditätsverlust in den relevanten Märkten oder den zugrunde liegenden
+Instrumenten; oder
+e. Wenn wir vernünftigerweise davon ausgehen, dass einer der in den Absätzen 27.1 (a) bis (d) dieser
+Vereinbarung genannten Umstände eintreten wird.
+27.2 MASSNAHMEN, DIE WIR ERHEBEN KÖNNEN
+Wenn wir feststellen, dass ein Fall höherer Gewalt vorliegt, können wir (unbeschadet aller anderen Rechte aus
+dieser Vereinbarung und nach unserem alleinigen Ermessen) einen oder mehrere der folgenden Schritte
+unternehmen:
+a. Änderung der normalen Handelszeiten;
+b. Ändern Sie den Margenprozentsatz.
+c. Diese Vereinbarung und alle in dieser Vereinbarung vorgesehenen Transaktionen, einschließlich aller Verträge, zu ändern oder
+abzuändern, sofern es für uns unpraktisch oder unmöglich ist, unseren Verpflichtungen Ihnen gegenüber nachzukommen;
+d. Schließen Sie alle oder einzelne offene Margin-FX-Kontrakte, FX-Optionskontrakte oder CFDs, stornieren Sie Anweisungen und
+Aufträge, wie wir es unter den gegebenen Umständen für angemessen halten; oder
+e. Alle anderen Maßnahmen zu ergreifen oder zu unterlassen, die wir unter Berücksichtigung der Position von
+uns, Ihnen und anderen Kunden unter den gegebenen Umständen für angemessen halten.
+27.3 BENACHRICHTIGUNG EINES EREIGNISSES HÖHERER GEWALT
+Soweit möglich, werden wir Sie vorab über alle gemäß Klausel 27.2 geplanten Maßnahmen
+informieren. Sollte eine vorherige Benachrichtigung nicht möglich sein, werden wir Sie
+umgehend nach Ergreifen der Maßnahme informieren.
+27.4 HAFTUNG
+Wenn wir feststellen, dass ein Fall höherer Gewalt vorliegt, haften wir Ihnen gegenüber nicht für die Nichterfüllung,
+Behinderung oder Verzögerung der Erfüllung unserer Verpflichtungen aus diesem Vertrag oder für die Durchführung
+oder Unterlassung von Maßnahmen gemäß den Klauseln 27.2 oder 27.3 dieses Vertrags.
+27.5 OFFENE POSITIONEN SCHLIESSEN
+Unter Umständen sind wir trotz aller angemessenen Bemühungen nicht in der Lage, einen Basiswert
+zu erwerben, zu ersetzen, zu halten, aufzulösen oder zu veräußern, den wir zur Absicherung unserer
+Marktrisiken und sonstigen Risiken aus einer offenen Position für notwendig erachten. In solchen
+Fällen können wir die offene Position zum Vertragspreis glattstellen.
+
+28. Streitbeilegung
+28.1 INFORMATION ÜBER STREITIGKEITEN
+Sie sollten uns unverzüglich schriftlich über jegliche Streitigkeiten oder Meinungsverschiedenheiten im Zusammenhang
+mit diesem Vertrag informieren. Wir werden uns bemühen, alle Streitigkeiten oder Meinungsverschiedenheiten gemäß
+unserem internen Beschwerdeverfahren zu untersuchen und zu lösen.
+28.2 WIE STREITIGKEITEN BEHANDELT WERDEN
+Wir sind verpflichtet, interne Verfahren zur fairen und zeitnahen Bearbeitung von Beschwerden einzurichten. Sie
+können uns beispielsweise per Brief, Telefon, E-Mail oder persönlich eine Beschwerde zukommen lassen. Wir
+senden Ihnen umgehend nach Eingang Ihrer Beschwerde eine schriftliche Bestätigung mit Einzelheiten zu
+unserem Beschwerdeverfahren, einschließlich der Angabe, wann und wie Sie Ihre Beschwerde an eine externe
+Streitbeilegungsstelle weiterleiten können. Bitte kontaktieren Sie uns, wenn Sie weitere Informationen zu
+unserem Beschwerdeverfahren wünschen.
+28.3 WO WIR RECHTLICHE VERFAHREN EINLEITEN KÖNNEN
+Klausel 28.2 dieser Vereinbarung gilt ausschließlich zu unserem Vorteil und hindert uns nicht daran, vor einer
+relevanten Gerichtsbarkeit ein Verfahren gegen Sie einzuleiten und jegliche Streitigkeiten oder
+Meinungsverschiedenheiten mit Ihnen im Zusammenhang mit dieser Vereinbarung einem Schiedsverfahren
+gemäß Klausel 28.2(b) dieser Vereinbarung zu unterwerfen.
+28.4 RICHTLINIEN ZUR INTERNEN BESCHWERDEBEARBEITUNG
+Sie können eine Kopie der IDR-Richtlinie von MEX Atlantic anfordern, indem Sie eine Kopie schriftlich anfordern
+29. DATENSCHUTZ
+29.1 PERSÖNLICHE INFORMATIONEN
+Im Zuge der Kontoeröffnung und der Erbringung von Dienstleistungen im Rahmen dieser Vereinbarung ist es
+erforderlich, dass wir personenbezogene Daten, die wir von Ihnen erhalten, gemäß den Datenschutz- und
+Geldwäschegesetzen erheben und speichern. Sie erklären sich damit einverstanden, dass wir personenbezogene
+Daten zur Erbringung dieser Dienstleistungen und zur Erfüllung unserer Verpflichtungen aus dieser Vereinbarung
+sowie zur Verbesserung dieser Dienstleistungen, beispielsweise durch Produktverbesserungen und
+-entwicklungen, verwenden, speichern und verarbeiten.
+29.2 BEREITSTELLUNG UNSERER DIENSTLEISTUNGEN
+Wenn Sie die von uns angeforderten Informationen nicht bereitstellen oder unseren in dieser Vereinbarung beschriebenen Praktiken zur
+Informationsverarbeitung nicht zustimmen, können wir Ihnen unsere Dienste möglicherweise nicht bereitstellen.
+29.3 OFFENLEGUNG VON INFORMATIONEN
+Sie erklären sich damit einverstanden, dass wir alle von Ihnen erhobenen Informationen
+offenlegen: a. In Übereinstimmung mit dieser Klausel 29;
+b. Wenn wir gesetzlich oder durch Aufsichtsbehörden dazu verpflichtet sind;
+c. An Aufsichtsbehörden und an solche Drittparteien, wenn wir dies zur Verhinderung von Straftaten für
+notwendig erachten;
+d. Soweit angemessen und erforderlich, an Dritte, die uns im Zusammenhang mit dieser Vereinbarung eine
+Dienstleistung erbringen, jedoch beschränkt auf die Erbringung dieser Dienstleistung.
+
+29.4 KREDIT- UND IDENTITÄTSPRÜFUNG
+Sie erklären sich damit einverstanden, dass wir oder unsere in unserem Auftrag handelnden Vertreter Bonitäts- und
+Identitätsprüfungen durchführen, einschließlich Geldwäscheprüfungen, Compliance-Reporting-Prüfungen und
+Betrugspräventionsprüfungen, soweit wir dies für notwendig oder wünschenswert erachten, einschließlich der Einholung von
+Referenzen Ihrer Bank oder einer Kreditauskunftei. Sie erklären sich damit einverstanden, dass Dritte, die wir zu diesem Zweck
+beauftragen, Ihre Daten an uns und andere Organisationen weitergeben dürfen.
+29.5 EINFÜHRENDE BROKER
+Wenn Sie von einem Introducing Broker vorgestellt wurden, stimmen Sie zu, dass wir für die Zwecke dieser Klausel
+29 Informationen mit diesem Introducing Broker austauschen. Sie können Ihre Zustimmung widerrufen, indem
+Sie uns entsprechend benachrichtigen.
+29.6 NEUE PRODUKTE ODER DIENSTLEISTUNGEN
+Sie ermächtigen uns, Sie per E-Mail, Telefon oder Post zu kontaktieren, um Sie über unsere neuen Produkte
+oder Dienstleistungen zu informieren. Sie stimmen zu, dass wir Ihre Daten zu diesem Zweck für die Dauer
+Ihres Kontos und nach dessen Schließung verwenden dürfen. Sollten Sie derartige Informationen nicht
+erhalten wollen, teilen Sie uns dies bitte mit.
+29.7 Weitergabe personenbezogener Daten
+Sie ermächtigen uns, Ihre personenbezogenen Daten an ausgewählte verbundene Unternehmen oder Dritte weiterzugeben,
+damit wir Sie per E-Mail, Telefon oder Post kontaktieren und Ihnen Informationen über die von diesen verbundenen Unternehmen
+angebotenen Produkte zukommen lassen können, solange Sie ein Konto bei uns haben und nachdem Sie es geschlossen haben.
+Wenn Sie diese Informationen nicht mehr erhalten möchten, teilen Sie uns dies bitte mit.
+29,8 ANDERE LÄNDER
+Sie erkennen an, dass es erforderlich sein kann, Ihre Daten an jemanden zu übermitteln, der für uns in
+anderen Ländern einen Dienst erbringt, und Sie stimmen einer solchen Übermittlung zu.
+29.9 ZUGANG ZU INFORMATIONEN
+Sie können uns unter der in der Produktinformationserklärung angegebenen Adresse kontaktieren, wenn Sie Zugriff auf
+die personenbezogenen Daten wünschen, die wir aktuell über Sie gespeichert haben.
+29.10 AUFNAHME
+Wir können alle Gespräche mit Ihnen aufzeichnen und alle von uns oder an uns gesendeten E-Mails überwachen und protokollieren. Alle
+diese Aufzeichnungen sind unser Eigentum und können von uns verwendet werden.
+30. ILLEGALITÄT ETC.
+Sollte zu irgendeinem Zeitpunkt eine Bestimmung dieser Vereinbarung gemäß der Gesetzgebung einer Rechtsordnung rechtswidrig,
+ungültig oder nicht durchsetzbar sein oder werden, so wird hierdurch weder die Rechtmäßigkeit, Gültigkeit oder Durchsetzbarkeit der
+übrigen Bestimmungen dieser Vereinbarung gemäß der Gesetzgebung dieser Rechtsordnung noch die Rechtmäßigkeit, Gültigkeit oder
+Durchsetzbarkeit dieser Bestimmungen gemäß der Gesetzgebung einer anderen Rechtsordnung in irgendeiner Weise berührt.
+31. ABTRETUNG UND DELEGATION
+Für die Abtretung und Delegation gelten folgende Bestimmungen:
+a. Sie dürfen ohne unsere vorherige schriftliche Zustimmung keine Ihrer Rechte oder Pflichten
+aus dieser Vereinbarung an Dritte abtreten.
+
+b. Sie dürfen keine oder alle Ihrer Rechte aus dieser Vereinbarung, einschließlich aller Rechte an von uns gehaltenen Einlagen, in
+Anspruch nehmen.
+c. Unbeschadet der Klausel 31(a) dieser Vereinbarung können wir unsere Rechte oder Pflichten aus dieser
+Vereinbarung an eine beliebige Person abtreten, wenn wir Sie mindestens sieben (7) Werktage im Voraus
+darüber informieren, vorbehaltlich der Einholung der Genehmigung der CIMA, sofern und soweit diese
+Genehmigung gesetzlich vorgeschrieben ist.
+d. Sollten Sie mit Ihren Verpflichtungen aus diesem Vertrag in Verzug geraten, sind wir (unbeschadet
+sonstiger uns zustehender Rechte) jederzeit berechtigt, alle unsere Rechte in Bezug auf die uns aus
+diesem Vertrag geschuldeten Beträge sowie alle uns in Bezug auf diese Beträge zustehenden
+Sicherheiten oder sonstigen Rechtsmittel mit sofortiger Wirkung an Dritte abzutreten. Im Falle einer
+solchen Abtretung bestätigen Sie auf Verlangen von uns und dem Abtretungsempfänger schriftlich,
+dass der Abtretungsempfänger unsere Rechte und Pflichten aus diesem Vertrag in Bezug auf die von
+Ihnen geschuldeten Beträge übernommen hat.
+e. Ungeachtet anderslautender Bestimmungen in dieser Vereinbarung können wir nach unserem Ermessen
+Informationen über Sie und Ihre Beziehung zu uns an tatsächliche oder potenzielle Bevollmächtigte oder
+Rechtsnachfolger gemäß Klausel 31(c) dieser Vereinbarung weitergeben.
+32. RECHTE UND RECHTSMITTEL
+Die in dieser Vereinbarung enthaltenen Rechte und Rechtsmittel sind kumulativ und schließen gesetzlich vorgesehene
+Rechte und Rechtsmittel nicht aus.
+33. RECHTE DRITTER
+Nichts in dieser Vereinbarung soll einer anderen Person als uns oder Ihnen das Recht verleihen, eine Bestimmung
+dieser Vereinbarung durchzusetzen.
+34. VERZÖGERUNG, AUSLASSUNG UND VERZICHT
+Für Verzug, Unterlassung und Verzicht gelten folgende Bestimmungen:
+a. Eine Verzögerung oder Unterlassung unsererseits bei der Ausübung von Rechten, Befugnissen oder Rechtsmitteln, die gesetzlich oder im Rahmen dieser
+Vereinbarung vorgesehen sind, sowie die teilweise oder fehlerhafte Ausübung derselben führt nicht dazu:
+i. die weitere oder sonstige Ausübung eines solchen Rechts, einer solchen Befugnis oder eines solchen Rechtsbehelfs beeinträchtigen oder verhindern; oder
+ii. Sie gelten als Verzicht auf das Recht, die Befugnis oder den Rechtsbehelf. Ein Verzicht auf die Geltendmachung eines Verstoßes gegen eine
+Bestimmung dieser Vereinbarung gilt (sofern nicht ausdrücklich schriftlich von der verzichtenden Partei vereinbart) nicht als Verzicht auf
+die Geltendmachung eines zukünftigen Verstoßes gegen dieselbe Bestimmung oder als Genehmigung zur Fortsetzung des jeweiligen
+Verstoßes.
+35. Geltendes Recht und Gerichtsstand
+35.1 GESETZ
+Diese Vereinbarung und jeder Margin-FX-Vertrag, FX-Optionsvertrag und CFD zwischen uns und Ihnen unterliegen
+dem Recht der Kaimaninseln und werden in Übereinstimmung mit diesem ausgelegt.
+35.2 GERICHTSSTAND
+Sie und wir unterwerfen uns, ausschließlich zu unserem Vorteil, der nicht ausschließlichen Gerichtsbarkeit der Gerichte
+der Kaimaninseln. Zur Vermeidung von Missverständnissen: Diese Klausel 35 hindert uns nicht daran, Verfahren vor
+anderen relevanten Gerichtsbarkeiten einzuleiten.
+
+36. HINWEISE
+36.1 Mitteilungen müssen schriftlich erfolgen
+Vorbehaltlich Klausel 36.2 müssen alle Mitteilungen oder sonstigen Mitteilungen, die im Rahmen oder im Zusammenhang mit den
+in dieser Vereinbarung behandelten Angelegenheiten erfolgen, sofern nicht ausdrücklich eine mündliche Mitteilung vorgesehen
+ist, schriftlich erfolgen und an die unten stehende Adresse gesendet werden:
+a. MEX Atlantic Corporation
+Postfach 10240, Grand Cayman, KY1-1002, CAYMAN-INSELN
+b. Sie: die von Ihnen zu diesem Zweck angegebene Adresse, Telefonnummer und E-Mail-Adresse.
+36.2 Benachrichtigung
+Eine schriftliche Mitteilung kann per Brief, Fax und E-Mail oder, soweit gesetzlich zulässig, über die Website einschließlich
+der Handelsplattform erfolgen. Wir können Ihnen Mitteilungen an Ihre letzte bekannte Wohn- oder E-Mail-Adresse, Ihren
+Arbeitsplatz, Ihr Fax, Ihre Telefonnummer, Ihren Pager oder andere Kontaktdaten senden.
+36.3 Wann werden Mitteilungen empfangen?
+Eine solche Mitteilung gilt als zugegangen:
+a) Bei persönlicher oder persönlicher Übergabe zum Zeitpunkt der Übergabe;
+b. Bei Versand per Post innerhalb von drei (3) Werktagen nach der Aufgabe;
+c. Wenn mündlich, ob telefonisch oder persönlich, wann die Mitteilung erfolgte;
+d. durch Hinterlassen einer Nachricht auf einem Anrufbeantworter oder einer Voicemail innerhalb einer Stunde nach Hinterlassen
+der Nachricht;
+e. Bei Übermittlung per Fax eine Stunde nach Abschluss der Übermittlung; und
+f. Bei Versand per E-Mail eine Stunde nach dem Absenden.
+36.4 ÄNDERUNG DER HINWEISDATEN
+Sie können die Adresse (einschließlich der E-Mail-Adresse), an die Bestätigungen, Erklärungen und andere Mitteilungen
+gesendet werden, durch schriftliche Mitteilung an uns ändern, und wir können Sie über eine Änderung der oben
+genannten Angaben informieren, vorausgesetzt in beiden Fällen wird eine solche Änderung erst zum späteren der in der
+Mitteilung angegebenen Daten oder dem Zeitpunkt der angenommenen Zustellung gemäß Klausel 36.3 dieser
+Vereinbarung wirksam.
+36.5 ALS MITTEILUNG GELTENDES INFORMATIONSGEBIET, WENN DIE MITTEILUNG GESENDET WURDE UND DIE KONTAKTDATEN ANGEGEBEN SIND
+Sie erklären sich damit einverstanden und erkennen an, dass sämtliche Bestätigungen, Erklärungen, ergänzende Materialien und
+sonstige schriftliche Mitteilungen als ordnungsgemäß erteilt oder zur Verfügung gestellt gelten, wenn sie an die Adresse
+(einschließlich der E-Mail-Adresse) gesendet werden, die Sie uns zuletzt mitgeteilt haben.
+36.6 IHRE VERANTWORTUNG FÜR DIE AKTUALISIERUNG DER KONTAKTDATEN
+Sie erklären sich damit einverstanden und erkennen an, dass Sie allein dafür verantwortlich sind, sicherzustellen, dass wir
+über Ihre aktuelle Adresse, Telefonnummer, Faxnummer und E-Mail-Adresse verfügen
+
+37. MT4 UND MANAGEMENT DER AUFTRAGSAUSFÜHRUNG
+Meta Trader (MT4) ist eine Drittanbieterlösung, die in unsere Ausführungsdienste integriert werden kann. MT4 ermöglicht
+benutzerdefinierte oder selbst geschriebene Skripte zur Implementierung von Handelsstrategien von Kunden.
+MEX Atlantic Corporation stellt einen Download dieser Drittanbieterlösung bereit, hat jedoch keine
+Kontrolle über die Software oder eine spätere Clientanpassung.
+Es ist jedoch erwähnenswert, dass Kunden bei der Verwendung von „Instant“-Orders (der Standardeinstellung) anstelle
+von „Market“-Orders (die Slippage zulassen, aber das Risiko von Neuquotierungen reduzieren) ihr Slippage-Risiko durch
+eine konfigurierbare Einstellung „lokal“ steuern können (durch Eingabe der maximalen „Abweichung“ vom aktuell „lokal“
+erreichten Geld-/Briefkurs). Dadurch wird die akzeptable Slippage (Differenz zwischen dem clientseitigen oder „lokal“
+angezeigten Geld-/Briefkurs), zu der der Kunde die Ausführung der Order zulässt, vollständig kontrolliert, wenn diese vom
+Marktkurs abweicht, den MEX Atlantic Corporation zum Zeitpunkt des tatsächlichen Auftragseingangs auf ihrem
+Ausführungsserver hat. Der Hauptgrund dafür ist die Zeitverzögerung zwischen lokalen Kursen und den Kursen auf dem
+Ausführungsserver sowie die Marktvolatilität zu bestimmten Zeiten.
+Die Latenz kann durch eine Reihe proaktiver Maßnahmen verwaltet werden, z. B. durch die Verwendung eines
+effektiven ISP, eines VPS-Dienstes (Virtual Private Server) und indem sichergestellt wird, dass der lokale Rechner
+(PC oder Laptop) über eine hohe Kapazität verfügt und nicht durch andere ressourcenhungrige Anwendungen
+behindert wird, welche die Leistung bei der Auftragsausführung beeinträchtigen könnten. MEX Atlantic
+Corporation ist sich bewusst, dass Latenz einfach ein Teil der Natur der Internetnutzung ist, und erlaubt daher
+eine Slippage (Abweichung zwischen dem „Markt“-Orderpreis und dem tatsächlichen Marktpreis bei Erhalt der
+Order) von einem Pip sowohl zu Gunsten als auch zu Ungunsten von MEX Atlantic Corporation. Dies bedeutet,
+dass wir diese Order unabhängig davon ausführen, ob MEX Atlantic Corporation im Geld ist oder nicht. Wenn ein
+Kunde keinerlei Slippage wünscht, wenn er aus dem Geld ist, kann er dieses Abwärtsrisiko durch eine
+Abweichungseinstellung von weniger als einem Pip, also Null, steuern.
+38. GESAMTE VEREINBARUNG
+Dieser Vertrag, das Kontoeröffnungsformular, die Bestätigung, die Risikoaufklärung und alle weiteren
+Bedingungen, die Ihnen von Zeit zu Zeit mitgeteilt werden, stellen die gesamte Vereinbarung zwischen den
+Parteien hinsichtlich des Vertragsgegenstands dar. Er legt die einzigen Bedingungen fest, auf die sich die
+Parteien berufen, und ersetzt alle früheren Verhaltensweisen und Vereinbarungen und Absprachen
+zwischen den Parteien hinsichtlich des Vertragsgegenstands.
+39. STATUS DES UNTERNEHMENS
+Mit dem Abschluss dieser Vereinbarung erkennen Sie ausdrücklich an, dass die MEX Atlantic Corporation
+kein autorisiertes Einlageninstitut ist.
+
+40. ANHANG 1
+40.1 DEFINITIONEN
+In dieser Vereinbarung haben die folgenden Begriffe und Ausdrücke, sofern der Kontext nichts anderes erfordert,
+die folgenden Bedeutungen
+Konto bezeichnet ein Konto, das Sie bei uns haben;
+Vereinbarung bezeichnet diese Kundenvereinbarung in der jeweils gültigen Fassung;
+Geltendes Recht bedeutet alle:
+• Geltende Bestimmungen von Gesetzen und Vorschriften, einschließlich aller relevanten
+Regeln von Regierungsbehörden, Börsen, Handels- und Clearingverbänden und
+Selbstregulierungsorganisationen, die für die Parteien, diese Vereinbarung und die in
+dieser Vereinbarung vorgesehenen Transaktionen gelten; und
+• Geltende Marktregeln.
+Antragsformular bezeichnet das Antragsformular und die Kontoeröffnungsunterlagen, einschließlich
+der Unterlagen, die zur Einhaltung der Gesetze zur Bekämpfung von Geldwäsche und
+Terrorismusfinanzierung zurückgesandt werden müssen, die Sie ausgefüllt und an
+uns übermittelt haben;
+Assoziieren bedeutet:
+• Eine Person, die leitender Angestellter, Angestellter, Agent, Vertreter oder Mitarbeiter einer
+Partei ist;
+• Eine verbundene juristische Person einer Partei; und
+• Eine Person, die leitender Angestellter, Angestellter, Agent, Vertreter oder Partner einer verbundenen
+juristischen Person einer Partei ist
+Bevollmächtigte Person bezeichnet Sie und/oder jede von Ihnen bevollmächtigte Person, uns im Rahmen dieser Vereinbarung
+Anweisungen zu erteilen;
+Basiswährung bedeutet die vereinbarte Währung
+Goldbarren bedeutet die vereinbarte Währung
+Edelmetall-CFD bezeichnet einen CFD, dessen Wert in Abhängigkeit von den Schwankungen des zugrunde
+liegenden Instruments schwankt, das sich auf Gold oder Silber bezieht;
+Werktag bedeutet:
+a. Jeder Tag außer Samstag, Sonntag oder Feiertag, an dem die Banken
+geöffnet sind.
+b. Bei Dienstleistungen im Zusammenhang mit Spots auf ein Wertpapier, einen Korb oder einen Index,
+für die ein Handel zu begrenzten Zeiten gilt, gilt dies für jeden Tag, an dem die Börse, an der das
+betreffende Wertpapier oder jedes einzelne Wertpapier, aus dem es besteht, primär notiert ist,
+oder die Börse, an der der Index gehandelt wird, je nachdem, was zutrifft, für den Handel geöffnet
+ist. Ausgenommen hiervon sind Tage, an denen der gesamte Handel an der betreffenden Börse
+geschlossen oder ausgesetzt ist.
+c. Bei Dienstleistungen im Zusammenhang mit Spots auf ein Wertpapier, einen Korb oder einen Index,
+für die der Handel zu begrenzten Zeiten nicht gilt, jeder Tag, an dem eine relevante Börse für den
+Handel geöffnet ist.
+CFD bezeichnet die Differenzkontrakte, die wir unseren Kunden von Zeit zu Zeit gemäß
+den Bedingungen der Kundenvereinbarung anbieten;
+Kundengelder bezeichnet die Gelder, die Kunden bei uns hinterlegt und von uns verwahrt haben.
+Geschäftsschluss bedeutet 22.00 Uhr Greenwich Mean Time ();
+
+Schlusskurs bezeichnet den von uns von Zeit zu Zeit unter Berücksichtigung des letzten gehandelten Kurses oder des
+mittleren Schlusskurses und unseres Spreads, der für das zugrunde liegende Instrument angemessen sein
+kann, ermittelten Preis;
+Ware bedeutet Gold, Silber, Öl oder Gas;
+Rohstoff-CFD bezeichnet einen CFD, dessen Wert in Abhängigkeit von den Wertschwankungen
+eines Basisinstruments in Bezug auf eine Ware schwankt;
+Bestätigung bezeichnet eine Form der Benachrichtigung, die von uns elektronisch, auch über das Internet, bereitgestellt
+werden kann und auf die der Kunde zugreifen muss, um den Abschluss eines Vertrags zu bestätigen;
+Vertrag bezeichnet jeden Vertrag, ob mündlich oder schriftlich, einschließlich aller Derivate, Optionen, Futures,
+Differenzkontrakte oder sonstigen Transaktionen in Bezug auf solche Finanzprodukte, die wir mit
+Ihnen abschließen, oder jede Back-to-Back-Vereinbarung, die wir abschließen, um es uns zu
+ermöglichen, unsere Verpflichtungen aus einem solchen Vertrag einzugehen oder zu erfüllen;
+Vertragspreis bezeichnet den Preis pro Kontrakteinheit eines Margin-FX-Kontrakts oder CFD, der von Zeit zu
+Zeit von uns angegeben und gemäß Klausel 9 dieser Vereinbarung berechnet wird;
+Vertragsmenge bedeutet in Bezug auf einen Margin-FX-Kontrakt oder CFD die Anzahl der von Ihnen
+gehandelten Kontrakteinheiten, je nach Fall, wie in der Bestätigung angegeben;
+Vertragseinheit bezeichnet die Mindesthandelsgröße für die Art von Margin-FX-Kontrakt oder CFD, die Sie mit
+uns handeln möchten, wie in Klausel 9 dargelegt;
+Vertragswert bezeichnet den Gesamtwert des Vertrags, wie er von uns gemäß den Bedingungen dieser
+Vereinbarung berechnet wird;
+Fachberater (EA) Ein „EA“ ist ein „Expert Advisor“, eine Zusatzsoftware, die mit einer MetaTrader-Währungsplattform
+verknüpft ist und unter bestimmten Bedingungen automatische Trades ermöglicht.
+Elektronischer Service bezeichnet einen von uns bereitgestellten Dienst, beispielsweise einen Internet-Handelsdienst, der
+Kunden über einen Internetdienst, einen WAP-Dienst und/oder ein elektronisches Orderrouting-System
+Zugang zu Informationen und Handelsmöglichkeiten bietet und entsprechende von uns bereitgestellte
+Software umfasst, die Ihnen die Nutzung eines elektronischen Handelsdienstes ermöglicht;
+Aktienindex-Futures-Kontrakt bedeutet einen Terminkontrakt auf einen Aktienindex.
+Ausfallereignis bezeichnet ein in Klausel 15.1 beschriebenes Ereignis;
+Ausgenommener Vertrag bezeichnet einen Index-Future-CFD oder einen Rohstoff-CFD;
+Wechselkurs bezeichnet den Wechselkurs, den wir Ihnen unter Berücksichtigung der geltenden Interbankenkurse
+und unseres Spreads von Zeit zu Zeit in angemessener Weise anbieten können und der Ihnen von uns
+über die elektronischen Dienste oder auf Anfrage zur Verfügung gestellt wird;
+Verfallsdatum bezeichnet den Tag, an dem der betreffende Vertrag ausläuft;
+Ereignis höherer Gewalt hat die in Klausel 27 dieser Vereinbarung festgelegte Bedeutung;
+FSG bezeichnet unseren entsprechenden Leitfaden zu Finanzdienstleistungen, einschließlich eines ergänzenden und
+ersetzenden Leitfadens zu Finanzdienstleistungen;
+GMT bedeutet Greenwich Mean Time;
+Index bezeichnet den Marktindex, auf dem ein CFD basiert;
+Index-Futures-CFD bezeichnet einen CFD, dessen Wert in Abhängigkeit von den Wertschwankungen eines
+Basisinstruments schwankt, bei dem es sich um einen Aktienindex-Futures-Kontrakt handelt.
+
+Insolvenzfall bedeutet Folgendes:
+a. Es wird die Liquidation eines Firmenkunden angeordnet;
+b. Bei einem Gericht wird ein Antrag auf Erlass einer Anordnung gestellt:
+i. dass ein Firmenkunde liquidiert wird;
+ii. Ernennung eines Liquidators oder vorläufigen Liquidators für einen Firmenkunden;
+c. Für einen Unternehmenskunden wird ein Liquidator, vorläufiger Liquidator oder Controller bestellt;
+d. Es wird ein Beschluss zur Ernennung eines Verwalters für einen Firmenkunden gefasst;
+e. Sie schließen eine Vereinbarung über die Unternehmensvereinbarung ab oder schlagen eine Umstrukturierung, ein
+Moratorium oder eine andere Verwaltung vor, an der alle oder einige Ihrer Gläubiger beteiligt sind;
+f. Ein Firmenkunde wird aufgelöst oder auf andere Weise liquidiert;
+g. Sie sind oder erklären, nicht in der Lage zu sein, Ihre Schulden bei Fälligkeit zu
+begleichen;
+h. Sie sind oder erklären, insolvent zu sein;
+i. Sie suchen oder erhalten gemäß einer Gesetzgebung Schutz vor einem Ihrer
+Gläubiger;
+j. Sie werden zahlungsunfähig oder begehen einen Konkursakt oder Ihr
+Nachlass fällt unter das Konkursrecht;
+k. Es wird ein Insolvenzantrag für Sie oder, im Falle einer Personengesellschaft, für einen oder
+mehrere Gesellschafter gestellt oder es wird ein Konkursverwalter, Treuhänder,
+Zwangsverwalter oder ein ähnlicher Beamter bestellt;
+l. Wenn eine Zwangsvollstreckung gegen Ihr Unternehmen oder Ihr Eigentum durchgeführt wird und diese nicht
+innerhalb von 28 Tagen aufgehoben, freigegeben, aufgehoben, erlassen oder eingestellt wird;
+m. Sie beantragen einen Zahlungsaufschub oder schlagen Ihren Gläubigern eine Vereinbarung oder einen
+Kompromiss vor;
+n. Jedes andere Ereignis mit im Wesentlichen derselben Rechtswirkung wie die in den
+Absätzen (a) bis (n) genannten Ereignisse;
+o. Eine von einem Hypothekengläubiger oder einer Hypothek bestellte Sicherheit wird Ihnen gegenüber durchsetzbar, und
+der Hypothekengläubiger oder die Hypothek ergreift Schritte zur Durchsetzung der Sicherheit oder der Hypothek;
+p. Jegliche Verschuldung von Ihnen oder einem Ihrer verbundenen Unternehmen wird vor der
+angegebenen Fälligkeit aufgrund Ihres Verzugs oder des Verzugs einer Ihrer
+Tochtergesellschaften sofort fällig und zahlbar oder kann als fällig und zahlbar erklärt
+werden, oder Sie oder eine Ihrer Tochtergesellschaften begleichen jegliche Verschuldung
+nicht am Fälligkeitstag;
+q. Sie erfüllen Ihre Verpflichtungen aus dieser Vereinbarung oder einem Margin-FX-Vertrag
+oder CFD nicht vollständig.
+r. Alle von Ihnen abgegebenen Zusicherungen oder Garantien sind oder werden
+unwahr;
+s. Wir sind der Ansicht, dass dies zu unserem eigenen Schutz oder zum Schutz
+unserer Mitarbeiter erforderlich ist.
+Interbankenzinssatz bezeichnet den von uns unter Bezugnahme auf die zuletzt von einer oder mehreren
+Drittbanken notierten Geld- und Briefkurse für das zugrunde liegende Instrument
+berechneten mittleren Interbankensatz;
+Limit-Auftrag hat die ihm in dieser Vereinbarung zugewiesene Bedeutung
+Eingeschränkter Handel bedeutet die Möglichkeit für den Kunden, mit Margin-FX-Kontrakten und CFDs (sofern verfügbar) zu
+handeln, wie sie von uns von Zeit zu Zeit im Rahmen dieser Vereinbarung festgelegt werden, und
+zwar nur während der Öffnungszeiten der jeweiligen Börse;
+Maschinengewehrschießen als Übermittlung beliebiger Auftragsarten in „schneller Folge“ für denselben Kontrakt-/
+Instrumententyp, d. h. EURUSD, und in dieselbe Richtung mit einer „signifikanten
+Auftragsgröße“;
+Marge bezeichnet den Betrag, den Sie auf Ihrem Konto haben müssen, um mit uns einen Margin-FX-Vertrag
+oder CFD abzuschließen;
+Nachschussforderung bezeichnet eine Aufforderung an Sie, die normalerweise über die Handelsplattform erfolgt und
+bei der Sie den als Margin auf Ihrem Konto vorhandenen Geldbetrag aufstocken müssen, um
+Ihren Margin-Prozentsatz beizubehalten, wenn sich der Markt gegen Sie entwickelt hat und die
+zusätzliche Zahlung erforderlich ist, um Ihre offenen Positionen aufrechtzuerhalten;
+Margin-FX-Vertrag bezeichnet jeden Vertrag, ob mündlich, schriftlich oder elektronisch abgeschlossen,
+zwischen Ihnen und uns und umfasst Margin-FX-Verträge;
+
+Margenprozentsatz bedeutet den von uns wie beschrieben festgelegten und von uns gemäß Klausel 10.5
+dieser Vereinbarung von Zeit zu Zeit geänderten Prozentsatz des Vertragswerts;
+Margin-Anforderung bezeichnet den Geldbetrag, den Sie als Gegenleistung für den Abschluss eines Handels
+und die Aufrechterhaltung einer offenen Position bei uns hinterlegen müssen;
+Marktregeln bezeichnet die jeweils geltenden Regeln, Vorschriften, Gepflogenheiten und Praktiken einer Börse, eines
+zugelassenen Finanzmarkts, einer Clearingstelle, einer zugelassenen Clearing- und Abwicklungseinrichtung
+oder einer anderen Organisation oder eines Marktes, die am Abschluss, der Ausführung oder der Abwicklung
+einer Transaktion oder eines Vertrags beteiligt sind, sowie die Ausübung einer solchen Börse, Clearingstelle
+oder anderen Organisation oder eines solchen Marktes von ihr übertragenen Befugnissen oder Autoritäten;
+Minimale Punkterhöhung dies ist die von uns zugelassene minimal mögliche Preisänderung zwischen zwei aufeinanderfolgenden
+Transaktionspreisen;
+Mindestgesamteigenkapitalausstattung bezeichnet den Mindestgesamtsaldo auf Ihrem Konto (in der jeweils gültigen
+Fassung);
+Mindesthandelsgröße bezeichnet die Mindestkontraktmenge oder den Mindestkontraktwert, die bzw. den wir von Zeit
+zu Zeit auf unserer Website für jede Art von Margin-FX-Kontrakt oder CFD angeben;
+Nächster Serien-Futures-Kontrakt bezeichnet einen Kontrakt derselben Art wie den Futures-Kontrakt, der das
+Basisinstrument des betreffenden CFD-Kontrakts darstellt, dessen Verfallsdatum
+jedoch das nächste Verfallsdatum ist;
+Normale Handelsgröße bezeichnet die minimale und maximale Kontraktmenge oder den Kontraktwert, die bzw. den wir nach
+vernünftigem Ermessen für angemessen halten, gegebenenfalls unter Berücksichtigung der normalen
+Marktgröße, für die an einer relevanten Börse Preise verfügbar sind und für die wir LivePreisinformationen angeben;
+Eröffnungswert bedeutet in Bezug auf einen Vertrag den zwischen Ihnen und uns zum Zeitpunkt der
+Transaktion vereinbarten Gesamtvertragswert, wie in der Bestätigung angegeben oder
+gemäß den Bedingungen dieser Vereinbarung bestimmt.
+Produktplan bezeichnet die Liste der Margin-FX-Kontrakte und CFDs, für die wir von Zeit zu Zeit bereit
+sind, einen Preis zu nennen, in der von uns von Zeit zu Zeit geänderten Fassung. Der
+Produktplan ist unter www.mexatlantic.ae verfügbar.
+Position bezeichnet die Long- oder Short-Position, die Sie in Ihrem Margin-FX-Vertrag oder CFD bei uns
+eingenommen haben;
+Positionslimit bezeichnet die von uns im Rahmen dieser Vereinbarung gegebenenfalls auferlegten Beschränkungen;
+Schnelle Abfolge ist definiert als Befehle, die im Sinne von „Machine Gunning“ mit einer Frequenz von weniger als 30
+Sekunden übermittelt werden.
+Relevanter Zinssatz bezeichnet den jeweils anwendbaren Zinssatz, den wir in angemessener Weise von Zeit zu Zeit
+auswählen und der für die Währung des ausstehenden Betrags oder der zugrunde liegenden
+Instrumente (je nach Fall) angemessen ist, wie auf der Tagesabrechnung aufgeführt.
+Rollover-Vorteil bezeichnet einen Vorteil, den Sie möglicherweise aus Margin-FX-Kontrakten und CFDs erhalten, die
+über Nacht gehalten werden und der in Klausel 13 dieser Vereinbarung beschrieben ist;
+Rollover-Gebühr bezeichnet eine Gebühr, die Sie möglicherweise zahlen müssen, wenn Sie eine Margin-FX- oder CFDPosition über Nacht halten und die in Klausel 13 dieser Vereinbarung beschrieben ist;
+Rollover-Rate bezeichnet den Satz, den wir von Zeit zu Zeit unter Berücksichtigung des Rollierens vom zugrunde
+liegenden Futures-Kontrakt des ersten Monats zum nächsten Serien-Futures-Kontrakt festlegen
+können;
+Abwicklungsdatum bezeichnet den Abwicklungstermin nach dem Abschlussdatum, den wir in Übereinstimmung
+mit der Praxis auf dem jeweiligen Markt angemessen festlegen und Ihnen zum Zeitpunkt des
+Vertragsabschlusses mitteilen können;
+Signifikante Auftragsgröße ist definiert als Einzelaufträge in einer Größe von 15 Lots oder größer;
+Angegebenes Datum bedeutet in Bezug auf einen Vertrag das zukünftige Datum, mit Bezug auf das der Vertrag
+abgeschlossen wurde;
+Verbreiten bezeichnet die Differenz zwischen den Geld- und Briefkursen eines Margin-FX-Kontrakts
+oder CFD, die von Zeit zu Zeit von uns notiert und gegebenenfalls als Prozentsatz des
+relevanten Preises ausgedrückt wird;
+
+Stop-Loss-Auftrag hat die ihm in dieser Vereinbarung zugewiesene Bedeutung;
+Swapsatz bezeichnet den Zinssatz, den wir von Zeit zu Zeit unter Berücksichtigung des Interbankenzinssatzes
+festlegen;
+Eigenkapital bezeichnet die Summe des aktuellen Barguthabens auf Ihrem Konto und Ihrer aktuellen
+nicht realisierten Gewinne und Verluste;
+Handelsplattform bezeichnet die Handelsplattform im elektronischen Dienst, den wir Ihnen zur Verfügung
+stellen, über die Sie mit uns online unsere Margin-FX-Kontrakte und CFDs handeln können;
+Basiswert Bezeichnet das Instrument, den Index, die Ware, die Währung, den Terminkontrakt, das Edelmetall oder ein
+anderes Instrument oder einen anderen Vermögenswert oder Faktor, auf dessen Grundlage der Wert eines
+Kontrakts bestimmt wird.
+Zugrunde liegender Markt Bezeichnet den zugrunde liegenden Markt, auf dem das zugrunde liegende Instrument gehandelt wird.
+Nicht realisierter Gewinn und Verlust bezeichnet einen auf der Handelsplattform angegebenen Betrag, der Ihre nicht realisierten Gewinne abzüglich
+Ihrer nicht realisierten Verluste darstellt;
+Webseite bezeichnet die Internetadresse www.mexatlantic.ae und umfasst die
+Handelsplattform, den Produktplan und das Marktinformationsblatt;
+Wir/uns/unser Bedeutet MEX Atlantic Corporation Lizenznummer 1811316.
+41. ANHANG 2
+41.1 ELEKTRONISCHE HANDELSBEDINGUNGEN
+1.1. Geltungsbereich: Diese Klauseln gelten für Ihre Nutzung aller elektronischen Dienste.
+1.2. Zugriff: Sobald Sie die Sicherheitsverfahren für einen von uns bereitgestellten elektronischen Dienst
+durchlaufen haben, erhalten Sie Zugriff auf diesen Dienst, sofern nichts anderes vereinbart oder auf unserer
+Website angegeben ist. Weitere Informationen zu den Betriebszeiten finden Sie auf unserer Website. Wir
+behalten uns das Recht vor, unsere Sicherheitsverfahren jederzeit zu ändern. Wir werden Sie so schnell wie
+möglich über alle für Sie geltenden neuen Verfahren informieren.
+1.3. Einschränkungen der angebotenen Dienste: Bei der Nutzung elektronischer Dienste kann die Anzahl
+der Transaktionen, die Sie täglich tätigen können, sowie der Gesamtwert dieser Transaktionen
+eingeschränkt sein. Sie erkennen an, dass einige Marktplätze Beschränkungen hinsichtlich der
+Auftragsarten haben, die direkt an ihre elektronischen Handelssysteme übermittelt werden können.
+Diese Auftragsarten werden manchmal als synthetische Aufträge beschrieben. Die Übermittlung
+synthetischer Aufträge an den Markt hängt vom korrekten und rechtzeitigen Erhalt von Preisen oder
+Kursen des jeweiligen Marktes oder Marktdatenanbieters ab. Sie erkennen an, dass ein Markt einen
+synthetischen Auftrag im Rahmen von Systemaktualisierungen stornieren kann, Handelsbildschirme
+den Datensatz eines solchen Auftrags löschen können und dass Sie solche Aufträge auf eigenes Risiko
+eingeben.
+1.4. Zugangsrecht: In Bezug auf jeden Markt, bei dem Sie über elektronische Dienste Bestellungen
+aufgeben oder Informationen oder Daten erhalten können, können wir jederzeit nach angemessener
+Ankündigung (die unter bestimmten Umständen sofort erfolgen kann) Ihre Räumlichkeiten betreten
+(oder unsere oder die Subunternehmer des Marktes anweisen, diese zu betreten) und Ihr System
+überprüfen, um sicherzustellen, dass es den Anforderungen entspricht, die wir Ihnen von Zeit zu Zeit
+mitteilen, und dass Sie die elektronischen Dienste gemäß dieser Vereinbarung und allen
+Anforderungen aller relevanten Märkte oder geltenden Vorschriften nutzen.
+
+1.5. Zugangsvoraussetzungen: Sie sind dafür verantwortlich, das System bereitzustellen, das Ihnen die Nutzung eines
+elektronischen Dienstes ermöglicht.
+1.6. Virenerkennung: Sie sind für die Installation und ordnungsgemäße Verwendung aller Virenerkennungs-/
+Scanprogramme verantwortlich, die wir von Zeit zu Zeit benötigen.
+1.7. Verwendung von Informationen, Daten und Software: Für den Fall, dass Sie über einen elektronischen
+Dienst andere Daten, Informationen oder Software erhalten als diejenigen, zu deren Empfang Sie
+gemäß dieser Vereinbarung berechtigt sind, benachrichtigen Sie uns unverzüglich und verwenden diese
+Daten, Informationen oder Software in keiner Weise.
+1.8. Einhaltung von Standards: Bei der Nutzung eines elektronischen Dienstes müssen Sie:
+1.8.1. Sicherstellen, dass das System in gutem Zustand gehalten wird und für die Verwendung mit einem solchen elektronischen
+Dienst geeignet ist;
+1.8.2. Führen Sie Tests durch und stellen Sie uns die Informationen zur Verfügung, die wir für angemessen erachten.
+notwendig, um festzustellen, ob das System die Anforderungen erfüllt, die wir Ihnen von Zeit zu
+Zeit mitteilen;
+1.8.3. Führen Sie regelmäßig Virenprüfungen durch.
+1.8.4. Informieren Sie uns unverzüglich über jeden unbefugten Zugriff auf einen elektronischen Dienst oder jede unbefugte
+Transaktion oder Anweisung, von der Sie Kenntnis haben oder die Sie vermuten, und veranlassen Sie, sofern in Ihrem
+Einflussbereich, die Einstellung dieser unbefugten Nutzung; und
+1.8.5. Verlassen Sie zu keinem Zeitpunkt das Terminal, von dem aus Sie auf den elektronischen Dienst zugegriffen haben, und
+lassen Sie niemanden das Terminal verwenden, bis Sie sich von dem elektronischen Dienst abgemeldet haben.
+1.9. Systemdefekte: Sollten Sie einen wesentlichen Defekt, eine Fehlfunktion oder einen Virus im System oder in einem
+elektronischen Dienst feststellen, benachrichtigen Sie uns unverzüglich über diesen Defekt, diese Fehlfunktion oder
+diesen Virus und stellen die Nutzung dieses elektronischen Dienstes ein, bis Sie von uns die Erlaubnis zur
+Wiederaufnahme der Nutzung erhalten.
+1.10. Geistiges Eigentum: Alle Rechte an Patenten, Urheberrechten, Designrechten, Marken und sonstigen Rechten
+an geistigem Eigentum (ob eingetragen oder nicht) in Bezug auf die elektronischen Dienste verbleiben
+bei uns oder unseren Lizenzgebern. Sie dürfen die elektronischen Dienste oder Teile davon nicht
+kopieren, beeinträchtigen, manipulieren, verändern, ergänzen oder modifizieren, es sei denn, Sie haben
+hierzu unsere ausdrückliche schriftliche Genehmigung. Sie dürfen die elektronischen Dienste weder
+zurückkompilieren noch disassemblieren, noch dies vorgeben oder zulassen, es sei denn, dies ist
+gesetzlich ausdrücklich gestattet. Alle Kopien der elektronischen Dienste, die gemäß den gesetzlichen
+Bestimmungen erstellt werden, unterliegen den Allgemeinen Geschäftsbedingungen.
+dieser Vereinbarung. Sie stellen sicher, dass alle Marken-, Urheberrechts- und sonstigen
+Rechtevermerke des Lizenzgebers auf diesen Kopien wiedergegeben werden. Sie führen eine
+aktuelle schriftliche Aufzeichnung über die Anzahl der von Ihnen erstellten Kopien der
+elektronischen Dienste. Auf Anfrage stellen Sie uns so schnell wie möglich eine Erklärung über die
+Anzahl und den Verbleib der Kopien der elektronischen Dienste zur Verfügung.
+1.11. Haftung und Freistellung: Unbeschadet aller anderen Bestimmungen dieser Vereinbarung, in Bezug auf
+Zur Haftungsbeschränkung und Bereitstellung von Entschädigungen gelten für unsere elektronischen Dienste
+die folgenden Klauseln.
+1.11.1. Systemfehler: Wir haften Ihnen gegenüber nicht für Schäden, die Ihnen als
+aufgrund von Übertragungsfehlern, technischen Störungen, Fehlfunktionen, illegalen Eingriffen in das Netzwerk
+
+Geräte, Netzwerküberlastungen, böswillige Zugangsblockierung durch Dritte, Internetstörungen,
+Unterbrechungen oder andere Mängel seitens der Internetdienstanbieter. Sie erkennen an, dass der
+Zugriff auf elektronische Dienste aufgrund solcher Systemfehler eingeschränkt oder nicht verfügbar sein
+kann und dass wir uns das Recht vorbehalten, den Zugriff auf elektronische Dienste aus diesem Grund
+nach vorheriger Ankündigung zu sperren.
+1.11.2. Verzögerungen: Weder wir noch ein Drittanbieter von Software übernehmen die Haftung für
+jegliche Verzögerungen, Ungenauigkeiten, Fehler oder Auslassungen in den Daten, die Ihnen im Zusammenhang mit einem elektronischen
+Dienst bereitgestellt werden.
+1.11.3. Viren aus einem elektronischen Dienst: Wir übernehmen Ihnen gegenüber keine Haftung (weder vertraglich
+oder aus unerlaubter Handlung, einschließlich Fahrlässigkeit), falls Viren, Würmer, Softwarebomben oder ähnliche
+Elemente über einen elektronischen Dienst oder über eine Software, die wir Ihnen zur Verfügung stellen, um Ihnen die
+Nutzung des elektronischen Dienstes zu ermöglichen, in das System eingeschleust werden, vorausgesetzt, dass wir
+angemessene Schritte unternommen haben, um eine solche Einschleusung zu verhindern.
+1.11.4. Viren aus Ihrem System: Sie stellen sicher, dass keine Computerviren, Würmer,
+Softwarebomben oder ähnliche Elemente in unser Computersystem oder Netzwerk gelangen
+und stellen uns auf Verlangen von jeglichen Verlusten frei, die uns durch eine solche
+Einschleppung entstehen.
+1.11.5. Unbefugte Nutzung: Wir haften nicht für Verluste, Verbindlichkeiten oder Kosten jeglicher Art, die entstehen
+vor jeglicher unbefugten Nutzung des elektronischen Dienstes. Sie verpflichten sich, uns auf Verlangen
+von allen Verlusten, Verbindlichkeiten, Urteilen, Klagen, Verfahren, Ansprüchen, Schäden und Kosten
+freizustellen, die sich aus einer Handlung oder Unterlassung einer Person ergeben, die einen
+elektronischen Dienst unter Verwendung Ihrer angegebenen Passwörter nutzt, unabhängig davon, ob
+Sie diese Nutzung autorisiert haben oder nicht.
+1.11.6. Märkte: Wir haften nicht für Handlungen, die von einem Markt oder auf dessen Anweisung vorgenommen werden,
+Clearingstelle oder Regulierungsbehörde.
+1.12. Aussetzung oder dauerhafte Einstellung mit Benachrichtigung: Wir können einen elektronischen Dienst
+mit einer Frist von 10 Tagen schriftlich aussetzen oder dauerhaft einstellen. Wir benachrichtigen
+Sie hierüber über das in Ihrem Kontoantrag angegebene Medium. Für die Aussetzung und
+anschließende Schließung Ihres Kontos gelten die folgenden Schritte:
+1.12.1. Während der Kündigungsfrist (sofern vorhanden):
+1.12.2. Wir werden Ihre offenen Handelsgeschäfte oder bereits erteilten Limit-/Stop-Loss-Orders nicht schließen (es sei
+denn, wir sind anderweitig dazu berechtigt, d. h. Sie verlangen dies telefonisch von uns).
+1.12.3. Sie können keine neuen Handelsgeschäfte oder Aufträge platzieren oder sonstige Anweisungen erteilen.
+es sei denn, dies ist erforderlich, um vor Beginn der Kündigungsfrist einen Trade zu schließen oder einen bestehenden
+Auftrag zu stornieren. Insbesondere sind Sie nicht berechtigt, einen Closed-Trade oder einen Auftrag in einem solchen
+Umfang zu erteilen, dass dies zur Eröffnung eines neuen Trades führen würde;
+1.12.4. Alle Handelsgeschäfte werden am selben Tag geschlossen und alle Aufträge storniert, an dem Ihr
+Konto geschlossen wird (oder so bald wie möglich danach).
+1.12.5. Alle Geschäfte werden zum Preis der MEX Atlantic Corporation geschlossen.
+1.12.6. Wir können Schließungen jederzeit vornehmen, die Schließung erfolgt jedoch im Allgemeinen etwa eine
+Stunde vor Schließung des Basiswerts oder unserer Handelszeiten für den betreffenden Markt.
+
+1.12.7. Sobald Ihr Konto geschlossen wurde, sind Sie nicht mehr berechtigt, Trades zu tätigen oder
+Aufträge zu erteilen oder anderweitig auf Ihrem Konto zu handeln.
+1.13. Sofortige Aussetzung oder dauerhafter Entzug: Wir haben das Recht, einseitig und mit
+Wir behalten uns das Recht vor, Ihre Möglichkeit zur Nutzung elektronischer Dienste oder Teile davon mit
+sofortiger Wirkung und ohne Benachrichtigung dauerhaft auszusetzen oder zu entziehen, wenn wir dies für
+notwendig oder ratsam erachten, beispielsweise aufgrund Ihrer Nichteinhaltung geltender Vorschriften, eines
+Verstoßes gegen Bestimmungen dieser Vereinbarung, beim Auftreten eines Zahlungsverzugs,
+Netzwerkproblemen, Stromausfalls, für Wartungsarbeiten oder zu Ihrem Schutz im Falle einer
+Sicherheitsverletzung. Außerdem kann die Nutzung eines elektronischen Dienstes automatisch beendet werden
+bei Kündigung (aus welchem Grund auch immer) (i) einer uns gewährten Lizenz in Bezug auf den
+elektronischen Dienst; oder (ii) dieser Vereinbarung. Die Nutzung eines elektronischen Dienstes kann sofort
+beendet werden, falls ein elektronischer Dienst von einem Markt zurückgezogen wird oder wir die Möglichkeit
+zurückziehen müssen, um geltende Vorschriften einzuhalten.
+1.14. Folgen der Kündigung: Im Falle einer Kündigung der Nutzung eines elektronischen Dienstes
+Wenn Sie aus irgendeinem Grund dazu aufgefordert werden, sind Sie nach unserer Wahl verpflichtet, die gesamte Hardware, Software und
+Dokumentation, die wir Ihnen im Zusammenhang mit diesem elektronischen Dienst bereitgestellt haben, sowie sämtliche Kopien davon an
+uns zurückzugeben oder zu vernichten.
+1.15. Leerlaufpreise: Wir haben ein Agenturausführungsmodell und decken automatisch alle Kunden
+Positionen bei ausführenden Brokern und Liquiditätsanbietern. In seltenen Fällen kann der aggregierte PreisFeed, den wir unseren Kunden zur Verfügung stellen, ungenutzt bleiben. Wir behalten uns das Recht vor, Marktoder Sofortaufträge rückgängig zu machen, wenn ungenutzte Preise erreicht wurden. Diese Fälle werden von
+uns untersucht und der Kunde wird, wenn möglich, per E-Mail oder Telefon über die Stornierung der Geschäfte
+informiert. Wir werden unser Bestes tun, um sicherzustellen, dass die Stornierung nicht zur Entstehung einer
+unbeabsichtigten Position führt, dies kann jedoch nicht garantiert werden. Wenn beispielsweise die Order
+ausgeführt und anschließend storniert wird, um eine Position zu eröffnen, werden alle nachfolgenden Orders,
+die diese Position schließen, ebenfalls storniert, wodurch der Netto-Gewinn und Verlust bei Null verbleibt,
+sodass dem Kunden durch diese Stornierung aufgrund unserer Weiterleitung ungültiger Preise kein Nachteil
+entsteht.
+1.16. Falsche Angebote: Wir haben ein Agentur-Ausführungsmodell und decken automatisch alle Kunden
+Positionen bei ausführenden Brokern und Liquiditätsanbietern. Obwohl wir das Risiko ungültiger
+Preisinformationen, die unsere Kunden erreichen, durch die Nutzung eines Preisaggregationssystems, das
+Preise von mehreren Liquiditätsanbietern (typischerweise mehr als 10) generiert, minimieren, kann es in
+seltenen Fällen zu Preisverzerrungen kommen. In solchen seltenen Fällen, in denen Aufträge zu diesen Preisen
+ausgeführt werden, behalten wir uns das Recht vor, Aufträge zu stornieren, bei denen falsch notierte Preise
+erzielt wurden. Diese Fälle werden von uns untersucht und der Kunde nach Möglichkeit per E-Mail oder Telefon
+über die Stornierung der Geschäfte informiert. Wir werden unser Bestes tun, um sicherzustellen, dass die
+Stornierung nicht zur Entstehung einer unbeabsichtigten Position führt, können dies jedoch nicht garantieren.
+D. h., wenn der Auftrag ausgeführt und anschließend storniert wird, um eine Position zu eröffnen, werden auch
+alle nachfolgenden Aufträge, die diese Position schließen, storniert, wodurch der Netto-Gewinn und Verlust bei
+Null verbleibt, sodass dem Kunden durch diese Stornierung aufgrund unserer Weiterleitung ungültiger Preise
+kein Nachteil entsteht.
+1.17. Richtlinie zu veralteten und falschen Kursnotierungen: Die von MEX Atlantic Corporation notierten Preise können
+In seltenen Fällen werden Aufträge „veraltet“ oder „verzerrt“. MEX Atlantic Corporation behält sich das
+Recht vor, Aufträge zu ungenutzten oder verzerrten Preisen zu stornieren. MEX Atlantic Corporation wird
+solche Handelsaktivitäten aktiv überwachen, melden und untersuchen und den Kunden im Falle einer
+Stornierung entsprechend benachrichtigen. MEX Atlantic Corporation wird seine Kunden fair behandeln
+und sich nach besten Kräften bemühen, Stornierungen fair durchzuführen und sicherzustellen, dass dem
+Kunden durch die Stornierung keine Nachteile entstehen. Dies kann jedoch nicht garantiert werden, d. h.,
+es bleiben keine unbeabsichtigten Positionen offen und die Nettoposition des Kunden entspricht seinen
+Positionen zum Zeitpunkt der Korrektur.
+
+1.18. Der Verkehr in den VAE unterliegt den Bestimmungen der VAE unter MEX GLOBAL FINANCIAL SERVICES.
+eine Gesellschaft mit beschränkter Haftung, die nach den Gesetzen des Emirats Dubai, Vereinigte
+Arabische Emirate (VAE), und den Bundesgesetzen der VAE unter der Handelslizenznummer 1068656
+gegründet wurde. Die eingetragene Adresse von MEX Global Financial Services LLC lautet: 37. Stock
+(Paket-ID 346-6876), Ubora Tower, Business Bay, Dubai, VAE.
+
+
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default AGB;

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage - High priority and frequent updates -->
+  <url>
+    <loc>https://multibankeurope.com/</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Key informational pages - Weekly updates -->
+  <url>
+    <loc>https://multibankeurope.com/warum-multibank</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/regulierungen</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/auszeichnungen</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/konten-vergleichen</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact and legal pages - Monthly updates -->
+  <url>
+    <loc>https://multibankeurope.com/kontakt</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/datenschutzerklaerung</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/impressum</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/risikohinweis</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/cookie-hinweis</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/agb</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://multibankeurope.com/swap-free-handelskontovereinbarung</loc>
+    <lastmod>2025-06-19T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>

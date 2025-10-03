@@ -1,0 +1,22 @@
+{
+  "name": "MultiBank Europe",
+  "short_name": "MultiBank",
+  "description": "MultiBank Europe - Ihr vertrauensvoller Partner für Online-Trading",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1931",
+  "theme_color": "#0E6FFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["finance", "business"],
+  "lang": "de",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+} 
