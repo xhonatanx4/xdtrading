@@ -10,7 +10,7 @@ const courseModules = [
     name: 'Fundamentals',
     title: 'Trading Fundamentals & Market Psychology',
     description: 'Master the basics of trading, understand market structure, and develop the winning mindset required for consistent profitability. Learn market cycles, economic indicators, and how to read market sentiment.',
-    pages: 12
+    pages: 152
   },
   {
     id: 'analysis',

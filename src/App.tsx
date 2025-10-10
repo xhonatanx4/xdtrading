@@ -135,16 +135,16 @@ function App() {
         return 'Discord Community';
       case '/contact':
         return 'Contact';
-      case '/datenschutzerklaerung':
-        return 'Datenschutzerklärung';
-      case '/impressum':
-        return 'Impressum';
-      case '/risikohinweis':
-        return 'Risikohinweis';
-      case '/cookie-hinweis':
-        return 'Cookie-Hinweis';
-      case '/agb':
-        return 'Allgemeine Geschäftsbedingungen';
+      case '/privacy-policy':
+        return 'Privacy Policy';
+      case '/legal-notice':
+        return 'Legal Notice';
+      case '/risk-disclosure':
+        return 'Risk Disclaimer';
+      case '/cookie-notice':
+        return 'Cookie Notice';
+      case '/terms-and-conditions':
+        return 'Terms and Conditions';
       case '/swap-free-handelskontovereinbarung':
         return 'Swap-Free-Handelskontovereinbarung';
       default:
@@ -164,7 +164,7 @@ function App() {
       </ErrorBoundary>
       <main 
         id="main-content"
-        className={`overflow-x-hidden ${['/datenschutzerklaerung', '/impressum', '/risikohinweis', '/cookie-hinweis', '/agb', '/swap-free-handelskontovereinbarung'].includes(location.pathname) ? 'pt-16' : ''}`}
+        className={`overflow-x-hidden ${['/privacy-policy', '/legal-notice', '/risk-disclosure', '/cookie-notice', '/terms-and-conditions', '/swap-free-handelskontovereinbarung'].includes(location.pathname) ? 'pt-16' : ''}`}
         role="main"
       >
         {location.pathname === '/why-xd-trading' ? (
@@ -180,7 +180,7 @@ function App() {
             <PageBanner title="Discord Community" />
           </ErrorBoundary>
         ) : (location.pathname !== '/' && 
-             !['/datenschutzerklaerung', '/impressum', '/risikohinweis', '/cookie-hinweis', '/agb', '/swap-free-handelskontovereinbarung', '/vip-signals', '/contact'].includes(location.pathname) && 
+             !['/privacy-policy', '/legal-notice', '/risk-disclosure', '/cookie-notice', '/terms-and-conditions', '/swap-free-handelskontovereinbarung', '/vip-signals', '/contact'].includes(location.pathname) && 
              pageTitle && 
              <ErrorBoundary>
                <PageBanner title={getPageTitle()} />
@@ -226,35 +226,35 @@ function App() {
               </ErrorBoundary>
             </>
           } />
-          <Route path="/datenschutzerklaerung" element={
+          <Route path="/privacy-policy" element={
             <ErrorBoundary>
               <Suspense fallback={<PageLoadingFallback />}>
                 <Datenschutzerklaerung />
               </Suspense>
             </ErrorBoundary>
           } />
-          <Route path="/impressum" element={
+          <Route path="/legal-notice" element={
             <ErrorBoundary>
               <Suspense fallback={<PageLoadingFallback />}>
                 <Impressum />
               </Suspense>
             </ErrorBoundary>
           } />
-          <Route path="/risikohinweis" element={
+          <Route path="/risk-disclosure" element={
             <ErrorBoundary>
               <Suspense fallback={<PageLoadingFallback />}>
                 <Risikohinweis />
               </Suspense>
             </ErrorBoundary>
           } />
-          <Route path="/cookie-hinweis" element={
+          <Route path="/cookie-notice" element={
             <ErrorBoundary>
               <Suspense fallback={<PageLoadingFallback />}>
                 <CookieHinweis />
               </Suspense>
             </ErrorBoundary>
           } />
-          <Route path="/agb" element={
+          <Route path="/terms-and-conditions" element={
             <ErrorBoundary>
               <Suspense fallback={<PageLoadingFallback />}>
                 <AGB />
@@ -285,7 +285,7 @@ function App() {
         </Routes>
       </main>
       {location.pathname !== '/' && 
-       !['/datenschutzerklaerung', '/impressum', '/risikohinweis', '/cookie-hinweis', '/agb', '/swap-free-handelskontovereinbarung', '/vip-signals', '/contact'].includes(location.pathname) && 
+       !['/privacy-policy', '/legal-notice', '/risk-disclosure', '/cookie-notice', '/terms-and-conditions', '/swap-free-handelskontovereinbarung', '/vip-signals', '/contact'].includes(location.pathname) && 
        <ErrorBoundary>
          <GlobalPaymentOptions />
        </ErrorBoundary>}

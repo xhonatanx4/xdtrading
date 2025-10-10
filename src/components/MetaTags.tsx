@@ -11,54 +11,54 @@ const MetaTags: React.FC<MetaTagsProps> = ({ title, description }) => {
 
   useEffect(() => {
     // Get the default title and description
-    let pageTitle = 'MultiBank Europe - Der größte und am stärksten regulierte FX-Broker der Welt';
-    let pageDescription = 'MultiBank Europe ist Ihr vertrauenswürdiger Partner für Forex-Handel, CFDs und Kryptowährungen. Profitieren Sie von niedrigen Spreads, schneller Ausführung und erstklassigem Kundenservice.';
+    let pageTitle = 'XD Trading — Courses, VIP Signals, and Community for Traders';
+    let pageDescription = 'XD Trading offers trading courses, VIP signals, and an active community. Trade smarter with fast execution and global payment options.';
 
     // Update title and description based on the current route
     switch (location.pathname) {
-      case '/warum-multibank':
-        pageTitle = 'Warum MultiBank - Ihr vertrauenswürdiger Forex-Broker';
-        pageDescription = 'Entdecken Sie die Vorteile von MultiBank Europe: Regulierte Handelsplattform, wettbewerbsfähige Spreads und professioneller Kundenservice für Ihren erfolgreichen Handel.';
+      case '/why-xd-trading':
+        pageTitle = 'Why XD Trading — Our Mission and Advantages';
+        pageDescription = 'Why XD Trading? Modern trading education, tools, and community support for your success.';
         break;
-      case '/regulierungen':
-        pageTitle = 'Regulierungen - MultiBank Europe';
-        pageDescription = 'MultiBank Europe ist durch renommierte Finanzaufsichtsbehörden reguliert. Erfahren Sie mehr über unsere regulatorischen Standards und Ihr geschütztes Handelserlebnis.';
+      case '/courses':
+        pageTitle = 'Trading Courses — From Beginner to Advanced';
+        pageDescription = 'Structured trading courses from fundamentals to advanced strategies. Learn hands-on and application-focused.';
         break;
-      case '/auszeichnungen':
-        pageTitle = 'Auszeichnungen - MultiBank Europe';
-        pageDescription = 'Sehen Sie die zahlreichen Auszeichnungen und Anerkennungen, die MultiBank Europe für Exzellenz im Forex-Handel und Kundenservice erhalten hat.';
+      case '/vip-signals':
+        pageTitle = 'VIP Signals — Curated Real-Time Market Setups';
+        pageDescription = 'Receive curated trading setups, risk levels, and execution plans from our analyst team.';
         break;
-      case '/konten-vergleichen':
-        pageTitle = 'Konten vergleichen - MultiBank Europe';
-        pageDescription = 'Vergleichen Sie unsere Handelskonten und finden Sie die perfekte Lösung für Ihre Handelsbedürfnisse. Von Standard- bis zu ECN-Konten mit wettbewerbsfähigen Konditionen.';
+      case '/community':
+        pageTitle = 'Discord Community — Learn and Trade Together';
+        pageDescription = 'Join the XD Trading community: live streams, feedback, discussion, and growing together.';
         break;
-      case '/kontakt':
-        pageTitle = 'Kontakt - MultiBank Europe';
-        pageDescription = 'Kontaktieren Sie unser professionelles Support-Team für alle Ihre Fragen zum Handel, Kontoeröffnung oder technische Unterstützung.';
+      case '/contact':
+        pageTitle = 'Contact — Talk to XD Trading';
+        pageDescription = 'Questions about courses, VIP signals, or the community? Our team is happy to help.';
         break;
-      case '/datenschutzerklaerung':
-        pageTitle = 'Datenschutzerklärung - MultiBank Europe';
-        pageDescription = 'Lesen Sie unsere Datenschutzerklärung und erfahren Sie, wie MultiBank Europe Ihre persönlichen Daten schützt und verarbeitet.';
+      case '/privacy-policy':
+        pageTitle = 'Privacy Policy — XD Trading';
+        pageDescription = 'Read our privacy policy to learn how XD Trading protects and processes your personal data.';
         break;
-      case '/impressum':
-        pageTitle = 'Impressum - MultiBank Europe';
-        pageDescription = 'Offizielle Unternehmensinformationen, rechtliche Details und Kontaktinformationen von MultiBank Europe.';
+      case '/legal-notice':
+        pageTitle = 'Imprint — XD Trading';
+        pageDescription = 'Official company information, legal details, and contact information for XD Trading.';
         break;
-      case '/risikohinweis':
-        pageTitle = 'Risikohinweis - MultiBank Europe';
-        pageDescription = 'Wichtige Informationen zu den Risiken des Handels mit Finanzinstrumenten. Bitte lesen Sie unseren Risikohinweis sorgfältig durch.';
+      case '/risk-disclosure':
+        pageTitle = 'Risk Disclosure — XD Trading';
+        pageDescription = 'Important information about the risks of trading financial instruments. Please read our risk disclosure carefully.';
         break;
-      case '/cookie-hinweis':
-        pageTitle = 'Cookie-Hinweis - MultiBank Europe';
-        pageDescription = 'Informationen über die Verwendung von Cookies auf unserer Website und wie Sie Ihre Cookie-Einstellungen verwalten können.';
+      case '/cookie-notice':
+        pageTitle = 'Cookie Notice — XD Trading';
+        pageDescription = 'Information about how we use cookies on our website and how you can manage your cookie preferences.';
         break;
-      case '/agb':
-        pageTitle = 'Allgemeine Geschäftsbedingungen - MultiBank Europe';
-        pageDescription = 'Unsere Allgemeinen Geschäftsbedingungen (AGB) mit allen wichtigen Informationen zu Ihrem Handelskonto und unseren Dienstleistungen.';
+      case '/terms-and-conditions':
+        pageTitle = 'Terms and Conditions — XD Trading';
+        pageDescription = 'Our Terms and Conditions with key information about your trading account and our services.';
         break;
       case '/swap-free-handelskontovereinbarung':
-        pageTitle = 'Swap-Free Handelskontovereinbarung - MultiBank Europe';
-        pageDescription = 'Informationen zu unseren Swap-Free Handelskonten, die speziell für islamische Händler entwickelt wurden und den islamischen Finanzprinzipien entsprechen.';
+        pageTitle = 'Swap-Free Trading Account Agreement — XD Trading';
+        pageDescription = 'Information about our swap-free trading accounts, designed for Islamic traders and compliant with Islamic finance principles.';
         break;
     }
 
@@ -97,7 +97,7 @@ const MetaTags: React.FC<MetaTagsProps> = ({ title, description }) => {
       ogUrl.setAttribute('property', 'og:url');
       document.head.appendChild(ogUrl);
     }
-    ogUrl.setAttribute('content', `https://multibankeurope.com${location.pathname}`);
+    ogUrl.setAttribute('content', `https://xdtrading.com${location.pathname}`);
 
   }, [location.pathname, title, description]);
 

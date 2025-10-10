@@ -1,7 +1,7 @@
 {
-  "name": "MultiBank Europe",
-  "short_name": "MultiBank",
-  "description": "MultiBank Europe - Ihr vertrauensvoller Partner für Online-Trading",
+  "name": "XD Trading",
+  "short_name": "XD",
+  "description": "XD Trading — Trading courses, VIP signals, and a community for traders",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0A1931",
@@ -9,13 +9,18 @@
   "orientation": "portrait-primary",
   "icons": [
     {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    },
+    {
       "src": "/favicon.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
     }
   ],
   "categories": ["finance", "business"],
-  "lang": "de",
+  "lang": "en",
   "dir": "ltr",
   "scope": "/",
   "prefer_related_applications": false

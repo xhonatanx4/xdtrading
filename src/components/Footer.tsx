@@ -72,21 +72,21 @@ const Footer: React.FC<FooterProps> = ({ isHomePage = false }) => {
         <div className="border-t border-gray-700/50 pt-6 mb-6">
           <div className="flex items-center justify-center gap-3">
             <Mail className="text-green-400 w-5 h-5" />
-            <span className="text-lg font-medium text-white">support@xdtrading.com</span>
+            <span className="text-lg font-medium text-white">support@xdtradingacademy.com</span>
           </div>
         </div>
         {/* Legal Links */}
         <div className="border-t border-gray-700/50 pt-4 mb-6">
           <div className="flex flex-wrap gap-4 text-xs justify-center items-center text-gray-300">
-            <Link to="/datenschutzerklaerung" className="hover:text-green-400 transition-colors">Privacy Policy</Link>
+            <Link to="/privacy-policy" className="hover:text-green-400 transition-colors">Privacy Policy</Link>
             <span className="text-gray-500">|</span>
-            <Link to="/impressum" className="hover:text-green-400 transition-colors">Legal Disclosure</Link>
+            <Link to="/legal-notice" className="hover:text-green-400 transition-colors">Legal Notice</Link>
             <span className="text-gray-500">|</span>
-            <Link to="/risikohinweis" className="hover:text-green-400 transition-colors">Risk Warning</Link>
+            <Link to="/risk-disclosure" className="hover:text-green-400 transition-colors">Risk Disclaimer</Link>
             <span className="text-gray-500">|</span>
-            <Link to="/cookie-hinweis" className="hover:text-green-400 transition-colors">Cookie Policy</Link>
+            <Link to="/cookie-notice" className="hover:text-green-400 transition-colors">Cookie Policy</Link>
             <span className="text-gray-500">|</span>
-            <Link to="/agb" className="hover:text-green-400 transition-colors">Terms of Service</Link>
+            <Link to="/terms-and-conditions" className="hover:text-green-400 transition-colors">Terms and Conditions</Link>
           </div>
         </div>
         {/* Disclaimer */}

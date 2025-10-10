@@ -15,7 +15,7 @@ exports.handler = async function (event, context) {
       SMTP_SECURE: process.env.SMTP_SECURE,
       SMTP_USER: process.env.SMTP_USER,
       SMTP_PASS: process.env.SMTP_PASS ? "Set" : "Missing",
-      NOTIFICATION_EMAIL: process.env.NOTIFICATION_EMAIL || "martin-stone@multibankeurope.com",
+      NOTIFICATION_EMAIL: process.env.NOTIFICATION_EMAIL || "support@xdtradingacademy.com",
     });
 
     const formData = JSON.parse(event.body);
@@ -36,14 +36,14 @@ exports.handler = async function (event, context) {
 
     const mailOptions = {
       from: `"Website Form" <${process.env.SMTP_USER}>`,
-      to: process.env.NOTIFICATION_EMAIL || "martin-stone@multibankeurope.com",
-      subject: "Neue Kontaktformular-Anfrage",
+      to: process.env.NOTIFICATION_EMAIL || "support@xdtradingacademy.com",
+      subject: "New Contact Form Submission",
       html: `
-        <h1>Neue Registrierungsanfrage</h1>
-        <p><strong>Vorname:</strong> ${formData.firstName}</p>
-        <p><strong>Nachname:</strong> ${formData.lastName}</p>
-        <p><strong>E-Mail:</strong> ${formData.email}</p>
-        <p><strong>Telefon:</strong> ${formData.phone}</p>
+        <h1>New Registration Request</h1>
+        <p><strong>First Name:</strong> ${formData.firstName}</p>
+        <p><strong>Last Name:</strong> ${formData.lastName}</p>
+        <p><strong>Email:</strong> ${formData.email}</p>
+        <p><strong>Phone:</strong> ${formData.phone}</p>
       `,
     };
 

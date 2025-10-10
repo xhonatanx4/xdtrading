@@ -182,7 +182,7 @@ const PaymentSuccess: React.FC = () => {
                 Discord Support
               </a>
               <a
-                href="mailto:support@multibankeurope.com"
+                href="mailto:support@xdtradingacademy.com"
                 className="text-blue-400 hover:text-blue-300 transition-colors"
               >
                 Email Support

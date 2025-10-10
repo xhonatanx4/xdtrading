@@ -16,7 +16,7 @@ export interface CookiePreferences {
 }
 
 const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClose, isVisible }) => {
-  const [activeTab, setActiveTab] = useState<'Zustimmung' | 'Details' | 'Über Cookies'>('Zustimmung');
+  const [activeTab, setActiveTab] = useState<'Consent' | 'Details' | 'About Cookies'>('Consent');
   const [preferences, setPreferences] = useState<CookiePreferences>({
     essential: true,
     statistics: false,
@@ -72,7 +72,7 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClo
       marketing: false,
     });
     onRevoke();
-    setActiveTab('Zustimmung');
+    setActiveTab('Consent');
   };
 
   if (!isVisible) return null;
@@ -82,10 +82,10 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClo
       <div className="bg-gray-800 text-white rounded-lg shadow-xl w-full max-w-2xl overflow-hidden">
         <div className="flex border-b border-gray-700">
           <button
-            className={`flex-1 py-3 px-4 text-center text-sm font-semibold ${activeTab === 'Zustimmung' ? 'bg-gray-700' : 'hover:bg-gray-700'}`}
-            onClick={() => setActiveTab('Zustimmung')}
+            className={`flex-1 py-3 px-4 text-center text-sm font-semibold ${activeTab === 'Consent' ? 'bg-gray-700' : 'hover:bg-gray-700'}`}
+            onClick={() => setActiveTab('Consent')}
           >
-            Zustimmung
+            Consent
           </button>
           <button
             className={`flex-1 py-3 px-4 text-center text-sm font-semibold ${activeTab === 'Details' ? 'bg-gray-700' : 'hover:bg-gray-700'}`}
@@ -94,21 +94,19 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClo
             Details
           </button>
           <button
-            className={`flex-1 py-3 px-4 text-center text-sm font-semibold ${activeTab === 'Über Cookies' ? 'bg-gray-700' : 'hover:bg-gray-700'}`}
-            onClick={() => setActiveTab('Über Cookies')}
+            className={`flex-1 py-3 px-4 text-center text-sm font-semibold ${activeTab === 'About Cookies' ? 'bg-gray-700' : 'hover:bg-gray-700'}`}
+            onClick={() => setActiveTab('About Cookies')}
           >
-            Über Cookies
+            About Cookies
           </button>
         </div>
 
         <div className="p-6">
-          {activeTab === 'Zustimmung' && (
+          {activeTab === 'Consent' && (
             <div>
-              <h3 className="text-2xl font-bold mb-4">Diese Webseite verwendet Cookies</h3>
+              <h3 className="text-2xl font-bold mb-4">This website uses cookies</h3>
               <p className="text-gray-300 text-sm mb-6">
-                Wir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf unsere Website zu analysieren.
-                Außerdem geben wir Informationen zu Ihrer Verwendung unserer Website an unsere Partner für soziale Medien, Werbung und Analysen weiter.
-                Unsere Partner führen diese Informationen möglicherweise mit weiteren Daten zusammen, die Sie ihnen bereitgestellt haben oder die sie im Rahmen ihrer Nutzung der Dienste gesammelt haben.
+                We use cookies to personalize content, improve site performance, and analyze traffic. You can manage your preferences below. Essential cookies are always on for security and basic functionality.
               </p>
               <div className="flex flex-wrap gap-4 mb-6">
                 <label className="inline-flex items-center text-sm">
@@ -118,7 +116,7 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClo
                     checked={preferences.essential}
                     disabled
                   />
-                  <span className="ml-2 text-gray-300">Notwendig</span>
+                  <span className="ml-2 text-gray-300">Essential</span>
                 </label>
                 <label className="inline-flex items-center text-sm">
                   <input
@@ -127,7 +125,7 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClo
                     checked={preferences.statistics}
                     onChange={() => handleTogglePreference('statistics')}
                   />
-                  <span className="ml-2 text-gray-300">Statistiken</span>
+                  <span className="ml-2 text-gray-300">Analytics</span>
                 </label>
                 <label className="inline-flex items-center text-sm">
                   <input
@@ -144,7 +142,7 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClo
                   onClick={handleAllowSelected}
                   className="px-6 py-2 bg-gray-600 hover:bg-gray-700 rounded text-sm font-semibold transition-colors"
                 >
-                  Auswahl erlauben
+                  Allow selected
                 </button>
               </div>
             </div>
@@ -152,38 +150,33 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClo
 
           {activeTab === 'Details' && (
             <div>
-              <h3 className="text-2xl font-bold mb-4">Datenschutz Übersicht</h3>
+              <h3 className="text-2xl font-bold mb-4">Privacy overview</h3>
               <p className="text-gray-300 text-sm mb-4">
-                Diese Website verwendet Cookies, um Ihre Erfahrung beim Navigieren durch die Website zu verbessern. Von diesen werden die nach Bedarf kategorisierten Cookies in Ihrem Browser gespeichert, da sie für das Funktionieren der Grundfunktionen der Website unerlässlich sind. Wir verwenden auch Cookies von Drittanbietern, die uns helfen zu analysieren und zu verstehen, wie Sie diese Website nutzen. Diese Cookies werden nur mit Ihrer Zustimmung in Ihrem Browser gespeichert. Sie haben auch die Möglichkeit, diese Cookies abzulehnen. Wenn Sie sich jedoch von einigen dieser Cookies abmelden, kann dies Ihr Surferlebnis beeinträchtigen.
+                This website uses cookies to improve your experience. Essential cookies are required for core functionality. Analytics and marketing cookies are optional and only set with your consent.
               </p>
             </div>
           )}
 
-          {activeTab === 'Über Cookies' && (
+          {activeTab === 'About Cookies' && (
             <div>
-              <h3 className="text-2xl font-bold mb-4">Cookies sind kleine Textdateien</h3>
+              <h3 className="text-2xl font-bold mb-4">About cookies</h3>
               <p className="text-gray-300 text-sm mb-4">
-                Cookies sind kleine Textdateien, die von Webseiten verwendet werden, um die Benutzererfahrung effizienter zu gestalten.
-                Laut Gesetz können wir Cookies auf Ihrem Gerät speichern, wenn diese für den Betrieb dieser Seite unbedingt notwendig sind. Für alle anderen Cookie-Typen benötigen wir Ihre Erlaubnis.
-                Diese Seite verwendet unterschiedliche Cookie-Typen. Einige Cookies werden von Drittparteien platziert, die auf unseren Seiten erscheinen.
-                Sie können Ihre Einwilligung jederzeit von der Cookie-Erklärung auf unserer Website ändern oder widerrufen.
-                Erfahren Sie in unserer Datenschutzrichtlinie mehr darüber, wer wir sind, wie Sie uns kontaktieren können und wie wir personenbezogene Daten verarbeiten.
-                Bitte geben Sie Ihre Einwilligungs-ID und das Datum an, wenn Sie uns bezüglich Ihrer Einwilligung kontaktieren.
+                Cookies are small text files used by websites to make the user experience more efficient. We only use non-essential cookies with your consent. You can change or withdraw your consent at any time via this banner.
               </p>
               <ul className="space-y-2 text-sm">
                 <li>
-                  <Link to="/datenschutzerklaerung" className="text-blue-400 hover:underline">
-                    Datenschutzerklärung
+                  <Link to="/privacy-policy" className="text-blue-400 hover:underline">
+                    Privacy Policy
                   </Link>
                 </li>
                 <li>
-                  <Link to="/impressum" className="text-blue-400 hover:underline">
-                    Impressum
+                  <Link to="/legal-notice" className="text-blue-400 hover:underline">
+                    Legal Notice
                   </Link>
                 </li>
                 <li>
-                  <Link to="/cookie-hinweis" className="text-blue-400 hover:underline">
-                    Vollständiger Cookie-Hinweis
+                  <Link to="/cookie-notice" className="text-blue-400 hover:underline">
+                    Full Cookie Notice
                   </Link>
                 </li>
               </ul>
@@ -192,7 +185,7 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ onAccept, onRevoke, onClo
                 className="mt-6 px-4 py-2 text-sm bg-red-600 rounded hover:bg-red-700 transition-colors"
               >
                 <X className="inline-block mr-2" size={16} />
-                Einwilligung widerrufen
+                Withdraw consent
               </button>
             </div>
           )}

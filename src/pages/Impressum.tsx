@@ -4,73 +4,51 @@ const Impressum: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-900 text-white py-12">
       <div className="max-w-4xl mx-auto px-4">
-        <h1 className="text-3xl font-bold mb-8">Impressum</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-10 text-center bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-emerald-300">Legal Notice (Imprint)</h1>
         <div className="prose prose-invert max-w-none space-y-8">
-          <p className="text-gray-300 text-sm">
-            (Standortabhängige Transparenz- und Lizenzangaben nach § 5 TMG & § 2 DL-InfoV)
-          </p>
+          <section className="bg-gray-800/50 p-6 rounded-lg border border-white/10 shadow-lg shadow-black/20">
+            <p className="text-gray-300"><strong>Operator:</strong> XDTRADING</p>
+            <p className="text-gray-300"><strong>Website:</strong> <a href="https://xdtradingacademy.com" className="text-blue-400 hover:text-blue-300">https://xdtradingacademy.com</a></p>
+            <p className="text-gray-300"><strong>Email:</strong> <a href="mailto:support@xdtradingacademy.com" className="text-blue-400 hover:text-blue-300">support@xdtradingacademy.com</a></p>
+            <p className="text-gray-300">No physical office or telephone contact. We operate globally as an online educational service.</p>
+            <p className="text-gray-300"><strong>Responsible Person:</strong> [Your Full Name]</p>
+          </section>
 
           <div className="bg-gray-800/50 p-6 rounded-lg">
-            <h2 className="text-xl font-semibold mb-4">MEX Asset Management GmbH</h2>
-            <p className="text-gray-300 mb-2">Wertpapierinstitut gemäß §15 WpIG</p>
-            <address className="text-gray-300 not-italic">
-              Alfred-Herrhausen-Allee 3–5<br />
-              65760 Eschborn, Taunus<br />
-              Deutschland
-            </address>
-            <div className="mt-4 space-y-2 text-gray-300">
-              <p>Telefon: [bitte ergänzen]</p>
-              <p>E-Mail: <a href="mailto:cs@multibankeurope.com" className="text-blue-400 hover:text-blue-300">cs@multibankeurope.com</a></p>
-              <p>Web: <a href="https://multibankeurope.com" className="text-blue-400 hover:text-blue-300">multibankeurope.com</a></p>
-            </div>
-            <div className="mt-4 space-y-2 text-gray-300">
-              <p>Vertretungsberechtigte Geschäftsführer: [Namen eintragen]</p>
-              <p>Handelsregister: Amtsgericht Frankfurt am Main</p>
-              <p>BaFin-ID: 10119375</p>
-              <p>Bank-Nr.: 119375</p>
-            </div>
+            <h2 className="text-xl font-semibold mb-4">Contact</h2>
+            <p className="text-gray-300 mb-2">Email: <a href="mailto:support@xdtradingacademy.com" className="text-blue-400 hover:text-blue-300">support@xdtradingacademy.com</a></p>
+            <p className="text-gray-300">Website: <a href="https://xdtrading.com" className="text-blue-400 hover:text-blue-300">xdtrading.com</a> / <a href="https://xdtradingacademy.com" className="text-blue-400 hover:text-blue-300">xdtradingacademy.com</a></p>
           </div>
 
           <div className="bg-gray-800/50 p-6 rounded-lg">
-            <h2 className="text-xl font-semibold mb-4">MEX Atlantic Corporation</h2>
-            <p className="text-gray-300 mb-2">Registriert unter der Firmennummer: 354945</p>
-            <address className="text-gray-300 not-italic">
-              Sitz: 4th Floor, Harbour Place,<br />
-              103 South Church Street<br />
-              PO Box 10240<br />
-              Grand Cayman KY1-1002<br />
-              Cayman Islands
-            </address>
-          </div>
-
-          <div className="bg-gray-800/50 p-6 rounded-lg">
-            <h2 className="text-xl font-semibold mb-4">Zuständige Aufsichtsbehörde für MEX Asset Management GmbH:</h2>
-            <p className="text-gray-300 mb-2">Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)</p>
-            <address className="text-gray-300 not-italic">
-              Graurheindorfer Straße 108<br />
-              53117 Bonn, Deutschland
-            </address>
-            <p className="mt-2">
-              <a href="https://www.bafin.de" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">www.bafin.de</a>
-            </p>
-          </div>
-
-          <div className="bg-gray-800/50 p-6 rounded-lg">
-            <h2 className="text-xl font-semibold mb-4">Haftungsausschluss:</h2>
-            <p className="text-gray-300 mb-4">
-              Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
-            </p>
+            <h2 className="text-xl font-semibold mb-4">Disclaimer</h2>
             <p className="text-gray-300">
-              Die Informationen auf dieser Website dienen ausschließlich Informationszwecken und stellen keine Anlageberatung oder Aufforderung zum Handel mit Finanzinstrumenten dar.
+              All information on this website is provided for educational purposes only and does not constitute financial advice. We do not assume liability for the content of external links; the respective providers are responsible for their content.
             </p>
           </div>
 
-          <div className="bg-gray-800/50 p-6 rounded-lg">
-            <h2 className="text-xl font-semibold mb-4">Urheberrecht:</h2>
+          
+
+          <section className="bg-gray-800/50 p-6 rounded-lg border border-white/10 shadow-lg shadow-black/20">
+            <h2 className="text-xl md:text-2xl font-semibold mb-3 pb-2 border-b border-white/10">Liability for Content</h2>
             <p className="text-gray-300">
-              Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet.
+              We strive to keep all information on this website up to date and accurate. However, we do not assume liability for completeness, accuracy, or timeliness. All content is provided for educational purposes only and does not constitute financial advice.
             </p>
-          </div>
+          </section>
+
+          <section className="bg-gray-800/50 p-6 rounded-lg border border-white/10 shadow-lg shadow-black/20">
+            <h2 className="text-xl md:text-2xl font-semibold mb-3 pb-2 border-b border-white/10">Liability for External Links</h2>
+            <p className="text-gray-300">
+              Our website may contain links to third-party websites. We have no control over the content of those sites and are not responsible for them. The respective operators are solely responsible for their content.
+            </p>
+          </section>
+
+          <section className="bg-gray-800/50 p-6 rounded-lg border border-white/10 shadow-lg shadow-black/20">
+            <h2 className="text-xl md:text-2xl font-semibold mb-3 pb-2 border-b border-white/10">Copyright</h2>
+            <p className="text-gray-300">
+              All texts, graphics, images, and other materials on this website are the intellectual property of XDTRADING unless otherwise noted. Any reproduction, modification, or distribution requires prior written permission.
+            </p>
+          </section>
         </div>
       </div>
     </div>
