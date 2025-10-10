@@ -32,9 +32,12 @@ Crea un file `.env.local` nella root del progetto:
 
 ```bash
 # Volet Payment System Configuration
-REACT_APP_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
-REACT_APP_VOLET_SCI_NAME=your-store-name
-REACT_APP_VOLET_SCI_PASSWORD=your-sci-password
+VITE_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
+VITE_VOLET_SCI_NAME=your-store-name
+VITE_VOLET_SCI_PASSWORD=your-sci-password
+VITE_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
+VITE_VOLET_SCI_NAME=your-store-name
+VITE_VOLET_SCI_PASSWORD=your-sci-password
 ```
 
 ### **2. Configurazione Netlify**

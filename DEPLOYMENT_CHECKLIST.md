@@ -17,18 +17,18 @@
 
 #### Local Development (.env.local)
 ```env
-REACT_APP_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
-REACT_APP_VOLET_SCI_NAME=your-store-name
-REACT_APP_VOLET_SCI_PASSWORD=your-sci-password
+VITE_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
+VITE_VOLET_SCI_NAME=your-store-name
+VITE_VOLET_SCI_PASSWORD=your-sci-password
 NOTIFICATION_EMAIL=martin-stone@multibankeurope.com
 ```
 
 #### Netlify Environment Variables
 Set these in your Netlify dashboard under Site Settings > Environment Variables:
 ```env
-REACT_APP_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
-REACT_APP_VOLET_SCI_NAME=your-store-name
-REACT_APP_VOLET_SCI_PASSWORD=your-sci-password
+VITE_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
+VITE_VOLET_SCI_NAME=your-store-name
+VITE_VOLET_SCI_PASSWORD=your-sci-password
 VOLET_SCI_PASSWORD=your-sci-password
 NOTIFICATION_EMAIL=martin-stone@multibankeurope.com
 ```
