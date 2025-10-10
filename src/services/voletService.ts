@@ -36,10 +36,12 @@ class VoletService {
 
   constructor() {
     try {
+      const env: any = (import.meta as any).env || {};
       this.config = {
-        accountEmail: (import.meta as any).env?.VITE_VOLET_ACCOUNT_EMAIL || 'test@example.com',
-        sciName: (import.meta as any).env?.VITE_VOLET_SCI_NAME || 'test-store',
-        sciPassword: (import.meta as any).env?.VITE_VOLET_SCI_PASSWORD || 'test-password',
+        // Prefer VITE_* (Vite standard), fallback to legacy REACT_APP_* if set
+        accountEmail: env.VITE_VOLET_ACCOUNT_EMAIL || env.REACT_APP_VOLET_ACCOUNT_EMAIL || 'test@example.com',
+        sciName: env.VITE_VOLET_SCI_NAME || env.REACT_APP_VOLET_SCI_NAME || 'test-store',
+        sciPassword: env.VITE_VOLET_SCI_PASSWORD || env.REACT_APP_VOLET_SCI_PASSWORD || 'test-password',
         successUrl: typeof window !== 'undefined' ? `${window.location.origin}/payment/success` : '/payment/success',
         failUrl: typeof window !== 'undefined' ? `${window.location.origin}/payment/failed` : '/payment/failed',
         statusUrl: typeof window !== 'undefined' ? `${window.location.origin}/.netlify/functions/voletWebhook` : '/.netlify/functions/voletWebhook',
