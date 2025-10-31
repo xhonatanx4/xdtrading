@@ -1,7 +1,7 @@
 import React from 'react';
 import { BookOpen, Target, Users, Crown } from 'lucide-react';
 
-const MultiBankAdvantages: React.FC = () => {
+const XDTradingAdvantages: React.FC = () => {
   const advantages = [
     {
       icon: BookOpen,
@@ -58,4 +58,5 @@ const MultiBankAdvantages: React.FC = () => {
   );
 };
 
-export default MultiBankAdvantages; 
+export default XDTradingAdvantages;
+

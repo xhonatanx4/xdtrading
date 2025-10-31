@@ -13,12 +13,12 @@ const RegulierungenBanner: React.FC = () => {
             <span className="gradient-text-blue">Regulations</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-300 mb-8">
-            Die MultiBank Group besteht aus mehreren Einheiten, die von mehr als 17+ 
-            Finanzaufsichtsbehörden auf 5 Kontinenten streng reguliert werden. Dadurch wird 
-            sichergestellt, dass unsere Kunden volle Transparenz und Sicherheit für ihre Gelder erhalten.
+            Unser professionelles Handelsbildungskurs bietet Ihnen umfassende Strategien und Techniken, 
+            die von erfahrenen Tradern entwickelt wurden. Mit lebenslangem Zugang können Sie in Ihrem eigenen Tempo lernen 
+            und Ihre Handelsfähigkeiten kontinuierlich verbessern.
           </p>
           <p className="text-lg md:text-xl text-gray-300">
-            Erfahren Sie mehr über unsere verschiedenen regulierten Einheiten.
+            Erfahren Sie mehr über unsere verschiedenen Kursmodule und praktischen Anwendungen.
           </p>
         </div>
         <div className="lg:w-1/2 flex justify-center lg:justify-end">

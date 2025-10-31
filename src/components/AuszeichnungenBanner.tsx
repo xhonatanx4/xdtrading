@@ -13,7 +13,9 @@ const AuszeichnungenBanner: React.FC = () => {
             <span className="gradient-text-blue">Auszeichnungen</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-300 mb-8">
-            Seit unserer Gründung wurde die MultiBank Group von der globalen Finanzindustrie für unsere Bemühungen um einen erstklassigen Service als Broker anerkannt. Wir haben eine Vielzahl von Auszeichnungen von angesehenen Finanzinstituten, Medienorganisationen und Publikationen erhalten.
+            Seit unserer Gründung haben wir tausenden von Tradern geholfen, ihre Ziele zu erreichen. Unsere 
+            VIP-Signale haben eine Erfolgsquote von über 85%, und unsere wachsende Community von 2000+ aktiven Mitgliedern 
+            teilt täglich Wissen und Erfolgsgeschichten.
           </p>
         </div>
         <div className="lg:w-1/2 flex justify-center lg:justify-end">

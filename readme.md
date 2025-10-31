@@ -1,6 +1,6 @@
-# MultiBank Europe Web Application
+# XD Trading Web Application
 
-A modern, high-performance React web application for MultiBank Europe, featuring advanced security, accessibility, and performance optimizations.
+A modern, high-performance React web application for XD Trading, featuring advanced security, accessibility, and performance optimizations.
 
 ## 🚀 Features
 
@@ -160,7 +160,7 @@ class ErrorBoundary extends Component<Props, State> {
 ### Code Splitting
 Pages are lazy-loaded for better performance:
 ```typescript
-const WarumMultiBank = React.lazy(() => import('./pages/WarumMultiBank'));
+const WhyXDTrading = React.lazy(() => import('./pages/WhyXDTrading'));
 ```
 
 ### Component Memoization
@@ -297,7 +297,7 @@ interface LoadingSpinnerProps {
 
 ## 📄 License
 
-This project is proprietary software owned by MultiBank Europe.
+This project is proprietary software owned by XD Trading.
 
 ## 🆘 Support
 
@@ -306,5 +306,3 @@ For support and questions, please contact the development team or create an issu
 ---
 
 **Built with ❤️ using modern web technologies**
-#   x d t r a d i n g  
- 

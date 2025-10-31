@@ -18,8 +18,8 @@ const PageBanner: React.FC<PageBannerProps> = ({ title }) => {
       <div className="absolute inset-0 bg-black/60"></div> {/* Overlay for better text readability */}
       <h1 className="relative z-10 text-4xl md:text-5xl font-bold text-white max-w-4xl mx-auto px-4">
         {title.split(' ').map((word, index) => (
-          word.toLowerCase() === 'multibank' || word.toLowerCase() === 'regulierungen' || word.toLowerCase() === 'auszeichnungen' || word.toLowerCase() === 'konten' ? 
-            <span key={index} className="gradient-text-blue">{word} </span> : 
+          word.toLowerCase() === 'xd' || word.toLowerCase() === 'trading' ? 
+            <span key={index} className="gradient-text-green">{word} </span> : 
             <span key={index}>{word} </span>
         ))}
       </h1>

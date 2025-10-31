@@ -1,5 +1,4 @@
 import React from 'react';
-import whyMultibank from '../assets/uber/1/why-multibank.webp';
 import accountFunding from '../assets/uber/1/account-funding.webp';
 import support from '../assets/uber/1/support.webp';
 import rocket from '../assets/uber/1/rocket.webp';

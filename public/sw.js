@@ -1,4 +1,4 @@
-const CACHE_NAME = 'multibank-cache-v1';
+const CACHE_NAME = 'xd-trading-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',

@@ -1,12 +1,6 @@
 import React from 'react';
 import 'swiper/css';
 import { User, Bot, Gem, Briefcase, Laptop, TrendingUp, BookOpen, Users, Crown, DollarSign, GraduationCap, Bell, BarChart3 } from 'lucide-react';
-import multibankLogo from '../assets/multibank-logo-new.svg';
-import sponsor1 from '../assets/sponsors/multibank-io-logo.svg';
-import sponsor2 from '../assets/sponsors/mex-exchange-logo.svg';
-import sponsor3 from '../assets/sponsors/mbg_token-d.webp';
-import sponsor4 from '../assets/sponsors/multibank-fx-logo.svg';
-import sponsor5 from '../assets/sponsors/rwa-logo.svg';
 import heavilyRegulated from '../assets/icons/heavily-regulated.webp';
 import bestPrice from '../assets/icons/best-price.webp';
 import imgLeverageUp from '../assets/icons/img-leverage-up.webp';

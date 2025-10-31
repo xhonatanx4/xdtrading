@@ -1,65 +1,9 @@
 import React from 'react';
 import { Target, TrendingUp, Rocket, GraduationCap, Gem, Bot, Star, Smartphone, Trophy } from 'lucide-react';
-// Removed direct image imports as they are now in the public folder
-// import award1 from '../assets/awards/1.webp';
-// import award2 from '../assets/awards/2.webp';
-// import award3 from '../assets/awards/3.webp';
-// import award4 from '../assets/awards/4.webp';
-// import award5 from '../assets/awards/5.webp';
-// import award6 from '../assets/awards/6.webp';
-// import award7 from '../assets/awards/7.webp';
-// import award8 from '../assets/awards/8.webp';
-// Flag imports
-import at from '../assets/flags/at.webp';
-import de from '../assets/flags/de.webp';
-import us from '../assets/flags/us.webp';
-import mx from '../assets/flags/mx.webp';
-import ky from '../assets/flags/ky.webp';
-import vg from '../assets/flags/vg.webp';
-import ie from '../assets/flags/ie.webp';
-import br from '../assets/flags/br.webp';
-import tr from '../assets/flags/tr.webp';
-import cy from '../assets/flags/cy.webp';
-import inFlag from '../assets/flags/in.webp';
-import th from '../assets/flags/th.webp';
-import ae from '../assets/flags/ae.webp';
-import au from '../assets/flags/au.webp';
-import sc from '../assets/flags/sc.webp';
-import mu from '../assets/flags/mu.webp';
-import zh from '../assets/flags/zh.webp';
-import hk from '../assets/flags/hk.webp';
-import ph from '../assets/flags/ph.webp';
-import sg from '../assets/flags/sg.webp';
-import vu from '../assets/flags/vu.webp';
 import stripedBg from '../assets/striped-background-colored.webp';
 
-const licenses = [
-  { flag: at, company: 'MEX Asset Management', country: 'Austria', authority: 'FMA' },
-  { flag: de, company: 'MEX Asset Management', country: 'Germany', authority: 'BaFIN' },
-  { flag: us, company: 'MultiBank Exchange', country: 'United States of America' },
-  { flag: mx, company: 'MultiBank Latam', country: 'Mexico' },
-  { flag: ky, company: 'MEX Atlantic Corporation', country: 'Cayman Islands', authority: 'CIMA' },
-  { flag: vg, company: 'MultiBank FX International', country: 'BVI', authority: 'FSC' },
-  { flag: ie, company: 'MEX Capital Finance', country: 'Ireland' },
-  { flag: br, company: 'MultiBank Brasil', country: 'Brasil' },
-  { flag: tr, company: 'MEX Technology', country: 'Turkey' },
-  { flag: cy, company: 'MEX Prime', country: 'Cyprus' },
-  { flag: cy, company: 'MEX Europe Ltd', country: 'Cyprus', authority: 'CYSEC' },
-  { flag: inFlag, company: 'MEXD WORLDWIDE', country: 'INDIA', authority: 'IFU' },
-  { flag: th, company: 'MultiBank Thailand', country: 'Thailand' },
-  { flag: ae, company: 'MEX Global Financial Services', country: 'United Arab Emirates', authority: 'SCA' },
-  { flag: ae, company: 'MultiBank Group HQ', country: 'United Arab Emirates' },
-  { flag: ae, company: 'MEX Digital FZE', country: 'United Arab Emirates', authority: 'VARA' },
-  { flag: au, company: 'MEX Exchange', country: 'Australia', authority: 'ASIC' },
-  { flag: au, company: 'MEX Digital', country: 'Australia', authority: 'AUSTRAC' },
-  { flag: sc, company: 'MB Group Limited', country: 'Seychelles', authority: 'FSAS' },
-  { flag: mu, company: 'MEXFM Securities Ltd', country: 'Mauritius', authority: 'FSCM' },
-  { flag: zh, company: 'IKON Financial', country: 'Tianjin, China', authority: 'TFG' },
-  { flag: hk, company: 'MEX Fintech', country: 'Hong Kong' },
-  { flag: ph, company: 'MultiBank Philippines', country: 'Philippines' },
-  { flag: sg, company: 'MEX Global Markets', country: 'Singapore', authority: 'MAS' },
-  { flag: vu, company: 'MEX Pacific', country: 'Vanuatu', authority: 'VFSC' },
-];
+// Licenses section removed - not relevant for XD Trading
+const licenses = [];
 
 const awards = [
   { img: '/assets/awards/1.webp', title: 'Most Valuable Asset-Backed Token 2025' },

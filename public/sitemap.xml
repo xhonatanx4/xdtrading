@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage - High priority and frequent updates -->
   <url>
-    <loc>https://multibankeurope.com/</loc>
+    <loc>https://xdtrading.com/</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -10,25 +10,25 @@
 
   <!-- Key informational pages - Weekly updates -->
   <url>
-    <loc>https://multibankeurope.com/warum-multibank</loc>
+    <loc>https://xdtrading.com/why-xd-trading</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://multibankeurope.com/regulierungen</loc>
+    <loc>https://xdtrading.com/courses</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://multibankeurope.com/auszeichnungen</loc>
+    <loc>https://xdtrading.com/vip-signals</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://multibankeurope.com/konten-vergleichen</loc>
+    <loc>https://xdtrading.com/community</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -36,7 +36,7 @@
 
   <!-- Contact and legal pages - Monthly updates -->
   <url>
-    <loc>https://multibankeurope.com/kontakt</loc>
+    <loc>https://xdtrading.com/contact</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -72,7 +72,7 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://multibankeurope.com/swap-free-handelskontovereinbarung</loc>
+    <loc>https://xdtrading.com/swap-free-handelskontovereinbarung</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>

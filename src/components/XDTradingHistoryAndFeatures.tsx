@@ -1,6 +1,6 @@
 import React from 'react';
 
-const MultiBankHistoryAndFeatures: React.FC = () => {
+const XDTradingHistoryAndFeatures: React.FC = () => {
   return (
     <section className="py-16 px-4 gradient-bg">
       <div className="max-w-7xl mx-auto">
@@ -64,4 +64,5 @@ const MultiBankHistoryAndFeatures: React.FC = () => {
   );
 };
 
-export default MultiBankHistoryAndFeatures; 
+export default XDTradingHistoryAndFeatures;
+

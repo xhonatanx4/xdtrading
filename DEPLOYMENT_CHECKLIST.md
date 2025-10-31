@@ -20,7 +20,7 @@
 VITE_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
 VITE_VOLET_SCI_NAME=your-store-name
 VITE_VOLET_SCI_PASSWORD=your-sci-password
-NOTIFICATION_EMAIL=martin-stone@multibankeurope.com
+NOTIFICATION_EMAIL=support@xdtrading.com
 ```
 
 #### Netlify Environment Variables
@@ -30,7 +30,7 @@ VITE_VOLET_ACCOUNT_EMAIL=your-volet-account@example.com
 VITE_VOLET_SCI_NAME=your-store-name
 VITE_VOLET_SCI_PASSWORD=your-sci-password
 VOLET_SCI_PASSWORD=your-sci-password
-NOTIFICATION_EMAIL=martin-stone@multibankeurope.com
+NOTIFICATION_EMAIL=support@xdtrading.com
 ```
 
 ### 3. GitHub Repository Setup
@@ -136,7 +136,7 @@ If you encounter any issues during deployment:
 1. Check the [Volet Integration Guide](VOLET_INTEGRATION.md)
 2. Review Netlify function logs
 3. Verify environment variable configuration
-4. Contact: martin-stone@multibankeurope.com
+4. Contact: support@xdtrading.com
 
 ---
 

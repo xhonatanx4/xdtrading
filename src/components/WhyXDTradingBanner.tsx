@@ -2,7 +2,7 @@ import React from 'react';
 import uberBanner from '../assets/uber/banner.webp';
 import stripedBgAlt from '../assets/striped-bg-alt.webp';
 
-const WarumMultiBankBanner: React.FC = () => {
+const WhyXDTradingBanner: React.FC = () => {
   return (
     <div 
       className="relative w-full min-h-[500px] flex items-center justify-center text-center py-16 px-4 pt-32 gradient-bg"
@@ -10,18 +10,18 @@ const WarumMultiBankBanner: React.FC = () => {
       <div className="container mx-auto flex flex-col lg:flex-row items-center justify-between z-10 relative">
         <div className="lg:w-1/2 text-left mb-10 lg:mb-0 lg:pr-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            Warum <span className="gradient-text-blue">MultiBank Group</span>
+            Warum <span className="gradient-text-green">XD Trading</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-300 max-w-2xl">
-            Seit unserer Gründung haben wir unsere Autorität in der Welt des Handels erfolgreich etabliert. 
-            Auf unserem Weg haben wir die Devisenindustrie maßgeblich beeinflusst und geformt und 
-            setzen weiterhin herausragende Produkte, Dienstleistungen und Handelsplattformen ein.
+            Seit unserer Gründung haben wir uns erfolgreich als führende Handelsbildungsplattform etabliert. 
+            Wir helfen Tradern dabei, konsistente Gewinne durch professionelle Bildung, präzise Signale und 
+            eine starke Community zu erzielen.
           </p>
         </div>
         <div className="lg:w-1/2 flex justify-center lg:justify-end">
           <img 
             src={uberBanner} 
-            alt="MultiBank Banner" 
+            alt="XD Trading Banner" 
             className="max-w-full h-auto object-contain animate-fadeInUp"
             style={{ maxWidth: '500px' }}
           />
@@ -47,4 +47,5 @@ const WarumMultiBankBanner: React.FC = () => {
   );
 };
 
-export default WarumMultiBankBanner; 
+export default WhyXDTradingBanner;
+

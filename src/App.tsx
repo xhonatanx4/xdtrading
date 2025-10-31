@@ -11,7 +11,7 @@ import AwardsTimeline from './sections/AwardsTimeline';
 import ParallaxVideoSection from './sections/ParallaxVideoSection';
 import PageBanner from './components/PageBanner';
 import GlobalPaymentOptions from './components/GlobalPaymentOptions';
-import WarumMultiBankBanner from './components/WarumMultiBankBanner';
+import WhyXDTradingBanner from './components/WhyXDTradingBanner';
 import RegulierungenBanner from './components/RegulierungenBanner';
 import AuszeichnungenBanner from './components/AuszeichnungenBanner';
 import KontenVergleichenBanner from './components/KontenVergleichenBanner';
@@ -30,7 +30,7 @@ import SkipNavigation from './components/SkipNavigation';
 import CallToActionSection from './components/CallToActionSection';
 
 // Lazy load pages for code splitting
-const WarumMultiBank = React.lazy(() => import('./pages/WarumMultiBank'));
+const WhyXDTrading = React.lazy(() => import('./pages/WhyXDTrading'));
 const Regulierungen = React.lazy(() => import('./pages/Regulierungen'));
 const Auszeichnungen = React.lazy(() => import('./pages/Auszeichnungen'));
 const KontenVergleichen = React.lazy(() => import('./pages/KontenVergleichen'));
@@ -191,7 +191,7 @@ function App() {
           <Route path="/why-xd-trading" element={
             <ErrorBoundary>
               <Suspense fallback={<PageLoadingFallback />}>
-                <WarumMultiBank />
+                <WhyXDTrading />
               </Suspense>
             </ErrorBoundary>
           } />

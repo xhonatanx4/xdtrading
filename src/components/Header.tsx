@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { Menu, X } from 'lucide-react';
 import { useNavigate, Link, useLocation } from 'react-router-dom';
-import multibankLogo from '../assets/multibank-logo-eu-new-updated.svg';
 import bmwImg from '../assets/bmw.webp';
 
 // XD Trading Logo Placeholder (SVG inline per ora)

@@ -3,7 +3,7 @@ User-agent: *
 Disallow:
 
 # Sitemap location
-Sitemap: https://multibankeurope.com/sitemap.xml
+Sitemap: https://xdtrading.com/sitemap.xml
 
 # Disallow sensitive areas
 Disallow: /admin/

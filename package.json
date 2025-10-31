@@ -1,8 +1,8 @@
 {
-  "name": "multibank-europe-website",
+  "name": "xd-trading-website",
   "private": true,
   "version": "1.0.0",
-  "description": "MultiBank Europe official website with Volet payment integration",
+  "description": "XD Trading official website with Volet payment integration",
   "type": "module",
   "scripts": {
     "dev": "vite",
