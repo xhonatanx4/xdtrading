@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage - High priority and frequent updates -->
   <url>
-    <loc>https://xdtrading.com/</loc>
+    <loc>https://xdtradingacademy.com/</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -10,25 +10,25 @@
 
   <!-- Key informational pages - Weekly updates -->
   <url>
-    <loc>https://xdtrading.com/why-xd-trading</loc>
+    <loc>https://xdtradingacademy.com/why-xd-trading</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/courses</loc>
+    <loc>https://xdtradingacademy.com/courses</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/vip-signals</loc>
+    <loc>https://xdtradingacademy.com/vip-signals</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/community</loc>
+    <loc>https://xdtradingacademy.com/community</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -36,43 +36,43 @@
 
   <!-- Contact and legal pages - Monthly updates -->
   <url>
-    <loc>https://xdtrading.com/contact</loc>
+    <loc>https://xdtradingacademy.com/contact</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/privacy-policy</loc>
+    <loc>https://xdtradingacademy.com/privacy-policy</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/legal-notice</loc>
+    <loc>https://xdtradingacademy.com/legal-notice</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/risk-disclosure</loc>
+    <loc>https://xdtradingacademy.com/risk-disclosure</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/cookie-notice</loc>
+    <loc>https://xdtradingacademy.com/cookie-notice</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/terms-and-conditions</loc>
+    <loc>https://xdtradingacademy.com/terms-and-conditions</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://xdtrading.com/swap-free-handelskontovereinbarung</loc>
+    <loc>https://xdtradingacademy.com/swap-free-handelskontovereinbarung</loc>
     <lastmod>2025-06-19T12:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
