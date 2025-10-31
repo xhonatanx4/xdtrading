@@ -176,7 +176,7 @@ const Header: React.FC = React.memo(() => {
                   </a>
                   <div className="flex gap-2">
                     <a 
-                      href="https://t.me/xdtradingoo" 
+                      href="https://t.me/xdtradingacademy" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="flex-1 bg-blue-500 hover:bg-blue-600 text-white font-medium py-2 px-3 rounded-lg transition-all text-sm"

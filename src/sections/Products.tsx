@@ -328,7 +328,7 @@ const Products: React.FC = () => {
                       Join Telegram Channel
                       <ArrowRight className="ml-2" size={20} />
                     </button>
-                    <button className="outline-button flex items-center justify-center" onClick={() => window.open('https://t.me/xdtradingoo', '_blank')}>
+                    <button className="outline-button flex items-center justify-center" onClick={() => window.open('https://t.me/xdtradingacademy', '_blank')}>
                       Join Telegram Group
                       <ArrowRight className="ml-2" size={20} />
                     </button>

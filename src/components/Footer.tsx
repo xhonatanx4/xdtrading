@@ -60,7 +60,7 @@ const Footer: React.FC<FooterProps> = ({ isHomePage = false }) => {
                 <Send size={16} />
                 <span>Telegram Channel</span>
               </a>
-              <a href="https://t.me/xdtradingoo" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 text-gray-300 hover:text-blue-400 transition-colors">
+              <a href="https://t.me/xdtradingacademy" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 text-gray-300 hover:text-blue-400 transition-colors">
                 <Users size={16} />
                 <span>Telegram Group</span>
               </a>

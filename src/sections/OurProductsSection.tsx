@@ -28,7 +28,7 @@ const OurProductsSection: React.FC = () => {
       borderColor: 'border-green-500',
       bgColor: 'bg-green-500/10',
       members: '500+',
-      link: 'https://t.me/xdtradingoo'
+      link: 'https://t.me/xdtradingacademy'
     },
     {
       name: 'VIP Signals',
