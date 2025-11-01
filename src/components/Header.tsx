@@ -67,7 +67,7 @@ const Header: React.FC = React.memo(() => {
   }, []);
 
   const navLinks = useMemo(() => [
-    { name: 'Why XD Trading', href: '/why-xd-trading' },
+    { name: 'XD Trading', href: '/why-xd-trading' },
     { name: 'Courses', href: '/courses' },
     { name: 'VIP Signals', href: '/vip-signals' },
     { name: 'Discord Community', href: '/community' },

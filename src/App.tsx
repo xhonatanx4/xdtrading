@@ -126,7 +126,7 @@ function App() {
   const getPageTitle = () => {
     switch (location.pathname) {
       case '/why-xd-trading':
-        return 'Why XD Trading';
+        return 'XD Trading';
       case '/courses':
         return 'Trading Courses';
       case '/vip-signals':
@@ -169,7 +169,7 @@ function App() {
       >
         {location.pathname === '/why-xd-trading' ? (
           <ErrorBoundary>
-            <PageBanner title="Why XD Trading" />
+            <PageBanner title="XD Trading" />
           </ErrorBoundary>
         ) : location.pathname === '/courses' ? (
           <ErrorBoundary>

@@ -41,7 +41,7 @@ const Footer: React.FC<FooterProps> = ({ isHomePage = false }) => {
           <div>
             <h3 className="text-white font-semibold mb-4">Quick Links</h3>
             <div className="space-y-2">
-              <Link to="/why-xd-trading" className="block text-gray-300 hover:text-green-400 transition-colors">Why XD Trading</Link>
+              <Link to="/why-xd-trading" className="block text-gray-300 hover:text-green-400 transition-colors">XD Trading</Link>
               <Link to="/courses" className="block text-gray-300 hover:text-green-400 transition-colors">Trading Course</Link>
               <Link to="/vip-signals" className="block text-gray-300 hover:text-green-400 transition-colors">VIP Signals</Link>
               <Link to="/community" className="block text-gray-300 hover:text-green-400 transition-colors">Community</Link>

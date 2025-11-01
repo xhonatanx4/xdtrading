@@ -17,8 +17,8 @@ const MetaTags: React.FC<MetaTagsProps> = ({ title, description }) => {
     // Update title and description based on the current route
     switch (location.pathname) {
       case '/why-xd-trading':
-        pageTitle = 'Why XD Trading — Our Mission and Advantages';
-        pageDescription = 'Why XD Trading? Modern trading education, tools, and community support for your success.';
+        pageTitle = 'XD Trading — Our Mission and Advantages';
+        pageDescription = 'XD Trading offers modern trading education, tools, and community support for your success.';
         break;
       case '/courses':
         pageTitle = 'Trading Courses — From Beginner to Advanced';
